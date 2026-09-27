@@ -1,6121 +1,3979 @@
 [
   [
-    "2222222",
     "fffffff",
-    "2222222",
     "fffffff",
-    "Y222222",
-    "Yf0RRff"
-  ], [
-    "2222222",
     "fffffff",
-    "2222222",
     "fffffff",
-    "2222222",
-    "YYfRR0f"
+    "f0fffff",
+    "Yf0RR1Y"
   ], [
-    "2222222",
     "fffffff",
-    "2222222",
-    "ffffYff",
-    "220RR22",
-    "YYYRRf1"
-  ], [
-    "22222f2",
-    "fffff2f",
-    "22252f2",
-    "fff102f",
-    "425YRf3",
-    "YfYRR31"
-  ], [
-    "2222222",
     "fffffff",
-    "2222222",
-    "fff0Yff",
-    "Y22RR22",
-    "YfYRR1f"
-  ], [
-    "f222222",
-    "2ffffff",
-    "f2224f2",
-    "24f0Y2f",
-    "f4YRRf2",
-    "Y5YRR1f"
-  ], [
-    "2222222",
     "fffffff",
-    "2222222",
-    "fffYYff",
-    "222RR12",
-    "YfYRRf1"
-  ], [
-    "22222f2",
-    "fffff2f",
-    "2222Yf2",
-    "fff0Y2f",
-    "f24RRf2",
-    "YfYRR2f"
-  ], [
-    "f222222",
-    "2ffffff",
-    "f222422",
-    "2ff0Yff",
-    "f22RR23",
-    "Y5YRRfY"
-  ], [
-    "2222222",
     "fffffff",
-    "2223242",
-    "fff302f",
-    "Y2RfR54",
-    "YfYRR3Y"
+    "f0ffYff",
+    "Yf0RR1f"
   ], [
-    "222ff22",
-    "fff2fff",
-    "222ff22",
-    "fff22ff",
-    "54R3R2f",
-    "YYYRRfY"
-  ], [
-    "2222222",
     "fffffff",
-    "22R2222",
-    "ffYffff",
-    "Y2RfR45",
-    "YfYRR4Y"
-  ], [
-    "2222222",
     "fffffff",
-    "22R2222",
-    "ffYffff",
-    "22R0R22",
-    "YYYRR1Y"
-  ], [
-    "2212222",
-    "ffYffff",
-    "22R2f42",
-    "ffYf24f",
-    "12RfR45",
-    "YfYRR3Y"
-  ], [
-    "2f22222",
-    "f2fffff",
-    "2fR2222",
-    "f2Y0fff",
-    "3fRYR41",
-    "Y1YRRfY"
-  ], [
-    "2222222",
     "fffffff",
-    "22R2122",
-    "ffYfYff",
-    "32R5R41",
-    "YfYRR0Y"
-  ], [
-    "222422f",
-    "fff4ff2",
-    "22R222f",
-    "ffY4ff2",
-    "52R2Rff",
-    "YfYRRYY"
-  ], [
-    "2222222",
     "fffffff",
-    "22R2222",
-    "ffYffff",
-    "32RfR4Y",
-    "YfYRR0Y"
+    "f0fYfff",
+    "Yf0RR1f"
   ], [
-    "22222f2",
-    "fffff2f",
-    "22212f2",
-    "fffR02f",
-    "Y2RYRf1",
-    "YfYRR4Y"
-  ], [
-    "2f22222",
-    "f2fffff",
-    "2f22222",
-    "42fRfff",
-    "4fRYR23",
-    "YYYRRfY"
-  ], [
-    "2f22222",
-    "f2fffff",
-    "2f21222",
-    "f2YRfff",
-    "3fRYR55",
-    "Y4YRR1Y"
-  ], [
-    "2222222",
     "fffffff",
-    "222Y222",
-    "fffR04f",
-    "12RYR41",
-    "YfYRR3Y"
-  ], [
-    "4f22222",
-    "42fffff",
-    "4f23222",
-    "42fRYff",
-    "4fRYR25",
-    "YfYRRfY"
-  ], [
-    "2f22222",
-    "f2fffff",
-    "2f22222",
-    "42fRfff",
-    "4fRYR13",
-    "Y1YRRYY"
-  ], [
-    "2f22222",
-    "f2fffff",
-    "2f22222",
-    "42fRfff",
-    "3fRYR2Y",
-    "Y3YRRfY"
-  ], [
-    "2222222",
     "fffffff",
-    "2222R22",
-    "ffffYff",
-    "Y4R5R23",
-    "Y0YRRfY"
-  ], [
-    "f222222",
-    "2ffffff",
-    "f23fR22",
-    "2ff2Yff",
-    "f5R2R25",
-    "YYYRRfY"
-  ], [
-    "2222222",
     "fffffff",
-    "2252R22",
-    "ffYfYff",
-    "14RfR21",
-    "Y3YRRfY"
-  ], [
-    "2f22222",
-    "f2fffff",
-    "2f22R22",
-    "52f0Yff",
-    "3fRYR24",
-    "Y2YRRfY"
-  ], [
-    "2222122",
-    "ffffYff",
-    "2222R22",
-    "ffffYff",
-    "43R5R21",
-    "Y3YRRfY"
-  ], [
-    "2222222",
-    "ffff1ff",
-    "2222R22",
-    "ff1fYff",
-    "f2R2R55",
-    "Y4YRRYY"
-  ], [
-    "2222222",
     "fffffff",
-    "2222R22",
-    "ffffYff",
-    "43R5R2Y",
-    "Y0YRRfY"
+    "f0fffff",
+    "YY0RR1f"
   ], [
-    "222f222",
-    "fff2fff",
-    "222f222",
-    "fff21ff",
-    "32R2R5f",
-    "Y1YRRYY"
-  ], [
-    "2222122",
-    "ffff0ff",
-    "2223222",
-    "fff304f",
-    "12R3R5Y",
-    "YfYRR5Y"
-  ], [
-    "2222222",
     "fffffff",
-    "2222222",
     "fffffff",
-    "222Y222",
-    "Yf0RRff"
-  ], [
-    "2222222",
     "fffffff",
-    "2222222",
     "fffffff",
-    "2222Y22",
-    "Yf0RRff"
+    "Y0fffff",
+    "Yf0RR1f"
   ], [
-    "2222222",
-    "fffffff",
-    "242f222",
-    "f4f30ff",
-    "Y422R52",
-    "Y45RRYf"
-  ], [
-    "2222222",
-    "fffffff",
-    "2222Y22",
-    "ffffRff",
-    "Y122RR2",
-    "YY1RRYf"
-  ], [
-    "2222222",
-    "fffffff",
-    "2222Y22",
-    "ffffRff",
-    "1Y22RR2",
-    "YY1RRYf"
-  ], [
-    "22f2222",
-    "ff2ffff",
-    "22f2Y22",
-    "ff2fR1f",
-    "51f0RR2",
-    "YYYRRYf"
-  ], [
-    "2222522",
-    "ffffYff",
-    "2222Y22",
-    "ffffR4f",
-    "f122RR2",
-    "YY3RRY1"
-  ], [
-    "2f22222",
-    "f2fffff",
-    "2f22Y42",
-    "f2ffRYf",
-    "3f22RR2",
-    "YY5RRYf"
-  ], [
-    "22f2222",
-    "ff2ffff",
-    "22f2Y22",
-    "ff2fRff",
-    "55f0RR2",
-    "YY4RRYY"
-  ], [
-    "222f222",
-    "fffffff",
-    "222f222",
-    "fff21ff",
-    "Y23RR12",
-    "Y4YRRYf"
-  ], [
-    "2222222",
-    "fffffff",
-    "2222222",
-    "ffff1ff",
-    "512RR52",
-    "YYYRRYf"
-  ], [
-    "2223222",
-    "fff1fff",
-    "2242f22",
-    "ff402ff",
-    "15YRRf2",
-    "Y5YRRYf"
-  ], [
-    "2222222",
-    "fffffff",
-    "2224222",
-    "fffY3ff",
-    "521RR22",
-    "YfYRRY1"
-  ], [
-    "2f22222",
-    "f2fffff",
-    "2f22122",
-    "fff3Yff",
-    "4f0RR22",
-    "Y2YRRY1"
-  ], [
-    "222422f",
-    "fff4ff2",
-    "222222f",
-    "fff40f2",
-    "121RRYf",
-    "YfYRRY5"
-  ], [
-    "2222222",
-    "fffffff",
-    "2222222",
-    "fffffff",
-    "222RR02",
-    "YfYRRYY"
-  ], [
-    "4f42012",
-    "f02ffff",
-    "2521Y02",
-    "f12fRff",
-    "Y52YRR3",
-    "Yf2RRY3"
-  ], [
-    "2222222",
-    "fffffff",
-    "22f1Y32",
-    "fffRR0f",
-    "Y1fYRR2",
-    "YY3RRYf"
-  ], [
-    "2222222",
-    "fffffff",
-    "2222Y42",
-    "fffRR1f",
-    "4YfYRR3",
-    "YYfRRY0"
-  ], [
-    "2222222",
-    "fffffff",
-    "2221Y12",
-    "fffRR0f",
-    "33fYRR2",
-    "YYYRRYf"
-  ], [
-    "2222222",
-    "fffffff",
-    "222YY52",
-    "fffRR0f",
-    "43fYRR2",
-    "YY5RRYf"
-  ], [
-    "2224f22",
-    "ffffYff",
-    "2224Y52",
-    "fffRR0f",
-    "445YRR2",
-    "YYfRRY3"
-  ], [
-    "22ff222",
-    "ff22fff",
-    "22f0Y32",
-    "ff2RRYf",
-    "45fYRR1",
-    "YY1RRYf"
-  ], [
-    "0022042",
-    "fffff13",
-    "00f2Y44",
-    "ff00R13",
-    "305YRR4",
-    "YfYRRYf"
-  ], [
-    "2f42122",
-    "f04fYff",
-    "2f22Y22",
-    "f24fRff",
-    "1f2YRR5",
-    "Y20RRY3"
-  ], [
-    "4f22520",
-    "402ff3f",
-    "2f00Y35",
-    "f02fRY1",
-    "4f0YRR5",
-    "Y12RRY1"
-  ], [
-    "2222222",
-    "fffffff",
-    "2222Y22",
-    "fffRR0f",
-    "Y22YRR1",
-    "YffRRYY"
-  ], [
-    "2222f22",
-    "fffffff",
-    "2224Y42",
-    "fffRR0f",
-    "542YRR3",
-    "YYfRRYY"
-  ], [
-    "2222222",
-    "fffffff",
-    "222fYf2",
-    "fffRR0f",
-    "524YRR3",
-    "YfYRRYY"
-  ], [
-    "2222222",
-    "fffffff",
-    "222YY52",
-    "fffRR1f",
-    "425YRR3",
-    "YffRRYY"
-  ], [
-    "2222522",
-    "ffffYff",
-    "2223Y32",
-    "fffRR1f",
-    "f44YRR2",
-    "YffRRYY"
-  ], [
-    "1f230f4",
-    "f0fff0f",
-    "1f52Yf4",
-    "f15RRY4",
-    "1f2YRR3",
-    "Y15RRYY"
-  ], [
-    "2222222",
-    "fffffff",
-    "2222Y22",
-    "fffRR1f",
-    "222YRRY",
-    "YffRRYY"
-  ], [
-    "2222222",
-    "fffffff",
-    "222f222",
-    "ff430ff",
-    "5522R15",
-    "Y14RRYY"
-  ], [
-    "2222222",
-    "fffffff",
-    "2222222",
-    "fffffff",
-    "2222222",
-    "Yf0RRfY"
-  ], [
-    "2222222",
-    "fffffff",
-    "2222222",
-    "fffffff",
-    "2222222",
-    "YYfR0Rf"
-  ], [
-    "2222222",
-    "fffffff",
-    "2222222",
-    "fffffff",
-    "2Y22222",
-    "fYfR0Rf"
-  ], [
-    "2222222",
-    "fffffff",
-    "2222222",
-    "fffffff",
-    "222Y222",
-    "fYfR0Rf"
-  ], [
-    "2222f22",
-    "ffff2ff",
-    "2222fY2",
-    "fff12Rf",
-    "Y25RfR4",
-    "YY3RYR4"
-  ], [
-    "222222f",
-    "ffffff2",
-    "22222Yf",
-    "fff1fR2",
-    "451R2Rf",
-    "YYYRYR3"
-  ], [
-    "2222222",
-    "fffffff",
-    "222R2Y2",
-    "fffYfRf",
-    "Y52R1R3",
-    "YY1RYR4"
-  ], [
-    "2222222",
-    "fffffff",
-    "222R2Y2",
-    "fffYfRf",
-    "222R0R2",
-    "YYYRYR1"
-  ], [
-    "2223222",
-    "fffYfff",
-    "222R2Y2",
-    "fffYfRf",
-    "552R1R4",
-    "YY1RYR0"
-  ], [
-    "5524122",
-    "33f40ff",
-    "55fR2Y2",
-    "331Y0Rf",
-    "55fRYR1",
-    "YY1RYRf"
-  ], [
-    "2222252",
-    "fffffYf",
-    "222R2Y2",
-    "fffYfRf",
-    "352R1R4",
-    "YY1RYR0"
-  ], [
-    "f4f3222",
-    "2423fff",
-    "f4fR2Y2",
-    "242YfRf",
-    "f4fR2R3",
-    "YY5RYRY"
-  ], [
-    "2222f22",
-    "ffff2ff",
-    "222ffY2",
-    "fff23Rf",
-    "14fRYR5",
-    "YY1RYR5"
-  ], [
-    "f2f2232",
-    "2f2ffYf",
-    "f2f22Y2",
-    "2f20fRf",
-    "f4fR2R2",
-    "YY5RYRf"
-  ], [
-    "2222222",
-    "fffffff",
-    "22222Y2",
-    "fff1fR4",
-    "552R2R1",
-    "YYfRYRY"
-  ], [
-    "f222222",
-    "2ffffff",
-    "f2222Y2",
-    "2ff0fRf",
-    "fY2R2R2",
-    "YY5RYRf"
-  ], [
-    "f222222",
-    "2ffffff",
-    "fR222Y2",
-    "2YfffRf",
-    "fY2R2R2",
-    "YY4RYRf"
-  ], [
-    "f122222",
-    "2Yfffff",
-    "fR222Y2",
-    "2YfffRf",
-    "fY2R2R2",
-    "1Y4RYRf"
-  ], [
-    "22f2222",
-    "f12ffff",
-    "2Rf22Y2",
-    "fY20fRf",
-    "2YfR2R2",
-    "fYYRYR1"
-  ], [
-    "4222222",
+    "fff000f",
     "4ffffff",
-    "4R232Y2",
-    "4YfYfRf",
-    "4Y2R2R2",
-    "4Y5RYRf"
+    "f0ff60f",
+    "4f632f5",
+    "f500R4f",
+    "Y17RRYY"
   ], [
-    "2222f22",
-    "ffff2ff",
-    "2R22fY2",
-    "fYf02Rf",
-    "2YfRYR4",
-    "fY3RYR4"
-  ], [
-    "f222242",
-    "2ffffYf",
-    "fR222Y2",
-    "2YfffRf",
-    "fY2R2R2",
-    "4Y5RYRf"
-  ], [
-    "222222f",
-    "fffffff",
-    "2R222Yf",
-    "fYf3fR2",
-    "2Y2R2R5",
-    "fYfRYRY"
-  ], [
-    "2222222",
-    "fffffff",
-    "22222Y2",
-    "ff31fRf",
-    "2Y1R2R2",
-    "fYYRYRf"
-  ], [
-    "2222222",
-    "fffffff",
-    "222R2Y2",
-    "fffYfRf",
-    "5Y2R1R4",
-    "YY1RYR4"
-  ], [
-    "f222222",
-    "2ffffff",
-    "fR2R2Y2",
-    "2YfYfRf",
-    "fY2R2R2",
-    "YY4RYRf"
-  ], [
-    "4122222",
-    "4Yfffff",
-    "4R2R2Y2",
-    "4YfYfRf",
-    "4Y2R2R2",
-    "1Y5RYRf"
-  ], [
-    "2222222",
-    "fffffff",
-    "2R2R2Y2",
-    "fYfYfRf",
-    "2Y2R0R2",
-    "fYYRYR4"
-  ], [
-    "f221222",
-    "2ffYfff",
-    "fR2R2Y2",
-    "2YfYfRf",
-    "fY2R2R2",
-    "1Y3RYRf"
-  ], [
-    "f222432",
-    "0fff03f",
-    "fR2R2Y2",
-    "0YfY2Rf",
-    "fY5RYR1",
-    "1Y5RYR1"
-  ], [
-    "f222212",
-    "2ffffYf",
-    "fR2R2Y2",
-    "2YfYfRf",
-    "fY2R2R2",
-    "1Y4RYRf"
-  ], [
-    "4222222",
+    "fff000f",
     "4ffffff",
-    "4R2R2Y2",
-    "4YfYfRf",
-    "3Y2R2R5",
-    "4Y5RYRY"
-  ], [
-    "2222222",
-    "fffffff",
-    "222R2Y2",
-    "fffYfRf",
-    "2Y1R2R2",
-    "fYYRYR1"
-  ], [
-    "2225222",
-    "fffYfff",
-    "222R2Y2",
-    "fffYfRf",
-    "2Y2R1R5",
-    "fY1RYR3"
-  ], [
-    "f222222",
-    "2ff2fff",
-    "f24RRY2",
-    "2f4YRRf",
-    "fY4RYR3",
-    "YY4RYRY"
-  ], [
-    "f520350",
-    "0fff32f",
-    "f22RRY0",
-    "0YfYRRf",
-    "fY4RYR1",
-    "1Y4RYRY"
-  ], [
-    "f222222",
-    "2ff2fff",
-    "f24RRY2",
-    "2f4YRRf",
-    "fY3RYR3",
-    "3YYRYRY"
-  ], [
-    "2421222",
-    "f2fY0ff",
-    "24fRRY2",
-    "f23YRRf",
-    "2Y3RYR1",
-    "fY4RYRY"
-  ], [
-    "f222122",
-    "2ff0Yff",
-    "f24RRY2",
-    "2f4YRRf",
-    "fY4RYR2",
-    "1Y4RYRY"
-  ], [
-    "2223222",
-    "fff10Yf",
-    "222RRY2",
-    "fffYRRf",
-    "2Y4RYR2",
-    "fY4RYRY"
-  ], [
-    "2422222",
-    "f4ff3ff",
-    "24fRRY2",
-    "f45YRRf",
-    "2Y3RYRY",
-    "fY5RYRY"
-  ], [
-    "2222252",
-    "fffffYf",
-    "222R2Y2",
-    "fffYfRf",
-    "2Y2R1R3",
-    "fY1RYR3"
-  ], [
-    "f223222",
-    "2f41fff",
-    "f24R2Y2",
-    "254YfRf",
-    "fY2R2R1",
-    "3Y4RYRY"
-  ], [
-    "2222f22",
-    "ffff2ff",
-    "2222fY2",
-    "fff12Rf",
-    "2Y5RYR4",
-    "fY3RYR4"
-  ], [
-    "4222212",
-    "4ffffYf",
-    "42222Y2",
-    "4f40fRf",
-    "4Y2R2R2",
-    "1Y5RYRf"
-  ], [
-    "22f2222",
-    "ff2ffff",
-    "22f22Y2",
-    "ff20fRf",
-    "2YfR2R4",
-    "fY3RYRY"
-  ], [
-    "2222222",
-    "fffffff",
-    "222R2Y2",
-    "fffRfRf",
-    "Y52YfR4",
-    "YYfRYR4"
-  ], [
-    "2222222",
-    "fffffff",
-    "222R2Y2",
-    "fffRfRf",
-    "5Y2YfR4",
-    "YYfRYR4"
-  ], [
-    "2225222",
-    "fffYfff",
-    "222R2Y2",
-    "fffRfRf",
-    "112YfR4",
-    "YYfRYR4"
-  ], [
-    "2222f22",
-    "fff02ff",
-    "222RfY2",
-    "fffR2Rf",
-    "5f2YYR4",
-    "YYfRYRf"
-  ], [
-    "2222212",
-    "fffffYf",
-    "222R2Y2",
-    "fffRfRf",
-    "312Y5R4",
-    "YYfRYR0"
-  ], [
-    "2222f22",
-    "ff402ff",
-    "222RfY2",
-    "ff4RfRf",
-    "114Y2R3",
-    "YY4RYRY"
-  ], [
-    "2242312",
-    "ff3f0ff",
-    "12025Y3",
-    "ff4RfR3",
-    "234YfR5",
-    "fYYRYRf"
-  ], [
-    "2222222",
-    "fff0fff",
-    "222R2Y2",
-    "fffRfRf",
-    "112Y4R2",
-    "YYYRYRf"
-  ], [
-    "2221f22",
-    "fff02ff",
-    "222YfY4",
-    "fffR2R4",
-    "1R5YfR4",
-    "YY3RYR4"
-  ], [
-    "2024202",
-    "fff0fff",
-    "200Y1Y1",
-    "fffRfR1",
-    "2R3YfR5",
-    "fYYRYR1"
-  ], [
-    "0042402",
-    "ff0Y0f2",
-    "00fY4Yf",
-    "ff1R1R2",
-    "0R4Y5R3",
-    "fY0RYR3"
-  ], [
-    "2222f22",
-    "ffff2ff",
-    "222YfY2",
-    "fffR0Rf",
-    "2RfYYR4",
-    "fY3RYR4"
-  ], [
-    "2221f12",
-    "fff02Yf",
-    "222YfY3",
-    "fffR2R3",
-    "2R4YfR5",
-    "fY4RYR3"
-  ], [
-    "0022102",
-    "fff0fff",
-    "002Y1Y2",
-    "fffR0R1",
-    "0R3Y5R4",
-    "fY1RYRY"
-  ], [
-    "2241512",
-    "ff202Yf",
-    "22415Y4",
-    "ff3R2R3",
-    "225YfR4",
-    "fY3RYR4"
-  ], [
-    "0011204",
-    "ff012ff",
-    "00132Y4",
-    "ff2R0R2",
-    "025YfR4",
-    "fY5RYRY"
-  ], [
-    "5432130",
-    "fffffff",
-    "22221Y1",
-    "ff3fRR0",
-    "54f2YR0",
-    "YY5RYR0"
-  ], [
-    "202f252",
-    "fff021f",
-    "225f0Y4",
-    "fff0RR1",
-    "3Y0fYR4",
-    "3YfRYR4"
-  ], [
-    "0044121",
-    "ff40fff",
-    "00451Y1",
-    "ff41RR3",
-    "004fYR5",
-    "fYYRYR3"
-  ], [
-    "2003402",
-    "2ff20ff",
-    "210ffY2",
-    "2ff3RR0",
-    "410YYR5",
-    "2YfRYR0"
-  ], [
-    "2222222",
-    "fffffff",
-    "2222YY2",
-    "ffffRRf",
-    "24f3YR5",
-    "fY5RYR1"
-  ], [
-    "22f2212",
-    "ff2ffYf",
-    "22f21Y3",
-    "ff2fRR0",
-    "43f2YR5",
-    "fY1RYR0"
-  ], [
-    "0002540",
-    "ffff24f",
-    "020f2Y5",
-    "fff0RR1",
-    "030fYR0",
-    "fYfRYRY"
-  ], [
-    "f222222",
-    "2ffffff",
-    "f222242",
-    "2f40fYf",
-    "f32R2R2",
-    "YY5RYRf"
-  ], [
-    "f222222",
-    "2ffffff",
-    "f222212",
-    "2f40fYf",
-    "fY2R2R2",
-    "1Y4RYRf"
-  ], [
-    "f222f22",
-    "2fff2ff",
-    "f222f12",
-    "24f02Yf",
-    "f45R2R2",
-    "1YYRYRf"
-  ], [
-    "2222222",
-    "fffffff",
-    "422R252",
-    "4ffYfYf",
-    "542RfR3",
-    "YYfRYR0"
-  ], [
-    "2222222",
-    "fffffff",
-    "222R254",
-    "fffYfY4",
-    "2Y2R1R4",
-    "fY1RYR3"
-  ], [
-    "2222222",
-    "fffffff",
-    "222R252",
-    "fffYfYf",
-    "251R2R2",
-    "fYYRYR1"
-  ], [
-    "2221222",
-    "fffYfff",
-    "222R212",
-    "fffYfYf",
-    "232R5Rf",
-    "fYfRYR0"
-  ], [
-    "2f22222",
-    "fffffff",
-    "2f2R212",
-    "fffY3Y4",
-    "2ffRYR4",
-    "fYfRYR1"
-  ], [
-    "2222222",
-    "fffffff",
-    "222R2Y2",
-    "fffYfYf",
-    "232R5R4",
-    "fYfRYR0"
-  ], [
-    "2222f22",
-    "fff121f",
-    "222RfR2",
-    "fffY2Yf",
-    "ff2R0R2",
-    "YYfRYRY"
-  ], [
-    "2222222",
-    "fffffff",
-    "222R2R2",
-    "f1fYfYf",
-    "2Y2R2R4",
-    "1Y3RYRY"
-  ], [
-    "2222222",
-    "fffff1f",
-    "222R2R2",
-    "fffYfYf",
-    "234R2R1",
-    "fYYRYRY"
-  ], [
-    "2222222",
-    "fffYfff",
-    "222R2R2",
-    "fffYfYf",
-    "222R0R2",
-    "fY1RYRY"
-  ], [
-    "2f22222",
-    "fffffff",
-    "222R2R2",
-    "fffY0Y4",
-    "2ffRYR3",
-    "fYfRYRY"
-  ], [
-    "2222252",
-    "fffffYf",
-    "222R2R2",
-    "fffY3Yf",
-    "242R0R2",
-    "fYfRYRY"
-  ], [
-    "4422222",
-    "33fffff",
-    "442R2R2",
-    "f3fYfYf",
-    "440RfRY",
-    "2Y1RYRY"
-  ], [
-    "4000220",
-    "1ffff2f",
-    "454Y3R0",
-    "110R1Yf",
-    "45fRYR0",
-    "YYfRYRf"
-  ], [
-    "2224252",
-    "fff1f1f",
-    "232Y5R2",
-    "f4fR0Yf",
-    "2YfRYR2",
-    "fYfRYRf"
-  ], [
-    "0f04f22",
-    "f0fY12f",
-    "15fY0R2",
-    "f00R0Y3",
-    "0ffRYR5",
-    "fYfRYR3"
-  ], [
-    "f2f2232",
-    "2f2ff0f",
-    "f2fYRR2",
-    "2f2RYYf",
-    "54fRYR2",
-    "YY5RYRf"
-  ], [
-    "4222232",
-    "4ffff3f",
-    "422YRR2",
-    "4f4RYYf",
-    "4Y2RYR2",
-    "4Y5RYRf"
-  ], [
-    "2125350",
-    "fff2fff",
-    "214YRR0",
-    "f00RYYf",
-    "f10RYR0",
-    "1YYRYRf"
-  ], [
-    "2221212",
-    "fffRfYf",
-    "423YRR2",
-    "4f3RYYf",
-    "425RYR2",
-    "4YYRYRf"
-  ], [
-    "f221232",
-    "2ffYf0f",
-    "f22YRR2",
-    "2f4RYYf",
-    "f42RYR2",
-    "1Y5RYRf"
-  ], [
-    "f222142",
-    "2fffY0f",
-    "f22YRR2",
-    "2ffRYYf",
-    "f32RYR2",
-    "1Y5RYRf"
-  ], [
-    "2ff2112",
-    "f22RRYf",
-    "2ffYRR2",
-    "f22RYYf",
-    "Y5fRYR4",
-    "YY3RYR4"
-  ], [
-    "f2f2142",
-    "2f2RRYf",
-    "f2fYRR2",
-    "2f2RYYf",
-    "fYfRYR5",
-    "YY1RYR5"
-  ], [
-    "2ff2312",
-    "f22RRYf",
-    "2ffYRR2",
-    "f22RYYf",
-    "1ffRYR5",
-    "YYYRYR4"
-  ], [
-    "242Y112",
-    "f4fRRYf",
-    "242YRR2",
-    "f45RYYf",
-    "245RYR2",
-    "YY5RYRf"
-  ], [
-    "f2f2Y42",
-    "2f2RRYf",
-    "f2fYRR2",
-    "2f2RYYf",
-    "f1fRYR5",
-    "YY1RYR5"
-  ], [
-    "f2f21Y2",
-    "2f2RRYf",
-    "f2fYRR2",
-    "2f2RYYf",
-    "f4fRYR5",
-    "YY1RYR5"
-  ], [
-    "f2f2112",
-    "2f2RRYf",
-    "f2fYRR2",
-    "2f2RYYf",
-    "fYfRYR5",
-    "4YYRYR3"
-  ], [
-    "25fY112",
-    "f32RRYf",
-    "45fYRR2",
-    "432RYYf",
-    "4YfRYR2",
-    "4Y5RYRf"
-  ], [
-    "f2f2Y12",
-    "2f2RRYf",
-    "f2fYRR2",
-    "2f2RYYf",
-    "fYfRYR5",
-    "3Y1RYR4"
-  ], [
-    "f2f23Y2",
-    "2f2RRYf",
-    "f2fYRR2",
-    "2f2RYYf",
-    "fYfRYR4",
-    "1Y1RYR4"
-  ], [
-    "32fY110",
-    "420R0Yf",
-    "35fYRR0",
-    "420RYYf",
-    "45fRYR0",
-    "4Y3RYRf"
-  ], [
-    "2223112",
-    "fffRYYf",
-    "523YRR2",
-    "3f2RYYf",
-    "42fRYR2",
-    "5Y4RYRf"
-  ], [
-    "10221Y0",
-    "2ffRfYf",
-    "402YRR0",
-    "2f1RYYf",
-    "50fRYR0",
-    "5Y4RYRf"
-  ], [
-    "2022011",
-    "fffRfYf",
-    "504YRR0",
-    "3f0RYYf",
-    "50fRYR1",
-    "5Y4RYRY"
-  ], [
-    "f2f2312",
-    "2f2RRYf",
-    "f2fYRR2",
-    "2f2RYYf",
-    "f4fRYR5",
-    "YY1RYRY"
-  ], [
-    "22f2132",
-    "ff2RRYf",
-    "42fYRR2",
-    "4f2RYYf",
-    "4YfRYR5",
-    "4Y1RYRY"
-  ], [
-    "f222242",
-    "2ffff0f",
-    "f22YRR2",
-    "2f4RYYf",
-    "f12RYR3",
-    "1Y5RYRY"
-  ], [
-    "2ff3212",
-    "f223fYf",
-    "2ffY1R4",
-    "f22R0Y4",
-    "2ffRYR4",
-    "fY2RYR4"
-  ], [
-    "0242032",
-    "fff2f1f",
-    "045Y0R4",
-    "f00R0Y1",
-    "0f5RYR4",
-    "fYfRYRY"
-  ], [
-    "4222222",
-    "4ffffff",
-    "42222Y2",
-    "4f40fYf",
-    "412R2R2",
-    "1Y5RYRf"
-  ], [
-    "222222f",
-    "fffffff",
-    "22222Yf",
-    "fff4fR2",
-    "5f22RR5",
-    "YYfRYRY"
-  ], [
-    "222f222",
-    "fffffff",
-    "222f2Y2",
-    "fff24Rf",
-    "2Y22RR4",
-    "fYfRYRY"
-  ], [
-    "2222222",
-    "fffffff",
-    "22222Y2",
-    "fffffRf",
-    "2220RR2",
-    "fYYRYRY"
-  ], [
-    "0522302",
-    "ff1fff0",
-    "0ff51Yf",
-    "f0010R2",
-    "0ffYRR2",
-    "fY4RYRY"
-  ], [
-    "f222222",
-    "2ffffff",
-    "f22f4Y2",
-    "2f52YRf",
-    "f122RR5",
-    "1Y5RYRY"
-  ], [
-    "22222f2",
-    "fffffYf",
-    "22222Y2",
-    "ff43fRf",
-    "2f20RR2",
-    "fY4RYRY"
-  ], [
-    "222f222",
-    "fff2fff",
-    "222f4Y2",
-    "fff24Rf",
-    "252fRRY",
-    "fYfRYRY"
-  ], [
-    "2222222",
-    "fffffff",
-    "2222222",
-    "fffffff",
-    "22222Y2",
-    "fYfR0Rf"
-  ], [
-    "2222222",
-    "fffffff",
-    "2222422",
-    "fff140f",
-    "Y23f2R5",
-    "YfYRYRR"
-  ], [
-    "f2222f2",
-    "2ffff2f",
-    "f4223f2",
-    "245f1Yf",
-    "f4Y2RR1",
-    "Y4YRYRR"
-  ], [
-    "f22422f",
-    "2ff4ff2",
-    "f22232f",
-    "2ff4302",
-    "f254YRf",
-    "YfYRYRR"
-  ], [
-    "2222222",
-    "fffffff",
-    "2222222",
-    "fffffYf",
-    "Y220RR2",
-    "YfYRYRR"
-  ], [
-    "2222222",
-    "fffffff",
-    "2222222",
-    "ffffYYf",
-    "2220RR2",
-    "YfYRYRR"
-  ], [
-    "2222222",
-    "fffffff",
-    "22222Y2",
-    "fffffYf",
-    "f232RRf",
-    "YfYRYRR"
-  ], [
-    "f2222f2",
-    "2ffff2f",
-    "f4223f2",
-    "24f53Yf",
-    "f452RRY",
-    "Y4YRYRR"
-  ], [
-    "22222f2",
-    "fffffff",
-    "22225f2",
-    "ff4f32f",
-    "55310R5",
-    "YYYRYRR"
-  ], [
-    "2223422",
-    "fff11ff",
-    "2222042",
-    "f4f31Y0",
-    "25Y2RR0",
-    "fYYRYRR"
-  ], [
-    "2222222",
-    "fffffff",
-    "22421Y2",
-    "ff4fRRf",
-    "21YfYR5",
-    "fYYRYRR"
-  ], [
-    "2222222",
-    "fffffff",
-    "2222222",
-    "fffffYf",
-    "2220RR2",
-    "YYYRYRR"
-  ], [
-    "2222222",
-    "fffffff",
-    "22R2222",
-    "ffYffff",
-    "42Yf2R4",
-    "YfYRYRR"
-  ], [
-    "2222222",
-    "fffffff",
-    "22R2222",
-    "ffYffff",
-    "24Yf2R4",
-    "fYYRYRR"
-  ], [
-    "2212222",
-    "ffYffff",
-    "22R2222",
-    "ffYffff",
-    "22Y52R1",
-    "ffYRYRR"
-  ], [
-    "2224222",
-    "fff3fff",
-    "22R2522",
-    "ffY4f0f",
-    "22YY5Rf",
-    "ffYRYRR"
-  ], [
-    "2222222",
-    "fffffff",
-    "22R2452",
-    "ffYffYf",
-    "22Yf2R3",
-    "ffYRYRR"
-  ], [
-    "2222222",
-    "fffffff",
-    "22R2222",
-    "ffYffff",
-    "22Yf2RY",
-    "ffYRYRR"
-  ], [
-    "2222242",
-    "fffffff",
-    "22425Y2",
-    "ff0fRRf",
-    "54Y2YR4",
-    "YfYRYRR"
-  ], [
-    "2224222",
-    "fff4fff",
-    "22R25Y2",
-    "ffY4RRf",
-    "52Y2YRf",
-    "YfYRYRR"
-  ], [
-    "2224222",
-    "fff4fff",
-    "22R25Y2",
-    "ffY4RRf",
-    "52YRYRf",
-    "YYYRYRR"
-  ], [
-    "3024402",
-    "ff21fff",
-    "32R2fY2",
-    "ffY1RRf",
-    "3YYRYR5",
-    "0YYRYRR"
-  ], [
-    "22525f2",
-    "ffYffff",
-    "22R20Y5",
-    "ffY4RR3",
-    "f5YRYR2",
-    "fYYRYRR"
-  ], [
-    "2233222",
-    "ff11fff",
-    "22R2YY2",
-    "ffYfRRf",
-    "22YRYR5",
-    "fYYRYRR"
-  ], [
-    "22f2f5f",
-    "fffffY2",
-    "22R23Yf",
-    "ffY4RR2",
-    "55YRYR2",
-    "fYYRYRR"
-  ], [
-    "2222222",
-    "fffffff",
-    "22R22Y2",
-    "ffYfRR0",
-    "22YRYRY",
-    "fYYRYRR"
-  ], [
-    "224f222",
-    "ffY2fff",
-    "22Rf2Y2",
-    "ffY2RRf",
-    "22YfYR4",
-    "ffYRYRR"
-  ], [
-    "222f222",
-    "fff2fff",
-    "22Rf2Y2",
-    "ffY5RRf",
-    "f2YYYRf",
-    "ffYRYRR"
-  ], [
-    "225422f",
-    "ff34ff2",
-    "22R2YYf",
-    "ffY4RR2",
-    "22Y2YRf",
-    "ffYRYRR"
-  ], [
-    "22f2322",
-    "fff13Yf",
-    "2fR20Yf",
-    "ffY4RR1",
-    "f1Y4YRf",
-    "ffYRYRR"
-  ], [
-    "2222222",
-    "fffffff",
-    "22R25Y4",
-    "ffYfRR4",
-    "22YfYRY",
-    "ffYRYRR"
-  ], [
-    "2222222",
-    "fffffff",
-    "22222Y2",
-    "fff0RRf",
-    "22YYYR2",
-    "ffYRYRR"
-  ], [
-    "2222222",
-    "fffffff",
-    "2242YY2",
-    "ff4fRRf",
-    "22YfYR5",
-    "ffYRYRR"
-  ], [
-    "2222212",
-    "fffffYf",
-    "22521Y2",
-    "ff3fRRf",
-    "22YfYR4",
-    "ffYRYRR"
-  ], [
-    "2222242",
-    "fffffff",
-    "22425Y2",
-    "ff0fRRf",
-    "2fY3YRY",
-    "ffYRYRR"
-  ], [
-    "2222222",
-    "fffffff",
-    "2222222",
-    "ffYffYf",
-    "22YfRR0",
-    "ffYRYRR"
-  ], [
-    "0251032",
-    "fff0fff",
-    "0212232",
-    "f01f0Yf",
-    "0fYYRR4",
-    "f5YRYRR"
-  ], [
-    "f012341",
-    "2ff23ff",
-    "f02f341",
-    "0f10YYf",
-    "50Y2RR1",
-    "45YRYRR"
-  ], [
-    "2222023",
-    "fff0fff",
-    "f2220Y3",
-    "0510fY3",
-    "f5Y0RR2",
-    "45YRYRR"
-  ], [
-    "0232055",
-    "fffff2f",
-    "0532155",
-    "f03f0Yf",
-    "0fY4RRY",
-    "f1YRYRR"
-  ], [
-    "2222222",
-    "fffffff",
-    "2225122",
-    "fff3R4f",
-    "1523Rf2",
-    "YYYRYRf"
-  ], [
-    "22222f2",
-    "fffff2f",
-    "22241f2",
-    "fff0R2f",
-    "123YRf2",
-    "YfYRYRf"
-  ], [
-    "4031022",
-    "ff11fff",
-    "203fY52",
-    "ff31R0f",
-    "402fR52",
-    "YfYRYRf"
-  ], [
-    "222f222",
-    "fff2fff",
-    "222f532",
-    "fff2R0f",
-    "524fRY2",
-    "YfYRYRf"
-  ], [
-    "222f222",
-    "fffffff",
-    "222f5f2",
-    "fff2R3f",
-    "5240R15",
-    "YfYRYRY"
-  ], [
-    "222f222",
-    "fff2fff",
-    "222f522",
-    "fff2Yff",
-    "f2R2R12",
-    "Y1YRYRf"
-  ], [
-    "2222222",
-    "fffffff",
-    "2222222",
-    "ffffYff",
-    "22R0R22",
-    "fYYRYRf"
-  ], [
-    "2222222",
-    "fffffff",
-    "2222122",
-    "ffYfYff",
-    "22R5R12",
-    "ffYRYRf"
-  ], [
-    "222f222",
-    "fff2fff",
-    "222f132",
-    "fff2R3f",
-    "Y24fRY1",
-    "YfYRYRR"
-  ], [
-    "222f222",
-    "fff2fff",
-    "222f552",
-    "fff2R0f",
-    "42YfRY3",
-    "YfYRYRR"
-  ], [
-    "2235122",
-    "fff2fff",
-    "222f0f2",
-    "ff32Rf4",
-    "153YRY4",
-    "YfYRYRR"
-  ], [
-    "222f222",
-    "fff2fff",
-    "222fY42",
-    "fff2R0f",
-    "523fRY5",
-    "YfYRYRR"
-  ], [
-    "5220542",
-    "ff2ffff",
-    "2220043",
-    "ff20RYf",
-    "5f21RY3",
-    "Y1YRYRR"
-  ], [
-    "222f222",
-    "fff2fff",
-    "222f342",
-    "fff2R0f",
-    "121fRYY",
-    "YfYRYRR"
-  ], [
-    "222f222",
-    "fffffff",
-    "222f542",
-    "fff2R0f",
-    "151fRY3",
-    "YYYRYRR"
-  ], [
-    "222f222",
-    "fff2fff",
-    "222f542",
-    "fff2R0f",
-    "2Y5fRY3",
-    "fYYRYRR"
-  ], [
-    "222f222",
-    "fff2fff",
-    "222f542",
-    "fff2R4f",
-    "21YfRY1",
-    "fYYRYRR"
-  ], [
-    "1f21324",
-    "f1fff2f",
-    "1f21054",
-    "f1f1R2f",
-    "1ffYRY4",
-    "fYYRYRR"
-  ], [
-    "222f222",
-    "fff2fff",
-    "222fY42",
-    "fff2R0f",
-    "213fRY1",
-    "fYYRYRR"
-  ], [
-    "0022401",
-    "fff2ff3",
-    "0422011",
-    "f0f2RY3",
-    "0f52RY3",
-    "fYYRYRR"
-  ], [
-    "222f222",
-    "fff2fff",
-    "222f342",
-    "fff2R0f",
-    "255fRYY",
-    "fYYRYRR"
-  ], [
-    "2222222",
-    "fffffff",
-    "2222322",
-    "ffYfRff",
-    "22Y4RY3",
-    "ffYRYRR"
-  ], [
-    "2f24122",
-    "f2f4fff",
-    "2f24022",
-    "f2f3Rff",
-    "2fYYRY5",
-    "f1YRYRR"
-  ], [
-    "222f222",
-    "fff2fff",
-    "222fY42",
-    "fff2R4f",
-    "22YfRY5",
-    "ffYRYRR"
-  ], [
-    "0142305",
-    "fff2ff1",
-    "0f22015",
-    "f0f2RY1",
-    "0fY2RY5",
-    "f5YRYRR"
-  ], [
-    "222f222",
-    "fff2fff",
-    "222f342",
-    "fff2R0f",
-    "22YfRYY",
-    "ffYRYRR"
-  ], [
-    "2222222",
-    "fffffff",
-    "2222R22",
-    "ffffYff",
-    "Y4R5RY3",
-    "Y0YRYRR"
-  ], [
-    "2222222",
-    "fffffff",
-    "2222R22",
-    "ffYfYff",
-    "52RfRY4",
-    "YfYRYRR"
-  ], [
-    "2f22222",
-    "fffffff",
-    "2f22R22",
-    "f2f0Yff",
-    "3fRYRY4",
-    "Y2YRYRR"
-  ], [
-    "2222122",
-    "ffffYff",
-    "2222R22",
-    "ffffYff",
-    "13RfRY5",
-    "Y3YRYRR"
-  ], [
-    "222f252",
-    "fff2f1f",
-    "222fR02",
-    "fff2YYf",
-    "34RfRY5",
-    "Y1YRYRR"
-  ], [
-    "2222222",
-    "fffffff",
-    "2222R22",
-    "ffffYff",
-    "44RfRYY",
-    "Y0YRYRR"
-  ], [
-    "f241222",
-    "2ff0fff",
-    "f222322",
-    "2f40Yff",
-    "f2R0RY1",
-    "5YYRYRR"
-  ], [
-    "2222222",
-    "fffffff",
-    "2222322",
-    "ffYfYff",
-    "22RfRY4",
-    "ffYRYRR"
-  ], [
-    "1224Y04",
-    "ffR0Rff",
-    "12YfY24",
-    "1fRRYff",
-    "05RYRY4",
-    "Y3YRYRR"
-  ], [
-    "2214Y22",
-    "ffR2Rff",
-    "32YfY22",
-    "3fR0Yff",
-    "25RfRY1",
-    "Y4YRYRR"
-  ], [
-    "2222Y22",
-    "ffffRff",
-    "2222Y22",
-    "ffRfYff",
-    "12R5RY1",
-    "YfYRYRR"
-  ], [
-    "f243122",
-    "2ff2Rff",
-    "f22fY22",
-    "2f42Yff",
-    "f2R0RY1",
-    "3YYRYRR"
-  ], [
-    "2222122",
-    "ffffRff",
-    "2222Y22",
-    "ffYfYff",
-    "22R3RY1",
-    "ffYRYRR"
-  ], [
-    "2222Y22",
-    "ffffRff",
-    "2222Y22",
-    "ffRfYff",
-    "22R1RY5",
-    "fYYRYRR"
-  ], [
-    "f214Y22",
-    "2fR4Rff",
-    "f2Y2Y22",
-    "2fR4Yff",
-    "f5R2RY1",
-    "5YYRYRR"
-  ], [
-    "42Y2Y03",
-    "f2R0Rff",
-    "12YfY03",
-    "12R0Yff",
-    "15RfRY3",
-    "05YRYRR"
-  ], [
-    "221fY22",
-    "ffR2Rff",
-    "25Y2Y22",
-    "f4RRYff",
-    "25RYRY1",
-    "fYYRYRR"
-  ], [
-    "22Y4Y02",
-    "ffR0Rff",
-    "22YfY23",
-    "2fRRYff",
-    "25RYRY3",
-    "15YRYRR"
-  ], [
-    "2213Y22",
-    "ffR0Rff",
-    "42YYY22",
-    "4fRRYff",
-    "45RYRY1",
-    "45YRYRR"
-  ], [
-    "2041Y03",
-    "2fR0R1f",
-    "22YfY23",
-    "1fRRYYf",
-    "25RYRY3",
-    "25YRYRR"
-  ], [
-    "2222Y22",
-    "ffffRff",
-    "2202Y22",
-    "ffRfYff",
-    "22RYRY2",
-    "ffYRYRR"
-  ], [
-    "2242Y22",
-    "ffffRff",
-    "2222Y32",
-    "ffRfYYf",
-    "22RfRY4",
-    "ffYRYRR"
-  ], [
-    "2243Y11",
-    "ffR1Rff",
-    "25YfY11",
-    "23R0Yff",
-    "25RfRYY",
-    "25YRYRR"
-  ], [
-    "2222Y22",
-    "ffffRff",
-    "2222Y22",
-    "ffRfYff",
-    "22R5RYY",
-    "ffYRYRR"
-  ], [
-    "2041505",
-    "ff4f2ff",
-    "2411205",
-    "3140Yff",
-    "30RfRYY",
-    "3fYRYRR"
-  ], [
-    "224f212",
-    "ff42f0f",
-    "222f2R2",
-    "ff425Yf",
-    "Y2RfRY1",
-    "YfYRYRR"
-  ], [
-    "f241222",
-    "2ff0fff",
-    "f2223R2",
-    "2ff0fYf",
-    "f2R0RY1",
-    "YYYRYRR"
-  ], [
-    "2222222",
-    "fffffff",
-    "22222R2",
-    "ffYffYf",
-    "42R5RY3",
-    "YfYRYRR"
-  ], [
-    "2f22242",
-    "f2fff4f",
-    "2f252R2",
-    "f2f0fYf",
-    "1fRYRY1",
-    "Y3YRYRR"
-  ], [
-    "222f252",
-    "fff2f1f",
-    "222f2R2",
-    "fff2YYf",
-    "34RfRY5",
-    "Y1YRYRR"
-  ], [
-    "2223011",
-    "fff3fYf",
-    "24230R0",
-    "f203fYf",
-    "45RfRY1",
-    "Y3YRYRR"
-  ], [
-    "222f412",
-    "fff240f",
-    "222f2R2",
-    "ff524Yf",
-    "12RfRYY",
-    "YfYRYRR"
-  ], [
-    "2f22ff2",
-    "f2fff1f",
-    "2f222R4",
-    "f2f5RY4",
-    "ff13RY4",
-    "YYYRYRR"
-  ], [
-    "2f22f22",
-    "f2fffff",
-    "2f220R4",
-    "f2f5RY4",
-    "2fY2RY4",
-    "fYYRYRR"
-  ], [
-    "0022402",
-    "fff2fff",
-    "04220R2",
-    "f0f2RYf",
-    "0f5YRY3",
-    "fYYRYRR"
-  ], [
-    "2222222",
-    "fffffff",
-    "2222YR4",
-    "ffffRY1",
-    "3132RYR",
-    "YYYRYRR"
-  ], [
-    "2425325",
-    "fffffff",
-    "042fYRf",
-    "14f2RY2",
-    "0Y13RYR",
-    "1YYRYRR"
-  ], [
-    "2222224",
-    "ffffff4",
-    "2225YR2",
-    "ff1fRY4",
-    "21Y5RYR",
-    "fYYRYRR"
-  ], [
-    "5420420",
-    "ffff12f",
-    "0423YR0",
-    "f0f0RYf",
-    "0f5YRYR",
-    "fYYRYRR"
-  ], [
-    "2222422",
-    "ffffYff",
-    "2222YR5",
-    "ffffRY1",
-    "2152RYR",
-    "fYYRYRR"
-  ], [
-    "2222242",
-    "fffffYf",
-    "2222YRf",
-    "ffffRY1",
-    "2152RYR",
-    "fYYRYRR"
-  ], [
-    "2222222",
-    "fffffff",
-    "2222YR5",
-    "ffffRYY",
-    "42fRRYR",
-    "YYYRYRR"
-  ], [
-    "2222432",
-    "ffff11f",
-    "2522YR5",
-    "f4f0RYY",
-    "2YfRRYR",
-    "fYYRYRR"
-  ], [
-    "2222222",
-    "fffffff",
-    "2222YR5",
-    "ffffRYY",
-    "22YRRYR",
-    "fYYRYRR"
-  ], [
-    "2222222",
-    "ffffYff",
-    "2222YR4",
-    "ffffRYY",
-    "202RRYR",
-    "fYYRYRR"
-  ], [
-    "2222222",
-    "fffffYf",
-    "2222YR3",
-    "ffffRYY",
-    "202RRYR",
-    "fYYRYRR"
-  ], [
-    "2f22112",
-    "f2fffYf",
-    "2f220R4",
-    "f25fRY4",
-    "2f52RY4",
-    "fYYRYRR"
-  ], [
-    "2ff2422",
-    "f22ffff",
-    "2ff22R5",
-    "f22fRY5",
-    "2ff3RYY",
-    "fYYRYRR"
-  ], [
-    "2ff2fff",
-    "f2fffff",
-    "2f221Rf",
-    "42f0YYf",
-    "41R2RYf",
-    "4YYRYRR"
-  ], [
-    "2222222",
-    "fffffff",
-    "22221R2",
-    "ffYfYYf",
-    "22RfRY1",
-    "ffYRYRR"
-  ], [
-    "222f342",
-    "fff2R0f",
-    "222fYR2",
-    "ff52YYf",
-    "12RfRY1",
-    "YfYRYRR"
-  ], [
-    "224f152",
-    "ff42R0f",
-    "224fYR2",
-    "ff42YYf",
-    "23RfRY1",
-    "fYYRYRR"
-  ], [
-    "2222522",
-    "ffffRff",
-    "2222YR2",
-    "ffYfYYf",
-    "22RfRY4",
-    "ffYRYRR"
-  ], [
-    "222fY32",
-    "fff2R0f",
-    "222fYR2",
-    "ff52YYf",
-    "22RfRY4",
-    "ffYRYRR"
-  ], [
-    "2222142",
-    "ffffRYf",
-    "2222YR2",
-    "ffRfYYf",
-    "12R5RY4",
-    "YfYRYRR"
-  ], [
-    "2222112",
-    "ffffRYf",
-    "2222YR2",
-    "ffRfYYf",
-    "20R2RY5",
-    "fYYRYRR"
-  ], [
-    "1522500",
-    "ff2fRYf",
-    "2fY2YR5",
-    "41RfYY0",
-    "4fR1RY5",
-    "43YRYRR"
-  ], [
-    "2222222",
-    "ffffRYf",
-    "2202YR2",
-    "ffRfYYf",
-    "22RYRY2",
-    "ffYRYRR"
-  ], [
-    "2222Y12",
-    "ffffRYf",
-    "2222YR2",
-    "ffRfYYf",
-    "22R4RY1",
-    "ffYRYRR"
-  ], [
-    "22223Y2",
-    "ffffRYf",
-    "2222YR2",
-    "ffRfYYf",
-    "22R5RY4",
-    "ffYRYRR"
-  ], [
-    "2222332",
-    "ffffRYf",
-    "2222YR2",
-    "ffRfYYf",
-    "22R4RYY",
-    "ffYRYRR"
-  ], [
-    "222f342",
-    "fff2R0f",
-    "222fYR2",
-    "ff52YYf",
-    "22RfRYY",
-    "ffYRYRR"
-  ], [
-    "2222242",
-    "fffffYf",
-    "2222RR2",
-    "ffffYYf",
-    "13R5RY1",
-    "Y3YRYRR"
-  ], [
-    "2ff2fff",
-    "f2fffYf",
-    "2f22RRf",
-    "42f0YYf",
-    "44R2RYf",
-    "4YYRYRR"
-  ], [
-    "2222212",
-    "fffffYf",
-    "2222RR2",
-    "ffYfYYf",
-    "22RfRY1",
-    "ffYRYRR"
-  ], [
-    "22f2212",
-    "ff2ffYf",
-    "24f2RR2",
-    "f4f0YYf",
-    "34RYRY1",
-    "5fYRYRR"
-  ], [
-    "2222412",
-    "ffffYYf",
-    "2222RR2",
-    "ffffYYf",
-    "24RfRY1",
-    "f0YRYRR"
-  ], [
-    "22222Y2",
-    "fffffYf",
-    "2222RR2",
-    "ffffYYf",
-    "24R5RY3",
-    "f0YRYRR"
-  ], [
-    "2222232",
-    "fffffYf",
-    "2222RR2",
-    "ffffYYf",
-    "24R5RYY",
-    "f0YRYRR"
-  ], [
-    "2ff2fff",
-    "f2fffYf",
-    "2f222Rf",
-    "42f0fYf",
-    "44R2RYf",
-    "4YYRYRR"
-  ], [
-    "2222232",
-    "fffffYf",
-    "22222R2",
-    "ffYffYf",
-    "22R5RY4",
-    "ffYRYRR"
-  ], [
-    "2234012",
-    "fffffYf",
-    "2f242R2",
-    "f0f0fYf",
-    "5fRYRY1",
-    "53YRYRR"
-  ], [
-    "02121Y2",
-    "fff2fYf",
-    "04121R3",
-    "f012fYf",
-    "04R5RY3",
-    "f2YRYRR"
-  ], [
-    "2ff22ff",
-    "f2fff1f",
-    "2f222Rf",
-    "4210fYf",
-    "4fR2RYY",
-    "4YYRYRR"
-  ], [
-    "2222222",
-    "fffffff",
-    "22222R2",
-    "ffYffYf",
-    "22R4RYY",
-    "ffYRYRR"
-  ], [
-    "2f22242",
-    "f2fff4f",
-    "2f252R2",
-    "f2f0fYf",
-    "2fRYRYY",
-    "f3YRYRR"
-  ], [
-    "222f252",
-    "fff2f1f",
-    "222f2R2",
-    "fff2YYf",
-    "24RfRYY",
-    "f1YRYRR"
-  ], [
-    "0204042",
-    "fff3fYf",
-    "05041R2",
-    "f023fYf",
-    "15RfRYY",
-    "f3YRYRR"
-  ], [
-    "0021043",
-    "1120f0f",
-    "00210R3",
-    "11205YY",
-    "00R1RYY",
-    "11YRYRR"
-  ], [
-    "2225421",
-    "fff0fff",
-    "22250f1",
-    "f132R11",
-    "253YRYY",
-    "f1YRYRR"
-  ], [
-    "222f222",
-    "fff2fff",
-    "222fY42",
-    "fff2R4f",
-    "225fRYY",
-    "ffYRYRR"
-  ], [
-    "0210210",
-    "f2fffff",
-    "0313040",
-    "fff1RYf",
-    "0115RYY",
-    "f3YRYRR"
-  ], [
-    "222f545",
-    "fff2fff",
-    "222f245",
-    "fff2R1Y",
-    "233fRYY",
-    "f1YRYRR"
-  ], [
-    "2222442",
-    "fffffff",
-    "2222222",
-    "fff1f03",
-    "45421R3",
-    "YYYRRRY"
-  ], [
-    "2222222",
-    "fffffff",
-    "2224222",
-    "fff1f0f",
-    "2Y5f2R3",
-    "fYYRRRY"
-  ], [
-    "1245125",
-    "fff0fff",
-    "134f1Y5",
-    "ff00RR0",
-    "124fYR5",
-    "YYYRRRY"
-  ], [
-    "0251405",
-    "f0f04ff",
-    "02514Y2",
-    "f10fRRf",
-    "02YfYR3",
-    "fYYRRRY"
-  ], [
-    "2222f22",
-    "ffff2ff",
-    "2243fY2",
-    "fff0RRf",
-    "24fYYR5",
-    "fYYRRRY"
-  ], [
-    "222f222",
-    "fff2fff",
-    "224fYY5",
-    "ff42RR3",
-    "224fYR5",
-    "fYYRRRY"
-  ], [
-    "1245125",
-    "fff0fYf",
-    "134f1Y5",
-    "ff00RR0",
-    "104fYR5",
-    "fYYRRRY"
-  ], [
-    "2222222",
-    "fffffff",
-    "22225Y5",
-    "ffffRR0",
-    "234fYRY",
-    "fYYRRRY"
-  ], [
-    "2222222",
-    "fffffff",
-    "2222242",
-    "fffffYf",
-    "114R2R4",
-    "YYYRRRY"
-  ], [
-    "2222222",
-    "fffffff",
-    "22222f2",
-    "fffffYf",
-    "2Y5R2Rf",
-    "fYYRRRY"
-  ], [
-    "2224424",
-    "fffffff",
-    "2222252",
-    "f3f14Yf",
-    "41YR2R3",
-    "fYYRRRY"
-  ], [
-    "2222222",
-    "fffffff",
-    "2222222",
-    "fffYfYf",
-    "222R0R2",
-    "fYYRRRY"
-  ], [
-    "22f22f2",
-    "ff2ff2f",
-    "22fY2f2",
-    "f52RfYf",
-    "5R2RYR4",
-    "YYYRRRY"
-  ], [
-    "2222234",
-    "fffff34",
-    "222Y254",
-    "fYfRfY4",
-    "2R1RYR4",
-    "1YYRRRY"
-  ], [
-    "2203525",
-    "fff30ff",
-    "2f1Y042",
-    "020R1Yf",
-    "fRYRYR5",
-    "1YYRRRY"
-  ], [
-    "2224222",
-    "fffYfff",
-    "222Y242",
-    "fRfR1Yf",
-    "2R0RYR1",
-    "YYYRRRY"
-  ], [
-    "2222222",
-    "fffYfff",
-    "2Y2Y222",
-    "fRfRRYf",
-    "0R2RYR2",
-    "YYYRRRY"
-  ], [
-    "242522f",
-    "fYfYff2",
-    "2Y2Y21f",
-    "fRfRRY2",
-    "2R1RYRf",
-    "fYYRRRY"
-  ], [
-    "222Y22f",
-    "fffYff2",
-    "2Y2Y2ff",
-    "fRfRRY2",
-    "2R3RYRf",
-    "fYYRRRY"
-  ], [
-    "2221144",
-    "fffY0ff",
-    "2Y2YYff",
-    "fRfRRY5",
-    "3RfRYR2",
-    "fYYRRRY"
-  ], [
-    "2223552",
-    "fffY42f",
-    "2Y2Y4Y2",
-    "fRfRRYf",
-    "2RfRYR5",
-    "fYYRRRY"
-  ], [
-    "2424325",
-    "fffY302",
-    "2Y2Y25f",
-    "fRfRRY2",
-    "2R1RYRY",
-    "1YYRRRY"
-  ], [
-    "2221222",
-    "fffYfff",
-    "222Y212",
-    "fRfRfYf",
-    "2RYRYR5",
-    "fYYRRRY"
-  ], [
-    "222Y132",
-    "fffYf11",
-    "222Y132",
-    "fRfRfY2",
-    "1R4RYR3",
-    "fYYRRRY"
-  ], [
-    "212122f",
-    "fffYff2",
-    "202Y23f",
-    "fRfRYY0",
-    "2R4RYRf",
-    "fYYRRRY"
-  ], [
-    "2524252",
-    "fffYf2f",
-    "202Y2Y2",
-    "fRfR1Yf",
-    "2R1RYR3",
-    "fYYRRRY"
-  ], [
-    "2013522",
-    "fff32ff",
-    "201Y242",
-    "1f0RYYf",
-    "fR1RYR5",
-    "1YYRRRY"
-  ], [
-    "2222212",
-    "fffff0f",
-    "224Y2Y2",
-    "5f4RfYf",
-    "5R4RYR1",
-    "5YYRRRY"
-  ], [
-    "2221222",
-    "fff0fff",
-    "234Y212",
-    "f30RfYf",
-    "fR4RYRY",
-    "5YYRRRY"
-  ], [
-    "2423225",
-    "fffYf00",
-    "202Y255",
-    "fRfRfY2",
-    "2R1RYRY",
-    "1YYRRRY"
-  ], [
-    "2222222",
-    "fffffff",
-    "22222Y2",
-    "fffffYf",
-    "222R0R2",
-    "fYYRRRY"
-  ], [
-    "22222f2",
-    "fffff2f",
-    "22322f2",
-    "f531fYf",
-    "250R2RY",
-    "fYYRRRY"
-  ], [
-    "2024402",
-    "fff10ff",
-    "2004fY5",
-    "fffRfR1",
-    "302YfR5",
-    "YYYRRRY"
-  ], [
-    "5420205",
-    "ff0f1ff",
-    "02324Y5",
-    "ff3RfR1",
-    "0Y0YfR5",
-    "fYYRRRY"
-  ], [
-    "2224422",
-    "fff02ff",
-    "2224fY3",
-    "fffR2R3",
-    "22YYfR5",
-    "fYYRRRY"
-  ], [
-    "2222f22",
-    "ffff2ff",
-    "2243fY2",
-    "fffR2Rf",
-    "24fYYR5",
-    "fYYRRRY"
-  ], [
-    "0034222",
-    "fff1fYf",
-    "0024fY5",
-    "fffRfR1",
-    "003YfR5",
-    "fYYRRRY"
-  ], [
-    "2242222",
-    "ff4ffff",
-    "22452Y3",
-    "ff4RfR0",
-    "254YfRY",
-    "fYYRRRY"
-  ], [
-    "2222422",
-    "ffff4ff",
-    "2225422",
-    "fff140f",
-    "22524Rf",
-    "ffYRYRY"
-  ], [
-    "2ff2224",
-    "f22fff4",
-    "2ffY224",
-    "f22RfY4",
-    "YffR2RR",
-    "Y3YR5RY"
-  ], [
-    "22f2222",
-    "ff2ffff",
-    "24fY232",
-    "f42RfYf",
-    "24fR2RR",
-    "YYYR5RY"
-  ], [
-    "2f22222",
-    "f2fffff",
-    "2f3Y242",
-    "f23RfYf",
-    "1fYR2RR",
-    "Y1YR5RY"
-  ], [
-    "22f1222",
-    "ff2Yfff",
-    "24fY212",
-    "f42RfYf",
-    "245R2RR",
-    "Y4YR5RY"
-  ], [
-    "22f2222",
-    "ff2ffff",
-    "24fY2Y2",
-    "f42RfYf",
-    "245R2RR",
-    "Y4YR5RY"
-  ], [
-    "22f2222",
-    "ff2ffff",
-    "24fY211",
-    "f42RfYY",
-    "24fR2RR",
-    "Y4YR5RY"
-  ], [
-    "22f2f22",
-    "ff2f2ff",
-    "24f2f32",
-    "f42f2Yf",
-    "24fRfR2",
-    "fYYR5RY"
-  ], [
-    "2f22222",
-    "f2fffff",
-    "2f4Y212",
-    "f20RfYf",
-    "2fYR2R3",
-    "f1YR5RY"
-  ], [
-    "2024220",
-    "ff02fff",
-    "2012240",
-    "ff0YfYf",
-    "301R2RR",
-    "YfYR1RY"
-  ], [
-    "2242222",
-    "ff4ffff",
-    "2242212",
-    "ff4YfYf",
-    "214R2RR",
-    "fYYR5RY"
-  ], [
-    "2224220",
-    "ff02fff",
-    "2012240",
-    "ffRYfYf",
-    "30YR2RR",
-    "YfYR1RY"
-  ], [
-    "22f2222",
-    "ff2ffff",
-    "22f2212",
-    "ffRYfYf",
-    "21YR2RR",
-    "fYYR3RY"
-  ], [
-    "221222f",
-    "ff0fff2",
-    "22Y423f",
-    "ffRYfY1",
-    "22YR2RR",
-    "ffYR5RY"
-  ], [
-    "222222f",
-    "ffffff2",
-    "2f1Y22f",
-    "ffRYfY1",
-    "22YR2RR",
-    "ffYR4RY"
-  ], [
-    "22f2222",
-    "ff2ffff",
-    "22522Y2",
-    "ffRYfYf",
-    "22YR2RR",
-    "ffYR5RY"
-  ], [
-    "22f2222",
-    "ff2ffff",
-    "22f2211",
-    "ffRYfYY",
-    "22YR2RR",
-    "ffYR4RY"
-  ], [
-    "021220f",
-    "f1ffff0",
-    "041Y2R5",
-    "ff1YfY2",
-    "002R2RR",
-    "YfYR3RY"
-  ], [
-    "2302205",
-    "23ffff0",
-    "430Y2Rf",
-    "23fYfY1",
-    "431R2RR",
-    "0YYR5RY"
-  ], [
-    "222222f",
-    "ffffff2",
-    "2f1Y2Rf",
-    "ff0YfY1",
-    "22YR2RR",
-    "ffYR4RY"
-  ], [
-    "123R204",
-    "f3fYff2",
-    "0f2Y2Rf",
-    "ff3YfY4",
-    "214R2RR",
-    "YfYR5RY"
-  ], [
-    "321R205",
-    "32fYff0",
-    "341Y2R5",
-    "32fYfY1",
-    "341R2RR",
-    "0YYR5RY"
-  ], [
-    "222R22f",
-    "fffYff2",
-    "2f1Y2Rf",
-    "ff0YfY1",
-    "22YR2RR",
-    "ffYR4RY"
-  ], [
-    "222R21f",
-    "fffYfY2",
-    "222Y2Rf",
-    "fffYfY1",
-    "222R2RR",
-    "ffYR5RY"
-  ], [
-    "222R22f",
-    "fffYff2",
-    "222Y2Rf",
-    "fffYfYY",
-    "222R2RR",
-    "ffYR5RY"
-  ], [
-    "222224f",
-    "fffffY2",
-    "222Y2Rf",
-    "fffYfY4",
-    "222R2RR",
-    "ffYR5RY"
-  ], [
-    "222222f",
-    "ffffff2",
-    "222Y2Rf",
-    "fffYfYY",
-    "222R2RR",
-    "ffYR3RY"
-  ], [
-    "22f2222",
-    "ff2ffff",
-    "22f22Y2",
-    "ff2YfYf",
-    "22fR2RR",
-    "ffYR5RY"
-  ], [
-    "22f2222",
-    "ff2ffff",
-    "22f2243",
-    "ff2YfYY",
-    "22fR2RR",
-    "ffYR5RY"
-  ], [
-    "2222222",
-    "fffffff",
-    "2222212",
-    "fff1fYf",
-    "225R2Rf",
-    "ffYRYRY"
-  ], [
-    "22f2222",
-    "ff2ffff",
-    "24f22Y2",
-    "f42f4Yf",
-    "24fR2R2",
-    "f4YR5RY"
-  ], [
-    "2222222",
-    "fffYfff",
-    "222R222",
-    "fffRfff",
-    "Y22Y222",
-    "Yf0RRff"
-  ], [
-    "2222222",
-    "fffYfff",
-    "222R222",
-    "fffRfff",
-    "222Y222",
-    "YYfRR0f"
-  ], [
-    "2221222",
-    "fffYfff",
-    "222R222",
-    "fffRfff",
-    "124Y523",
-    "YfYRRf0"
-  ], [
-    "222Y222",
-    "fffYfff",
-    "222R222",
-    "fffRfff",
-    "222Y222",
-    "Yf0RRff"
-  ], [
-    "2222222",
-    "fffYfff",
-    "222R222",
-    "fffRfff",
-    "222YY22",
-    "Yf0RRff"
-  ], [
-    "1051443",
-    "fffY22f",
-    "002Rf43",
-    "fffR023",
-    "105Yf23",
+    "f0ff60f",
+    "4f63Yf5",
+    "f500R4f",
+    "Y17RRYf"
+  ], [
+    "1056401",
+    "ff20fff",
+    "105ff73",
+    "f621023",
+    "415fRY3",
     "Yf5RRY3"
   ], [
-    "2222222",
-    "fffYfff",
-    "222R222",
-    "fffRfff",
-    "222Y222",
-    "Yf0RRfY"
+    "1056401",
+    "ff20fff",
+    "105ff73",
+    "f621023",
+    "415YR73",
+    "Yf5RRY3"
   ], [
-    "22222f2",
-    "fff0f2f",
-    "222R3f2",
-    "fffR12f",
-    "Y22YRf4",
-    "YffRY54"
+    "1056401",
+    "ff20fff",
+    "105ff73",
+    "f621023",
+    "415fR73",
+    "YY5RRY3"
   ], [
-    "2f22222",
-    "f2f0fff",
-    "2f2R422",
-    "f2fR4ff",
-    "2f3YR22",
-    "Y5YRYff"
+    "0005000",
+    "fff2fff",
+    "003ff10",
+    "ff4001f",
+    "504fR63",
+    "YfYRRY1"
   ], [
-    "5023104",
-    "fffY0ff",
-    "000R5f0",
-    "fffR00f",
-    "100YRf4",
-    "YffRY24"
+    "0005000",
+    "fff2fff",
+    "003ff10",
+    "ff4001f",
+    "Y04fR63",
+    "Yf4RRY1"
   ], [
-    "22223f2",
-    "ffff32f",
-    "222R5f2",
-    "fffR32f",
-    "522YRf4",
-    "YffRYY4"
+    "000f000",
+    "fff0fff",
+    "1f3f100",
+    "20102ff",
+    "5R1f40Y",
+    "YRRRYfY"
   ], [
-    "222Y222",
-    "fffRfff",
-    "222R222",
-    "fffRfff",
-    "Y22Y222",
-    "YYfR0Rf"
+    "000f000",
+    "fff0fff",
+    "1f3f100",
+    "20102ff",
+    "5RYf403",
+    "YRRRYfY"
   ], [
-    "222Y222",
-    "fffRfff",
-    "222R222",
-    "fffRfff",
-    "411Yf25",
-    "YYYRfR0"
-  ], [
-    "405Y203",
-    "ff1Rfff",
-    "405R203",
-    "ff5R0ff",
-    "411Yf03",
-    "YY5RYR3"
-  ], [
-    "222Y222",
-    "fffRfff",
-    "222R222",
-    "fffRfff",
-    "222Y2Y2",
-    "YYfR0Rf"
-  ], [
-    "2f2Y222",
-    "f2fRfff",
-    "2f2R222",
-    "52fRfff",
-    "4f2Y311",
-    "YYfR0RY"
-  ], [
-    "222Y222",
-    "fffRfff",
-    "222R222",
-    "fffRfff",
-    "2Y2Y222",
-    "YYfR0Rf"
-  ], [
-    "2221222",
-    "fffYfff",
-    "222R222",
-    "fffRfff",
-    "512Yf23",
-    "YYfRf0R"
-  ], [
-    "2221222",
-    "fffYfff",
-    "222R222",
-    "fffRfff",
-    "2Y2Yf21",
-    "fYfR5fR"
-  ], [
-    "2223222",
-    "fffYfff",
-    "222R222",
-    "fffRfff",
-    "211Yf23",
-    "fYYRf0R"
-  ], [
-    "222Y222",
-    "fffYfff",
-    "222R222",
-    "fffRfff",
-    "212Y421",
-    "fYfR5fR"
-  ], [
-    "2222f22",
-    "fffY2ff",
-    "222Rf22",
-    "fffR2f0",
-    "532Yf4R",
-    "YYfRY4R"
-  ], [
-    "2223f22",
-    "fffY2ff",
-    "222Rf2f",
-    "fffR2f2",
-    "2Y2Yf2R",
-    "fYfRY4R"
-  ], [
-    "2221f22",
-    "fffY2ff",
-    "222Rf2f",
-    "fffR2f2",
-    "213Yf2R",
-    "fYYRY4R"
-  ], [
-    "222Yf22",
-    "fffY2ff",
-    "222Rf22",
-    "fffR2f0",
-    "222Yf2R",
-    "fYfRY4R"
-  ], [
-    "2224222",
-    "fffYfff",
-    "222R322",
-    "fffR3f0",
-    "212YY2R",
-    "fYfRY1R"
-  ], [
-    "2222f22",
-    "fffY2ff",
-    "222Rf22",
-    "fffR2f0",
-    "232Yf3R",
-    "fYfRYYR"
-  ], [
-    "00213f2",
-    "fffY32f",
-    "012R5f2",
-    "fffR32Y",
-    "014Y0fR",
-    "fY4RY5R"
-  ], [
-    "2221222",
-    "fffYfff",
-    "222R222",
-    "fffRfff",
-    "232Y423",
-    "fYfR1YR"
-  ], [
-    "2221222",
-    "fffYfff",
-    "222R222",
-    "fffRfff",
-    "212Y42Y",
-    "fYfR0fR"
-  ], [
-    "22222f2",
-    "fffff2f",
-    "222R1f2",
-    "fffR02f",
-    "152YRf4",
-    "YYfRY34"
-  ], [
-    "2222222",
+    "f000000",
     "fffffff",
-    "222R222",
-    "fffRfff",
-    "134Y521",
-    "YYYRfR0"
+    "ff1ff01",
+    "f010f54",
+    "2R1f324",
+    "YRRRYYY"
   ], [
-    "2242322",
-    "ff403ff",
-    "224R322",
-    "ff4R3ff",
-    "2Y2Y532",
-    "fYYR5Rf"
+    "f000000",
+    "fffffff",
+    "ff1ff01",
+    "f010f54",
+    "2R1fY24",
+    "YRRRY5Y"
   ], [
-    "2223222",
-    "fffYfff",
-    "222R222",
-    "fffRfff",
-    "211Yf24",
-    "fYYRfR0"
+    "f000000",
+    "fffffff",
+    "ff1ff01",
+    "f010f54",
+    "YR1f324",
+    "YRRRY5Y"
   ], [
-    "2f2f222",
-    "f2f2fff",
-    "4f2R222",
-    "42fRfff",
-    "4fRY255",
-    "YYYRfRY"
+    "0032000",
+    "ff02fff",
+    "1ff5000",
+    "10f1fff",
+    "6RfY403",
+    "YRRRYfY"
   ], [
-    "2242f22",
-    "ff402ff",
-    "224Rf22",
-    "ff3R3ff",
-    "2YRY511",
-    "fYYR5RY"
+    "1103010",
+    "fff0fff",
+    "031ff56",
+    "fYf2450",
+    "6R10f57",
+    "YRRRY5Y"
   ], [
-    "3425401",
-    "ff0Yff1",
-    "144R001",
-    "f00Rff1",
-    "3fRY051",
-    "3YYRfRY"
+    "0000000",
+    "fffffff",
+    "ff1ff02",
+    "f010f61",
+    "2R1f4Y4",
+    "YRRRYY5"
   ], [
-    "2f22222",
-    "f2fffff",
-    "2f3R222",
-    "f23Rfff",
-    "4fRY151",
-    "4YYRYRY"
+    "0000000",
+    "fffffff",
+    "ff1ff02",
+    "f010f61",
+    "2R1fY34",
+    "YRRRYY5"
   ], [
-    "2f22222",
-    "f2fffff",
-    "2f3R222",
-    "f23Rfff",
-    "4fRY5Y5",
-    "4YYRfRY"
+    "0000000",
+    "fffffff",
+    "ff1ff02",
+    "f010f61",
+    "YR1f434",
+    "YRRRYY5"
   ], [
-    "2f22222",
-    "f2fffff",
-    "2f3R222",
-    "f22Rfff",
-    "4fRY25Y",
-    "4YYRfRY"
+    "0426000",
+    "ff01fff",
+    "2Yf6000",
+    "1RfRfff",
+    "7RfY534",
+    "YRRRYYY"
   ], [
-    "22212f2",
-    "fffRf2f",
-    "222Y2f2",
-    "fffRf2f",
-    "12YYRf2",
-    "YfYRYRR"
+    "2615503",
+    "ff2f0f1",
+    "2Y43406",
+    "2RfR4ff",
+    "7RfY0Y1",
+    "YRRRYYf"
   ], [
-    "222Y2f2",
-    "fffRf2f",
-    "222Y2f2",
-    "fffRf2f",
-    "22YYRf2",
-    "ffYRYRR"
+    "2615503",
+    "ff2f0f1",
+    "2Y43406",
+    "2RfR4ff",
+    "7RfYY01",
+    "YRRRYYf"
   ], [
-    "2225222",
-    "fffRfff",
-    "222YR22",
-    "ff1RYff",
-    "32YYR12",
-    "YfYRYRR"
+    "2615503",
+    "ff2f0f1",
+    "2Y43406",
+    "2RfR4ff",
+    "YRfY001",
+    "YRRRYYf"
   ], [
-    "2245222",
-    "ff4Rfff",
-    "222YR22",
-    "ff4RYff",
-    "23YYRf2",
-    "fYYRYRR"
+    "0545406",
+    "f2030f1",
+    "2YfY606",
+    "3RfR1ff",
+    "4RfY700",
+    "YRRRYYf"
   ], [
-    "222Y222",
-    "fffRfff",
-    "222YR22",
-    "fffRYff",
-    "22YYR32",
-    "ffYRYRR"
+    "0434511",
+    "ff021ff",
+    "0Yf2511",
+    "0RfR5ff",
+    "6RYY713",
+    "YRRRYYf"
   ], [
-    "2221122",
-    "fffRYff",
-    "222YR22",
-    "fffRYff",
-    "22YYRf2",
-    "ffYRYRR"
+    "0434511",
+    "fY021ff",
+    "0Yf2511",
+    "0RfR5ff",
+    "6RfY713",
+    "YRRRYYf"
   ], [
-    "2f41522",
-    "f2fR3ff",
-    "2f2YR22",
-    "f24RYff",
-    "2fYYRY1",
-    "f5YRYRR"
+    "4564f70",
+    "15120ff",
+    "4Y14f00",
+    "3RR027f",
+    "3RY0f76",
+    "YRRRYYY"
   ], [
-    "2f41522",
-    "f24R3ff",
-    "2f2YR22",
-    "f24RYff",
-    "2fYYR1Y",
-    "f5YRYRR"
+    "4564f70",
+    "15120ff",
+    "4Y14f00",
+    "3RR027f",
+    "3RY0fY6",
+    "YRRRYYf"
   ], [
-    "2225222",
-    "fffRfff",
-    "222Y422",
-    "ff1R4ff",
-    "22YYR1Y",
-    "ffYRYRR"
+    "003f0f0",
+    "ff304ff",
+    "0Y2f400",
+    "fRRf05f",
+    "2RYfY10",
+    "YRRRYYf"
   ], [
-    "2f2Y222",
-    "f2fRfff",
-    "2f5Y222",
-    "f23Rfff",
-    "1fRY252",
-    "Y1YRfRf"
+    "20f1000",
+    "ff03fff",
+    "2Yf1f00",
+    "fRR0f2f",
+    "4RYY521",
+    "YRRRYYf"
   ], [
-    "222Y222",
-    "fffRfff",
-    "251Y222",
-    "f30Rfff",
-    "45RY212",
-    "4YYRfRf"
+    "043f104",
+    "fff0fff",
+    "3YYf112",
+    "0RR02ff",
+    "6RYf514",
+    "YRRRYYf"
   ], [
-    "132Y322",
-    "fffRfff",
-    "123Y0f2",
-    "ffYR0f2",
-    "13RY0f2",
-    "ffYRfR2"
+    "043f104",
+    "fYf0fff",
+    "3Y3f112",
+    "0RR02ff",
+    "6RYf514",
+    "YRRRYYf"
   ], [
-    "222Y212",
-    "fffRfff",
-    "0f2Y012",
-    "f1fRfff",
-    "4fRY012",
-    "53YRYRf"
+    "043f104",
+    "fff0fff",
+    "3Y3f112",
+    "0RR02ff",
+    "YRYf514",
+    "YRRRYYf"
   ], [
-    "122Y412",
-    "ff2Rfff",
-    "15fY013",
-    "f12Rfff",
-    "1fRY0Y3",
-    "54YRfR0"
+    "fffffff",
+    "fffffff",
+    "fffff0f",
+    "fY0ff1f",
+    "fR0Rf1f",
+    "YRRRYYY"
   ], [
-    "22212f2",
-    "fffRf2f",
-    "222Y4f2",
-    "fffR42f",
-    "125YRf2",
-    "YfYRYRf"
+    "fffffff",
+    "fffffff",
+    "fffff0f",
+    "fY0ff1f",
+    "fR0RY1f",
+    "YRRRYYf"
   ], [
-    "2240202",
+    "fffffff",
+    "fffffff",
+    "fYfff0f",
+    "fY0ff1f",
+    "fR0Rf1f",
+    "YRRRYYf"
+  ], [
+    "0501340",
+    "f2f004f",
+    "0202f23",
+    "fYf0041",
+    "6R3RfY7",
+    "YRRRYY7"
+  ], [
+    "0501340",
+    "f2f004f",
+    "0202f23",
+    "fYfY041",
+    "6R3Rf47",
+    "YRRRYY7"
+  ], [
+    "0501340",
+    "f2f004f",
+    "0202f23",
+    "fYf0041",
+    "6RYRf47",
+    "YRRRYY7"
+  ], [
+    "0501340",
+    "f2f004f",
+    "0202f23",
+    "fYf0041",
+    "YR3Rf47",
+    "YRRRYY7"
+  ], [
+    "fffffff",
+    "fffffff",
+    "fffffff",
+    "f0f0fff",
+    "0ffffYf",
+    "fYfR1Rf"
+  ], [
+    "fffffff",
+    "fffffff",
+    "fffffff",
+    "f0f0fff",
+    "0ffYf0f",
+    "fYfR1Rf"
+  ], [
+    "fffffff",
+    "fffffff",
+    "fffffff",
+    "f0f0fff",
+    "0Yfff0f",
+    "fYfR1Rf"
+  ], [
+    "fffffff",
+    "fffffff",
+    "fffffff",
+    "f0f0fff",
+    "0ffff0f",
+    "YYfR1Rf"
+  ], [
+    "f0f000f",
+    "0ffffff",
+    "f0ff03f",
+    "0f01f0f",
+    "f4fR2Rf",
+    "YY5RYRY"
+  ], [
+    "f0f000f",
+    "0ffffff",
+    "f0ff03f",
+    "0f01fYf",
+    "f4fR2Rf",
+    "YY5RYRf"
+  ], [
+    "f0f000f",
+    "0ffffff",
+    "f0ff03f",
+    "0f01f0f",
+    "f4fR2Rf",
+    "YYYRYRf"
+  ], [
+    "f0f000f",
+    "0ffffff",
+    "f0ff03f",
+    "0f01f0f",
+    "fYfR2Rf",
+    "YY5RYRf"
+  ], [
+    "00f0f00",
+    "ffff0ff",
+    "00fffff",
+    "fff130f",
+    "22fRYR5",
+    "YY4RYR5"
+  ], [
+    "00f0f00",
+    "ffff0ff",
+    "00fffff",
+    "fff130f",
+    "Y2fR3R5",
+    "YY4RYR5"
+  ], [
+    "5343f00",
+    "2112fff",
+    "556Rf40",
+    "221Yf1f",
+    "556RfR0",
+    "YY6RYRY"
+  ], [
+    "5343f00",
+    "2112fff",
+    "556Rf40",
+    "221YfYf",
+    "556RfR0",
+    "YY6RYR0"
+  ], [
+    "5343f00",
+    "211Yfff",
+    "556Rf40",
+    "221Yf1f",
+    "556RfR0",
+    "YY6RYR0"
+  ], [
+    "5343f00",
+    "2112fff",
+    "556Rf40",
+    "221Yf1f",
+    "556RfR0",
+    "YYYRYR0"
+  ], [
+    "4402300",
+    "10ff0ff",
+    "445R020",
+    "110Y0ff",
+    "445RYR3",
+    "YY5RYR1"
+  ], [
+    "23f2f11",
+    "fffffff",
+    "11fRf31",
+    "fffYff1",
+    "2YfR0R1",
+    "YY0RYR1"
+  ], [
+    "23f2f11",
+    "fffffff",
+    "11fRf31",
+    "fffYff1",
+    "Y3fR0R1",
+    "YY0RYR1"
+  ], [
+    "00f0f00",
+    "ff0ffff",
+    "ffffff0",
+    "f021fff",
+    "5R3RfY2",
+    "5RYRYYf"
+  ], [
+    "00f0f00",
+    "ff0ffff",
+    "ffffff0",
+    "f021fff",
+    "5RYRfY2",
+    "5RYR4Yf"
+  ], [
+    "00f0f00",
+    "ff0ffff",
+    "ffffff0",
+    "f021fff",
+    "5R3RfY2",
+    "YRYR4Yf"
+  ], [
+    "02f0f00",
+    "ffff0ff",
+    "0Rfffff",
+    "fYf021f",
+    "2YfR3R5",
+    "fY4RYRY"
+  ], [
+    "02f0f00",
+    "ffff0ff",
+    "0Rfffff",
+    "fYf021f",
+    "2YfRYR5",
+    "fY4RYR5"
+  ], [
+    "02f0f00",
+    "ffff0ff",
+    "0Rfffff",
+    "fYf021f",
+    "2YfR3R5",
+    "fYYRYR5"
+  ], [
+    "02f0f00",
+    "fYff0ff",
+    "0Rfffff",
+    "fYf021f",
+    "2YfR3R5",
+    "fY4RYR5"
+  ], [
+    "02f0f00",
+    "ffff0ff",
+    "0Rfffff",
+    "fYf021f",
+    "2YfR3R5",
+    "YY4RYR5"
+  ], [
+    "f2f000f",
+    "0ffffff",
+    "fRf102f",
+    "0Y21fYf",
+    "fYfR0Rf",
+    "4Y5RYRf"
+  ], [
+    "f2f000f",
+    "0ffffff",
+    "fRf102f",
+    "0Y2Yf3f",
+    "fYfR0Rf",
+    "4Y5RYRf"
+  ], [
+    "0004f0f",
+    "fff20f0",
     "ff0Rfff",
-    "f02Y502",
-    "0f4Rfff",
-    "f21YR55",
-    "3YYRYRf"
+    "f0fY260",
+    "2R3R2Yf",
+    "1RYRYY4"
   ], [
-    "2f21222",
-    "f2fRfff",
-    "4f2Y522",
-    "42fRfff",
-    "4f2YR51",
-    "YYYRYRR"
-  ], [
-    "2221222",
-    "fffRfff",
-    "222Y422",
-    "ff0R4ff",
-    "25YYRf1",
-    "fYYRYRR"
-  ], [
-    "222Y401",
-    "fffR2ff",
-    "242Y200",
-    "f0fR2ff",
-    "3f5YR11",
-    "fYYRYRR"
-  ], [
-    "f242222",
-    "2f4Rfff",
-    "f22Y522",
-    "2f4RYff",
-    "f34YR11",
-    "5YYRYRR"
-  ], [
-    "2f21222",
-    "f2fRfff",
-    "2f2Y122",
-    "f2fR04f",
-    "2ffYR4Y",
-    "fYYRYRR"
-  ], [
-    "22242f2",
-    "fffRf2f",
-    "222Y4f2",
-    "fffR32f",
-    "22YYRf2",
-    "ffYRYRf"
-  ], [
-    "222Y2f2",
-    "fffRf2f",
-    "222Y4f2",
-    "fffR02f",
-    "223YRf2",
-    "ffYRYRf"
-  ], [
-    "2f25222",
-    "f2fRfff",
-    "2f2Y422",
-    "f2fR0ff",
-    "2f3YRY2",
-    "f5YRYRf"
-  ], [
-    "22212f2",
-    "fffRf2f",
-    "222Y5f2",
-    "fffR02f",
-    "221YRf4",
-    "ffYRYRY"
-  ], [
-    "22222f2",
-    "fffff2f",
-    "22214f2",
-    "fffR42f",
-    "125YRf2",
-    "YfYRYRf"
-  ], [
-    "22222f2",
-    "fffff2f",
-    "22214f2",
-    "fffR42f",
-    "215YRf2",
-    "fYYRYRf"
-  ], [
-    "2222222",
-    "fffffff",
-    "2223422",
-    "ff1R0ff",
-    "22YYR12",
-    "ffYRYRf"
-  ], [
-    "22222f2",
-    "fffff2f",
-    "222Y4f2",
-    "fffR42f",
-    "225YRf2",
-    "ffYRYRf"
-  ], [
-    "2f22222",
-    "f2fffff",
-    "2f23222",
-    "f2fRYff",
-    "4fRYR52",
-    "YfYRYRf"
-  ], [
-    "2f22522",
-    "f2ff3ff",
-    "4f22522",
-    "42fRYff",
-    "4fRYR52",
-    "4YYRYRf"
-  ], [
-    "4020552",
-    "ff2f0ff",
-    "1ffY023",
-    "f02RYff",
-    "4fRYR53",
-    "4fYRYR3"
-  ], [
-    "f242222",
-    "2f4Rfff",
-    "f22Y122",
-    "2f4RYff",
-    "f3RYR55",
-    "YfYRYRf"
-  ], [
-    "f242222",
-    "2f4Rfff",
-    "f22Y122",
-    "2f4RYff",
-    "f3RYR55",
-    "1YYRYRf"
-  ], [
-    "2f2Y222",
-    "fffRfff",
-    "2f2Y222",
-    "f2fRYff",
-    "34RYR32",
-    "4fYRYRf"
-  ], [
-    "f242222",
-    "2f4Rfff",
-    "f22YY22",
-    "2f4RYff",
-    "f3RYR55",
-    "53YRYRf"
-  ], [
-    "f222222",
-    "2ffRfff",
-    "f22Y122",
-    "2f5RYff",
-    "f4RYRY1",
-    "Y4YRYRR"
-  ], [
-    "f242222",
-    "2ffRfff",
-    "f22Y122",
-    "2f4RYff",
-    "f5RYRY1",
-    "5YYRYRR"
-  ], [
-    "2f5Y222",
-    "f2fRfff",
-    "2f2Y222",
-    "f23RYff",
-    "4fRYRY5",
-    "4fYRYRR"
-  ], [
-    "f222222",
-    "2ffRfff",
-    "f22YY22",
-    "2f5RYff",
-    "f4RYRY1",
-    "14YRYRR"
-  ], [
-    "2131052",
-    "fffRfff",
-    "f22Y022",
-    "1f3RYYf",
-    "f4RYRY2",
-    "54YRYRR"
-  ], [
-    "f222222",
-    "2ffRfff",
-    "f22Y122",
-    "2f5RYff",
-    "f4RYRYY",
-    "14YRYRR"
-  ], [
-    "0f21231",
-    "fffRfff",
-    "0f2Y521",
-    "020RYff",
-    "4fRYR21",
-    "45YRYRY"
-  ], [
-    "2225252",
-    "f1f2fff",
-    "2f22Y25",
-    "f01RYf1",
-    "3fRYR50",
-    "34YRYR1"
-  ], [
-    "2222f22",
-    "ffff2ff",
-    "2422f22",
-    "54fRYff",
-    "54RYRY2",
-    "54YRYRf"
-  ], [
-    "2223512",
-    "ffff1ff",
-    "2fff122",
-    "f32RYff",
-    "4fRYRf5",
-    "4fYRYRY"
-  ], [
-    "2222f22",
-    "ffff2ff",
-    "2422f22",
-    "f4fR1ff",
-    "341YRY2",
-    "54YRYRf"
-  ], [
-    "22222f2",
-    "fffff2f",
-    "22255f2",
-    "fffR02f",
-    "223YRf4",
-    "ffYRYRY"
-  ], [
-    "4f20232",
-    "ffffff2",
-    "1f21005",
-    "f0fRfff",
-    "4f0YRY5",
-    "Y2YRYRR"
-  ], [
-    "1125522",
-    "f1f21ff",
-    "0225034",
-    "f1fR03f",
-    "1f1YRY4",
-    "fYYRYRR"
-  ], [
-    "2f21525",
-    "f2f04f4",
-    "2f21325",
-    "f2fR2f4",
-    "2fYYRY3",
-    "f1YRYRR"
-  ], [
-    "0221422",
-    "ffff123",
-    "122Y055",
-    "fffR023",
-    "1ffYRY3",
-    "f1YRYRR"
-  ], [
-    "2f41222",
-    "f24Rfff",
-    "2f2Y222",
-    "f24Rfff",
-    "5f2YRY1",
-    "Y5YRYRR"
-  ], [
-    "0221022",
-    "fffRfff",
-    "232Y124",
-    "f3fR0ff",
-    "2f5YRY4",
-    "fYYRYRR"
-  ], [
-    "2f23222",
-    "f2fRfff",
-    "2f2Y522",
-    "f2fR0ff",
-    "2fYYRY5",
-    "f4YRYRR"
-  ], [
-    "2f2Y222",
-    "f2fRfff",
-    "2f2Y322",
-    "f2fR3ff",
-    "2f1YRY4",
-    "f1YRYRR"
-  ], [
-    "2f41222",
-    "f24Rfff",
-    "2f2Y2R2",
-    "f24RfYf",
-    "5f2YRY1",
-    "Y5YRYRR"
-  ], [
-    "5241312",
+    "0004f0f",
+    "fff20f0",
     "ff0Rfff",
-    "522Y1R2",
-    "1f4RfYf",
-    "f24YRY5",
-    "5YYRYRR"
+    "f0fY260",
+    "2R3R2Yf",
+    "YRYR5Y4"
   ], [
-    "2f21222",
-    "f2fRfff",
-    "2f2Y4R2",
-    "f2fR4Yf",
-    "2fYYRY1",
-    "f5YRYRR"
+    "1323f4f",
+    "f1ffff0",
+    "120Rfff",
+    "151YfY0",
+    "6R1R0Yf",
+    "fRYR7Y6"
   ], [
-    "2f2Y222",
-    "f2fRfff",
-    "2f2Y4R2",
-    "f2fR4Yf",
-    "2f1YRY5",
-    "f1YRYRR"
+    "11f2f11",
+    "fffYfff",
+    "23fRff1",
+    "1ffYfff",
+    "2R0RfY3",
+    "1RYR0Yf"
   ], [
-    "2245f52",
-    "fffR20f",
-    "222YfR2",
-    "ff4RYYf",
-    "224YRY3",
-    "ffYRYRR"
-  ], [
-    "2f25212",
-    "f2fRfYf",
-    "2f2Y4R2",
-    "f2fR0Yf",
-    "2f3YRY1",
-    "f5YRYRR"
-  ], [
-    "2f25222",
-    "f2fRfff",
-    "2f2Y4R2",
-    "f2fR4Yf",
-    "2f1YRYY",
-    "f1YRYRR"
-  ], [
-    "2f25222",
-    "f2fRfff",
-    "2f2Y422",
-    "f2fR0ff",
-    "2f3YRYY",
-    "f5YRYRR"
-  ], [
-    "2f24222",
-    "f2f4fff",
-    "2f22322",
-    "f2fRYff",
-    "1fRYRY5",
-    "Y1YRYRR"
-  ], [
-    "2020101",
-    "ff2f0ff",
-    "22fY021",
-    "f02RYff",
-    "35RYRY1",
-    "3fYRYRR"
-  ], [
-    "2f22522",
-    "f2ffRff",
-    "4f23Y22",
-    "42fRYff",
-    "4fRYRY2",
-    "Y5YRYRR"
-  ], [
-    "222f122",
-    "fff2Rff",
-    "24f3Y22",
-    "f42RYff",
-    "f5RYRY1",
-    "5YYRYRR"
-  ], [
-    "2224522",
-    "fff4Rff",
-    "122YY22",
-    "01fRYff",
-    "1fRYRY3",
-    "01YRYRR"
-  ], [
-    "f225Y52",
-    "2ff3Rff",
-    "f421Y22",
-    "24fRYff",
-    "f0RYRY2",
-    "54YRYRR"
-  ], [
-    "0f23300",
-    "f2f0Rff",
-    "1f2fY20",
-    "124RYff",
-    "15RYRYY",
-    "02YRYRR"
-  ], [
-    "2243Y11",
-    "2fR0Rff",
-    "22YfY21",
-    "2fRRYff",
-    "25RYRYY",
-    "05YRYRR"
-  ], [
-    "22f2222",
-    "ff2ffff",
-    "24f3222",
-    "f4fRYff",
-    "34RYRYY",
-    "5fYRYRR"
-  ], [
-    "0222455",
-    "ffffff3",
-    "0222455",
-    "f0fR0Y3",
-    "0f1YRY5",
-    "f1YRYRR"
-  ], [
-    "2f22222",
+    "11f2f11",
     "fffffff",
-    "2f212R2",
-    "f2fRfYf",
-    "3f2YRY5",
-    "Y1YRYRR"
+    "23fRff1",
+    "1YfYfff",
+    "2R0RfY3",
+    "1RYR0Yf"
   ], [
-    "2f21525",
-    "f2f04f4",
-    "2f213R5",
-    "f2fR2Y4",
-    "2fYYRY3",
-    "f1YRYRR"
+    "1f02f25",
+    "4f1ff30",
+    "100Rf3f",
+    "4f0Y630",
+    "4RYR0Y5",
+    "fRYR6Y5"
   ], [
-    "2f22242",
-    "f2fff4f",
-    "2f2Y2R2",
-    "f2fRfYf",
-    "2f2YRY5",
-    "f3YRYRR"
+    "f000f0f",
+    "ffffff0",
+    "f31ffff",
+    "fY10f40",
+    "fR2RfYf",
+    "fRYR5Y3"
   ], [
-    "2222222",
+    "f000f00",
+    "ff3ffff",
+    "f420f00",
+    "f0215ff",
+    "3RR1430",
+    "3RYRYYY"
+  ], [
+    "f000f00",
+    "ff3ffff",
+    "f420f00",
+    "f0215ff",
+    "3RR14Y0",
+    "3RYRYYf"
+  ], [
+    "f000f00",
+    "ff3ffff",
+    "f420f00",
+    "f0215ff",
+    "3RRY430",
+    "3RYRYYf"
+  ], [
+    "f000f00",
+    "ff3ffff",
+    "f420f00",
+    "fY215ff",
+    "3RR1430",
+    "3RYRYYf"
+  ], [
+    "f000f00",
+    "ff3ffff",
+    "f420f00",
+    "f0215ff",
+    "3RR1430",
+    "YRYRYYf"
+  ], [
+    "f000001",
+    "ffffff1",
+    "ff5ff01",
+    "f010f74",
+    "2RRfY26",
+    "fRYRYY6"
+  ], [
+    "f000001",
+    "ffffff1",
+    "ff5ff01",
+    "f0Y0f74",
+    "2RRf326",
+    "fRYRYY6"
+  ], [
+    "1235111",
+    "ff00fff",
+    "3Yf5111",
+    "3R0Rfff",
+    "6RfY402",
+    "3RYR4YY"
+  ], [
+    "1235111",
+    "ff00fff",
+    "3Yf5111",
+    "3R0Rfff",
+    "6RfY402",
+    "3RYRYYf"
+  ], [
+    "1235111",
+    "ff00fff",
+    "3Yf5111",
+    "3R0Rfff",
+    "6RfY402",
+    "YRYR4Yf"
+  ], [
+    "f2f3f21",
+    "fff3fff",
+    "5Yf0011",
+    "fR0Rfff",
+    "4R6Y0Y4",
+    "1RYR5Yf"
+  ], [
+    "f2f3f21",
+    "fYf3fff",
+    "5Yf0011",
+    "fR0Rfff",
+    "4R6Y024",
+    "1RYR5Yf"
+  ], [
+    "02f5000",
+    "ff01fff",
+    "3YfY200",
+    "1R0R1ff",
+    "6RfY7R3",
+    "6RYR4YY"
+  ], [
+    "02f5000",
+    "ff01fff",
+    "3YfY200",
+    "1R0R1ff",
+    "6RfY7R3",
+    "6RYRYYf"
+  ], [
+    "02f5000",
+    "fY01fff",
+    "3YfY200",
+    "1R0R1ff",
+    "6RfY7R3",
+    "6RYR4Yf"
+  ], [
+    "02f5000",
+    "ff01fff",
+    "3YfY200",
+    "1R0R1ff",
+    "6RfY7R3",
+    "YRYR4Yf"
+  ], [
+    "02f3032",
+    "ff21f1f",
+    "0YfY002",
+    "4R0R4Yf",
+    "6RfY7R2",
+    "4RYR5Yf"
+  ], [
+    "02f3032",
+    "ff21f1f",
+    "0YfY002",
+    "4R0R41f",
+    "6RYY7R2",
+    "4RYR5Yf"
+  ], [
+    "23f3100",
+    "ff0Y0ff",
+    "fYfYf00",
+    "2R0R1ff",
+    "4R6Y5R0",
+    "2RYR1Yf"
+  ], [
+    "f477000",
+    "f432fff",
+    "fY02500",
+    "fR0Rfff",
+    "fRYY166",
+    "5RYRfYf"
+  ], [
+    "053f000",
+    "f210fff",
+    "0f1f000",
+    "f0R0fff",
+    "0RYf034",
+    "6RYRfYY"
+  ], [
+    "053f000",
+    "f210fff",
+    "0f1f000",
+    "f0R0fff",
+    "0RYf0Y4",
+    "6RYRfY4"
+  ], [
+    "000f000",
+    "fff0fff",
+    "1f2f200",
+    "10R04ff",
+    "6RYf513",
+    "4RYRYYf"
+  ], [
+    "000f000",
+    "fff0fff",
+    "1fYf200",
+    "10R04ff",
+    "6RYf513",
+    "4RYR5Yf"
+  ], [
+    "000f000",
+    "fff0fff",
+    "1f2f200",
+    "10R04ff",
+    "6RYf513",
+    "YRYR5Yf"
+  ], [
+    "03f6010",
+    "ff30fff",
+    "0f10300",
+    "f0R4fff",
+    "7RYYf53",
+    "2RYR7Yf"
+  ], [
+    "5040f13",
+    "5f1f013",
+    "5310f76",
+    "5YRf023",
+    "5RYRf76",
+    "5RYR4YY"
+  ], [
+    "5040f13",
+    "5f1f013",
+    "5310f76",
+    "5YRf023",
+    "5RYRf76",
+    "5RYRYY6"
+  ], [
+    "5040f13",
+    "5f1f013",
+    "5310f76",
+    "5YRY023",
+    "5RYRf76",
+    "5RYR4Y6"
+  ], [
+    "5040f13",
+    "5f1f013",
+    "5Y10f76",
+    "5YRf023",
+    "5RYRf76",
+    "5RYR4Y6"
+  ], [
+    "5040f13",
+    "5f1f013",
+    "5310f76",
+    "5YRf023",
+    "5RYRf76",
+    "YRYR4Y6"
+  ], [
+    "00030f0",
+    "fff3f0f",
+    "5021ff0",
+    "1YR321f",
+    "5RYRfY4",
+    "5RYRfYf"
+  ], [
+    "00030f0",
+    "fff3f0f",
+    "50Y1ff0",
+    "1YR321f",
+    "5RYRff4",
+    "5RYRfYf"
+  ], [
+    "000100f",
+    "fff2ff0",
+    "f30ff0f",
+    "fYf00f0",
+    "fR1Rf4f",
+    "fRYRYY4"
+  ], [
+    "000100f",
+    "fff2ff0",
+    "fY0ff0f",
+    "fYf00f0",
+    "fR1Rf4f",
+    "fRYR5Y4"
+  ], [
+    "000100f",
+    "fff2ff0",
+    "f30ff0f",
+    "fYf00f0",
+    "fR1Rf4f",
+    "YRYR5Y4"
+  ], [
+    "0114f11",
     "fffffff",
-    "22221R2",
-    "fffRYYf",
-    "22RYRY2",
-    "YfYRYRR"
+    "362Rf01",
+    "0Y1Y1ff",
+    "5R2Rf54",
+    "3RYRYYf"
   ], [
-    "22f2212",
-    "ff2ffff",
-    "24f20R2",
-    "f4fRYYf",
-    "35RYRY1",
-    "5YYRYRR"
+    "0114f11",
+    "fffYfff",
+    "362Rf01",
+    "0Y1Y1ff",
+    "5R2Rf54",
+    "3RYR2Yf"
   ], [
-    "2222222",
+    "0114f11",
     "fffffff",
-    "222Y0R2",
-    "fffRYYf",
-    "22RYRY2",
-    "ffYRYRR"
-  ], [
-    "2223122",
-    "ffffRff",
-    "2222YR2",
-    "f30RYYf",
-    "52RYRY1",
-    "Y5YRYRR"
-  ], [
-    "2224522",
-    "fff4Rf4",
-    "2222YR4",
-    "ff1RYY3",
-    "23RYRY1",
-    "fYYRYRR"
-  ], [
-    "222354f",
-    "fff0R42",
-    "222YYRf",
-    "fffRYY2",
-    "22RYRYf",
-    "ffYRYRR"
-  ], [
-    "2224Y12",
-    "fff4R0f",
-    "2224YR2",
-    "ff5RYYf",
-    "22RYRY1",
-    "ffYRYRR"
-  ], [
-    "2222542",
-    "ffffRYf",
-    "2422YR2",
-    "f40RYYf",
-    "f2RYRY3",
-    "54YRYRR"
-  ], [
-    "2222442",
-    "ffffR0f",
-    "2221YR2",
-    "ff1RYYf",
-    "22RYRYY",
-    "ffYRYRR"
-  ], [
-    "22f2212",
-    "ff2ffYf",
-    "24f32R2",
-    "f4fRYYf",
-    "35RYRY1",
-    "5fYRYRR"
-  ], [
-    "2222222",
-    "fffff1f",
-    "22212R2",
-    "fffRYYf",
-    "22RYRYY",
-    "ffYRYRR"
-  ], [
-    "0242213",
-    "ff3ffYf",
-    "04230R3",
-    "f2fRfYf",
-    "0f0YRY1",
-    "42YRYRR"
-  ], [
-    "2f22242",
-    "f2fff4f",
-    "2f252R2",
-    "f2fRfYf",
-    "2f2YRYY",
-    "f3YRYRR"
-  ], [
-    "22214f5",
-    "ffff12f",
-    "22230f5",
-    "f0fR02f",
-    "351YRYY",
-    "ffYRYRR"
-  ], [
-    "2f25222",
-    "f2fRfff",
-    "2f4Y222",
-    "f20Rfff",
-    "1fRY235",
-    "Y1YRfRY"
-  ], [
-    "2241222",
-    "fffRfff",
-    "2f0Y222",
-    "f20Rfff",
-    "5fRY231",
-    "5YYRfRY"
-  ], [
-    "2f21222",
-    "f2fRfff",
-    "2f2Y222",
-    "f2RRfff",
-    "2fRY2Y1",
-    "4YYRfRY"
-  ], [
-    "0041220",
-    "ff0Rf0f",
-    "00RY250",
-    "ffYRf3f",
-    "12RY232",
-    "YfYR5RY"
-  ], [
-    "2234250",
-    "213Rfff",
-    "21RY252",
-    "20YRfff",
-    "21RY255",
-    "2YYR1RY"
-  ], [
-    "2252251",
-    "ffYR140",
-    "22RYf01",
-    "ffYR040",
-    "33RY201",
-    "ffYR1RY"
-  ], [
-    "4f5Y222",
-    "423Rfff",
-    "4fRY222",
-    "42YRfff",
-    "4fRY211",
-    "05YRfRY"
-  ], [
-    "4f51222",
-    "423Rfff",
-    "4fRY222",
-    "42YRfff",
-    "4fRY2Y1",
-    "05YRfRY"
-  ], [
-    "4f51222",
-    "423Rfff",
-    "4fRY222",
-    "42YRfff",
-    "4fRY21Y",
-    "05YRfRY"
-  ], [
-    "222Y222",
-    "fffRfff",
-    "251Y222",
-    "f30Rfff",
-    "45RY213",
-    "45YRfRY"
-  ], [
-    "4053521",
-    "fffRfff",
-    "310Y221",
-    "f00Rfff",
-    "4fRY521",
-    "41YRYRY"
-  ], [
-    "2223222",
-    "fffRfff",
-    "22YY242",
-    "ffRRf0f",
-    "22RY5YR",
-    "ffYRYRY"
-  ], [
-    "2225222",
-    "fffRfff",
-    "222Y222",
-    "ffRRfff",
-    "22RYfYf",
-    "ffYRYRY"
-  ], [
-    "2f21222",
-    "f2fRfff",
-    "2f2Y222",
-    "f2RRfff",
-    "1fRY2Y5",
-    "Y4YRfRY"
-  ], [
-    "2224222",
-    "fffRfff",
-    "22YY252",
-    "ffRRf0f",
-    "52RYfYR",
-    "YfYR3RY"
-  ], [
-    "2225222",
-    "fffRfff",
-    "22YY242",
-    "ffRRf4f",
-    "21RYfYR",
-    "fYYR1RY"
-  ], [
-    "2231222",
-    "ffYRfff",
-    "22YY242",
-    "ffRRf0f",
-    "22RYfYR",
-    "ffYR1RY"
-  ], [
-    "222Y222",
-    "fffRfff",
-    "22YY242",
-    "ffRRf0f",
-    "22RYfYR",
-    "ffYR5RY"
-  ], [
-    "2203f4f",
-    "fffR101",
-    "02YY2Rf",
-    "f2RRfY1",
-    "25RYfYR",
-    "Y5YR1RY"
-  ], [
-    "2212130",
-    "2f0Rf3f",
-    "25YYfR0",
-    "20RRfYf",
-    "45RYfYR",
-    "4YYR1RY"
-  ], [
-    "2210f31",
-    "ffYR130",
-    "22YYfRf",
-    "40RRfY2",
-    "45RYfYR",
-    "45YR1RY"
-  ], [
-    "2223f1f",
-    "fffR202",
-    "45YYfRf",
-    "43RR2Y1",
-    "45RYfYR",
-    "45YRYRY"
-  ], [
-    "2232f1f",
-    "2f3R100",
-    "22YY2Rf",
-    "20RRfYY",
-    "45RYfYR",
-    "45YR1RY"
-  ], [
-    "2225222",
-    "fffRfff",
-    "22YY241",
-    "ffRRf4Y",
-    "22RYfYR",
-    "ffYR1RY"
-  ], [
-    "224Y222",
-    "fffRfff",
-    "240Y222",
-    "f4RRfff",
-    "25RY2Y2",
-    "f4YR5RY"
-  ], [
-    "2f21242",
-    "f2fRfff",
-    "2f2Y232",
-    "f2RRfYf",
-    "2fRY2Y1",
-    "54YRfRY"
-  ], [
-    "2f21222",
-    "f2fRfff",
-    "2f2Y222",
-    "f2RRfff",
-    "2fRY2YY",
-    "51YRfRY"
-  ], [
-    "2223222",
-    "fffRfff",
-    "251Y222",
-    "f30Rfff",
-    "45RY21Y",
-    "45YRfRY"
-  ], [
-    "2f22222",
-    "f2fffff",
-    "2f11222",
-    "f20Rfff",
-    "4fRY25Y",
-    "43YRfRY"
-  ], [
-    "22f3222",
-    "ff2Rfff",
-    "22fY222",
-    "ff2Rfff",
-    "Y2fYf22",
-    "Yf2RRff"
-  ], [
-    "2222222",
-    "fffRfff",
-    "222Y222",
-    "fffRfff",
-    "222Y222",
-    "YYfRR0f"
-  ], [
-    "2f21222",
-    "f2fRfff",
-    "2f4Y222",
-    "f20Rfff",
-    "YfRY322",
-    "Y1YRRff"
-  ], [
-    "2f21222",
-    "f2fRfff",
-    "2f5Y222",
-    "f20Rfff",
-    "3fRY122",
-    "YYYRRff"
-  ], [
-    "2f2Y222",
-    "f2fRfff",
-    "2f1Y222",
-    "f20Rfff",
-    "1fRY522",
-    "Y3YRRff"
-  ], [
-    "2f25222",
-    "f2fRfff",
-    "2f3Y222",
-    "f20Rfff",
-    "4fRYY22",
-    "Y5YRRff"
-  ], [
-    "2203f00",
-    "2ffR0ff",
-    "224Yff0",
-    "210R00f",
-    "25RYff0",
-    "Y5YRRYf"
-  ], [
-    "2f24222",
-    "f2fRfff",
-    "2f1Y222",
-    "f20Rfff",
-    "3fRY521",
-    "Y5YRRfY"
-  ], [
-    "222Y222",
-    "fffRfff",
-    "222Y222",
-    "fffRfff",
-    "f22Y122",
-    "Yf4RRf1"
-  ], [
-    "2222222",
-    "fffRfff",
-    "222Y222",
-    "fffRfff",
-    "222YY22",
-    "Yf0RRff"
-  ], [
-    "2222222",
-    "fffRfff",
-    "222Y222",
-    "fffRfff",
-    "222Y222",
-    "Yf0RRfY"
-  ], [
-    "2221222",
-    "fffRfff",
-    "312Y422",
-    "30fR4ff",
-    "3R5Y422",
-    "YY5R4ff"
-  ], [
-    "2222222",
-    "fYfRfff",
-    "2R2Y222",
-    "fYfRfff",
-    "2R2Y222",
-    "YYfR0Rf"
-  ], [
-    "21252f2",
-    "fYfRf2f",
-    "2R2Y2f2",
-    "fYfRf2f",
-    "5R1YRf2",
-    "YYYRYRR"
-  ], [
-    "21232f2",
-    "fYfRf2f",
-    "2R2Y5f2",
-    "fYfR02f",
-    "1R4YRf2",
-    "YY4RYRf"
-  ], [
-    "2Y2f222",
-    "fYfRfff",
-    "2R2Y222",
-    "fYfRfff",
-    "2R2Y242",
-    "fYfR3Rf"
-  ], [
-    "2Y242f2",
-    "fYfRf2f",
-    "2R2Y2f2",
-    "fYfRf2f",
-    "2R5YRf2",
-    "fYYRYRR"
-  ], [
-    "21212f2",
-    "fYfRf2f",
-    "2R2Y2f2",
-    "fYfRf2f",
-    "2RYYRf2",
-    "fYYRYRR"
-  ], [
-    "252Y2f2",
-    "fYfRf2f",
-    "2R2Y2f2",
-    "fYfRf2f",
-    "2R3YRf2",
-    "fYYRYRR"
-  ], [
-    "f542222",
-    "2Y4Rfff",
-    "fR2Y522",
-    "2Y4RYff",
-    "fR4YR13",
-    "1YYRYRR"
-  ], [
-    "f542222",
-    "2Y4Rfff",
-    "fR2Y222",
-    "2Y4Rfff",
-    "fR4YRY1",
-    "1YYRYRR"
-  ], [
-    "21212f2",
-    "fYfRf2f",
-    "2R2Y4f2",
-    "fYfR32f",
-    "2R5YRfY",
-    "fYYRYRR"
-  ], [
-    "222Y222",
-    "fYfRfff",
-    "2R2Y222",
-    "fYfRfff",
-    "2R2Y222",
-    "fYfR0Rf"
-  ], [
-    "2Y232f2",
-    "fYfRf2f",
-    "2R2Y4f2",
-    "fYfR02f",
-    "2R5YRf2",
-    "fY5RYRf"
-  ], [
-    "21212f2",
-    "fYfRf2f",
-    "2R2Y4f2",
-    "fYfR42f",
-    "2R5YRf2",
-    "fYYRYRf"
-  ], [
-    "2f4Yff2",
-    "fY4R22f",
-    "2R2Y3f2",
-    "fY4R02f",
-    "2R4YRf2",
-    "fY5RYRf"
-  ], [
-    "f542222",
-    "2Y4Rfff",
-    "fR2Y322",
-    "2Y4RYff",
-    "fR4YR11",
-    "1Y4RYRf"
-  ], [
-    "f142222",
-    "2Y4Rfff",
-    "fR2Y322",
-    "2Y4Rfff",
-    "fR4YRY5",
-    "1Y4RYRf"
-  ], [
-    "21212f2",
-    "fYfRf2f",
-    "2R2Y4f2",
-    "fYfR02f",
-    "2R2YRf3",
-    "fYfRYRY"
-  ], [
-    "2222222",
-    "fYfRfff",
-    "2R2Y222",
-    "fYfRfff",
-    "2R2Y2Y2",
-    "fYfR0Rf"
-  ], [
-    "2141f22",
-    "f04R2ff",
-    "2R4Yf22",
-    "fY4R5ff",
-    "2R4Y322",
-    "fYYR5ff"
-  ], [
-    "41fY522",
-    "402R3ff",
-    "4RfY522",
-    "4Y2R3ff",
-    "4RfY322",
-    "4Y1R3ff"
-  ], [
-    "31f1400",
-    "302R2ff",
-    "3RfY400",
-    "3Y4R0ff",
-    "3R2Y400",
-    "3Y4RYff"
-  ], [
-    "4231500",
-    "400R2ff",
-    "4RfY500",
-    "2Y3R0ff",
-    "4R3Y501",
-    "4Y3R5fY"
-  ], [
-    "22f1222",
-    "ff2Rfff",
-    "41fY522",
-    "402R3ff",
-    "4RfY522",
-    "4YYR3ff"
-  ], [
-    "22fY222",
-    "ff2Rfff",
-    "41fY322",
-    "402R3ff",
-    "4RfY522",
-    "4Y1R3ff"
-  ], [
-    "22f1222",
-    "ff2Rfff",
-    "41fY522",
-    "402R3ff",
-    "4RfY522",
-    "4Y5RYff"
-  ], [
-    "222Y222",
-    "fffRfff",
-    "222Y222",
-    "fffRfff",
-    "222Y222",
-    "fYfRR0f"
-  ], [
-    "2f5Y222",
-    "f23Rfff",
-    "2f3Y222",
-    "f21Rfff",
-    "4fRY522",
-    "4YYRRff"
-  ], [
-    "2f2Y222",
-    "f2fRfff",
-    "2f5Y222",
-    "f23Rfff",
-    "3fRYY22",
-    "45YRRff"
-  ], [
-    "233Y250",
-    "ff2Rf2f",
-    "043Yf50",
-    "f20R02f",
-    "04RYf50",
-    "f4YRRYf"
-  ], [
-    "2f5Y222",
-    "f23Rfff",
-    "2f3Y222",
-    "f20Rfff",
-    "4fRY125",
-    "41YRRfY"
-  ], [
-    "222Y222",
-    "fffRfff",
-    "222Y222",
-    "fffRfff",
-    "222YY22",
-    "ff4RRff"
-  ], [
-    "223Y222",
-    "fffRfff",
-    "420Y2f2",
-    "420Rf2f",
-    "45RYff2",
-    "YRYRRYf"
-  ], [
-    "222Y222",
-    "fffRfff",
-    "224Y232",
-    "ff4Rf0f",
-    "2YRY5f2",
-    "fRYRRYf"
-  ], [
-    "253Y222",
-    "f2fRfff",
-    "15RY212",
-    "42YR10f",
-    "1fRY414",
-    "YRYRRY1"
-  ], [
-    "225Y450",
-    "ff2R0ff",
-    "3fRY220",
-    "f0YR1ff",
-    "3fRYY50",
-    "0RYRRYf"
-  ], [
-    "222Y222",
-    "fffRfff",
-    "22fY222",
-    "ff1R0ff",
-    "2fRYY32",
-    "fRYRRYf"
-  ], [
-    "222Y222",
-    "fffRfff",
-    "221Y222",
-    "f30Rfff",
-    "14RYRY2",
-    "YRYRRYf"
-  ], [
-    "222Y222",
-    "fffRfff",
-    "222Y222",
-    "f14R01f",
-    "2YRYRY2",
-    "fRYRRYf"
-  ], [
-    "f22Y432",
-    "0ffR132",
-    "ffRY2f5",
-    "10YR432",
-    "f2RYRY5",
-    "YRYRRY5"
-  ], [
-    "321Y142",
-    "3fYR02f",
-    "3fRY2f5",
-    "30YRf22",
-    "3fRYRY5",
-    "3RYRRY5"
-  ], [
-    "f22Y222",
-    "2ffRfff",
-    "ffRY222",
-    "23YRf4f",
-    "f2RYR54",
+    "362Rf01",
+    "0Y1Y1ff",
+    "5RYRf54",
+    "3RYR2Yf"
+  ], [
+    "0114f11",
+    "fffffff",
+    "3Y2Rf01",
+    "0Y1Y1ff",
+    "5R2Rf54",
+    "3RYR2Yf"
+  ], [
+    "00f0044",
+    "fffff31",
+    "f0fR144",
+    "fY3Y122",
+    "5RfR144",
     "YRYRRYY"
   ], [
-    "551Y212",
-    "3ffR21f",
-    "55RYf54",
-    "30YR214",
-    "fYRYRf4",
-    "fRYRRYY"
+    "00f0044",
+    "fffff31",
+    "f0fR144",
+    "fY3Y122",
+    "5RfR1Y4",
+    "YRYRRY3"
   ], [
-    "2f5Y522",
-    "f2YR3ff",
-    "2fRY222",
-    "f2YRfff",
-    "1fRYR41",
-    "0RYRRYY"
+    "00f0044",
+    "fffff31",
+    "f0fR144",
+    "fY3Y122",
+    "5RfRY44",
+    "YRYRRY3"
   ], [
-    "5f0Y432",
-    "12fR13f",
-    "5fRY235",
-    "12YRf31",
-    "5fRYRY5",
-    "2RYRRYY"
+    "00f0044",
+    "fffYf31",
+    "f0fR144",
+    "fY3Y122",
+    "5RfR144",
+    "YRYRRY3"
   ], [
-    "222Y2f2",
-    "fffRf2f",
-    "22RY2f2",
-    "ffYRf2f",
-    "22RYRfY",
-    "fRYRRYY"
+    "00f0044",
+    "fffff31",
+    "fYfR144",
+    "fY3Y122",
+    "5RfR144",
+    "YRYRRY3"
   ], [
-    "222Y222",
+    "00f0044",
+    "fffff31",
+    "f0fR144",
+    "fY3Y122",
+    "YRfR144",
+    "YRYRRY3"
+  ], [
+    "0f54f6f",
+    "ff24f0f",
+    "4f2Rf1f",
+    "fY0Y13f",
+    "6RYR163",
+    "YRYRRYf"
+  ], [
+    "f00ff00",
+    "fffffff",
+    "ff1ff00",
+    "2030fff",
+    "fRR2043",
+    "YRYRfYY"
+  ], [
+    "f00ff00",
+    "fffffff",
+    "ff1ff00",
+    "2030fff",
+    "fRR20Y3",
+    "YRYRfYf"
+  ], [
+    "f00ff00",
+    "fffffff",
+    "ff1ff00",
+    "2030fff",
+    "YRR2043",
+    "YRYRfYf"
+  ], [
+    "f040f00",
+    "fffffff",
+    "ff05ff0",
+    "f01231f",
+    "3RRYff1",
+    "YRYR4Yf"
+  ], [
+    "0003f0f",
+    "fff0fff",
+    "f11ff0f",
+    "ffY00f0",
+    "fRR0f2f",
+    "YRYR4Y2"
+  ], [
+    "0003f0f",
+    "fff0fff",
+    "f11ff0f",
+    "fYf00f0",
+    "fRR0f2f",
+    "YRYR4Y2"
+  ], [
+    "f100104",
+    "ffffff4",
+    "ff3ff04",
+    "f000f54",
+    "3R1fY24",
+    "RRYRY5Y"
+  ], [
+    "f100104",
+    "ffffff4",
+    "ff3ff04",
+    "f000f54",
+    "3R1fY24",
+    "RRYRYY4"
+  ], [
+    "0000200",
+    "fff0fff",
+    "022fR00",
+    "f3f0Yff",
+    "4R1fY22",
+    "RRYRYfY"
+  ], [
+    "0000200",
+    "fff0fff",
+    "022fR00",
+    "f3f0Yff",
+    "4R1fY22",
+    "RRYRYYf"
+  ], [
+    "0000200",
+    "fff0Yff",
+    "022fR00",
+    "f3f0Yff",
+    "4R1fY22",
+    "RRYRYff"
+  ], [
+    "0000200",
+    "fff0fff",
+    "022fR00",
+    "f3f0Yff",
+    "4R1YY22",
+    "RRYRYff"
+  ], [
+    "0000200",
+    "fff0fff",
+    "022fR00",
+    "fYf0Yff",
+    "4R1fY22",
+    "RRYRYff"
+  ], [
+    "0000200",
+    "fff0fff",
+    "022fR00",
+    "f3f0Yff",
+    "YR1fY22",
+    "RRYRYff"
+  ], [
+    "f604601",
+    "fff33ff",
+    "fYffR51",
+    "0RR4Yff",
+    "7RY1Y25",
+    "RRYRYfY"
+  ], [
+    "f604601",
+    "fff3Yff",
+    "fYffR51",
+    "0RR4Yff",
+    "7RY1Y25",
+    "RRYRYff"
+  ], [
+    "f604601",
+    "fff33ff",
+    "fYffR51",
+    "0RR4Yff",
+    "7RYYY25",
+    "RRYRYff"
+  ], [
+    "f604601",
+    "fff33ff",
+    "fYYfR51",
+    "0RR4Yff",
+    "7RY1Y25",
+    "RRYRYff"
+  ], [
+    "f604601",
+    "fYf33ff",
+    "fYffR51",
+    "0RR4Yff",
+    "7RY1Y25",
+    "RRYRYff"
+  ], [
+    "f604601",
+    "fff33ff",
+    "fYffR51",
+    "0RR4Yff",
+    "YRY1Y25",
+    "RRYRYff"
+  ], [
+    "f066500",
+    "ff324ff",
+    "fYffR05",
+    "0RR6Yf1",
+    "7RY0Y15",
+    "RRYRYY3"
+  ], [
+    "f0f1001",
+    "fff4fff",
+    "0ff1252",
+    "f0f41ff",
+    "6RfYY06",
+    "RRYRYf3"
+  ], [
+    "030f000",
+    "fffffff",
+    "0Y1f200",
+    "fRRf0ff",
+    "2RYfY13",
+    "RRYRYfY"
+  ], [
+    "030f000",
+    "fffffff",
+    "0Y1f200",
+    "fRRf0ff",
+    "2RYfY13",
+    "RRYRYYf"
+  ], [
+    "030f000",
+    "fffffff",
+    "0Y1f200",
+    "fRRf0ff",
+    "2RYYY13",
+    "RRYRYff"
+  ], [
+    "030f000",
+    "fffffff",
+    "0YYf200",
+    "fRRf0ff",
+    "2RYfY13",
+    "RRYRYff"
+  ], [
+    "030f000",
+    "fYfffff",
+    "0Y1f200",
+    "fRRf0ff",
+    "2RYfY13",
+    "RRYRYff"
+  ], [
+    "030f000",
+    "fffffff",
+    "0Y1f200",
+    "fRRf0ff",
+    "YRYfY13",
+    "RRYRYff"
+  ], [
+    "06350f0",
+    "fff0fff",
+    "030f1f0",
+    "fY0f20f",
+    "5RR1Yf4",
+    "RRYRY6Y"
+  ], [
+    "06350f0",
+    "fff0fff",
+    "030f1f0",
+    "fY0f20f",
+    "5RRYYf4",
+    "RRYRY6f"
+  ], [
+    "100100f",
+    "fff2ff0",
+    "233ff0f",
+    "4Yf01f0",
+    "fRR0Y5f",
+    "RRYRYY5"
+  ], [
+    "100100f",
+    "fff2ff0",
+    "233ff0f",
+    "4YY01f0",
+    "fRR0Y5f",
+    "RRYRY65"
+  ], [
+    "100100f",
+    "fff2ff0",
+    "2Y3ff0f",
+    "4Yf01f0",
+    "fRR0Y5f",
+    "RRYRY65"
+  ], [
+    "06310f0",
+    "f2fffff",
+    "061f4f0",
+    "fY1fY0f",
+    "0RR5Yf0",
+    "RRYRY3f"
+  ], [
+    "06310f0",
+    "f2fffff",
+    "061f4f0",
+    "fY1f40f",
+    "YRR5Yf0",
+    "RRYRY3f"
+  ], [
+    "03f0022",
+    "fffff11",
+    "3ff0f22",
+    "100ff11",
+    "YRf2Y55",
+    "RRYRY44"
+  ], [
+    "4102011",
+    "fff2fff",
+    "43f2111",
+    "00fRfff",
+    "51fY314",
+    "0RfRYfY"
+  ], [
+    "4102011",
+    "fff2fff",
+    "43f2111",
+    "00fRfff",
+    "51fYY14",
+    "0RfRYff"
+  ], [
+    "1104010",
+    "fff0fff",
+    "35f4010",
+    "31fRfff",
+    "6RfY225",
+    "0RfRYYY"
+  ], [
+    "1104010",
+    "fff0fff",
+    "35f4010",
+    "31fRfff",
+    "6RfYY25",
+    "0RfRYYf"
+  ], [
+    "1104010",
+    "fff0fff",
+    "35f4010",
+    "3YfRfff",
+    "6RfY225",
+    "0RfRYYf"
+  ], [
+    "0005106",
+    "ffff0ff",
+    "0513400",
+    "f0fR4ff",
+    "7RfY2Y0",
+    "1RfRYYf"
+  ], [
+    "0616107",
+    "f3040f2",
+    "3ffY107",
+    "41fR1ff",
+    "5RfY820",
+    "fR0RYYf"
+  ], [
+    "00f0200",
+    "ff0f1ff",
+    "55f2200",
+    "110R4ff",
+    "5RfY430",
+    "1RYRYYf"
+  ], [
+    "00f0200",
+    "ff0f1ff",
+    "55f2200",
+    "110R4ff",
+    "5RfY430",
+    "YR5RYYf"
+  ], [
+    "00461f0",
+    "fff21ff",
+    "000Yff0",
+    "fffR30f",
+    "460YRf5",
+    "0RfRY1Y"
+  ], [
+    "00461f0",
+    "fff21ff",
+    "000Yff0",
+    "fffR30f",
+    "4Y0YRf5",
+    "0RfRY15"
+  ], [
+    "0006600",
+    "fff34ff",
+    "000Y0f0",
+    "fffR01f",
+    "252YRf7",
+    "2RfRYY7"
+  ], [
+    "0006600",
+    "fffY4ff",
+    "000Y0f0",
+    "fffR01f",
+    "252YRf7",
+    "2RfRY37"
+  ], [
+    "fff0fff",
+    "fff0fff",
+    "fffYRff",
+    "fffRYff",
+    "fffYRf0",
+    "fR1RYfY"
+  ], [
+    "fff0fff",
+    "fff0fff",
+    "fffYRff",
+    "fffRYff",
+    "fffYRf0",
+    "fR1RYY0"
+  ], [
+    "fff0fff",
+    "fff0Yff",
+    "fffYRff",
+    "fffRYff",
+    "fffYRf0",
+    "fR1RYf0"
+  ], [
+    "fff0fff",
+    "fffYfff",
+    "fffYRff",
+    "fffRYff",
+    "fffYRf0",
+    "fR1RYf0"
+  ], [
+    "fff0fff",
+    "fff0fff",
+    "fffYRff",
+    "fffRYff",
+    "fYfYRf0",
+    "fR1RYf0"
+  ], [
+    "f3f2400",
+    "01fRfff",
+    "f0fYR00",
+    "010RYff",
+    "f0fYR33",
+    "YR5RYfY"
+  ], [
+    "f3f2400",
+    "01fRfff",
+    "f0fYR00",
+    "010RYff",
+    "f0fYR33",
+    "YR5RYYf"
+  ], [
+    "f3f2400",
+    "01fRYff",
+    "f0fYR00",
+    "010RYff",
+    "f0fYR33",
+    "YR5RYff"
+  ], [
+    "12fY2f1",
+    "fffR300",
+    "02fYRf1",
+    "fffRY00",
+    "54fYRf1",
+    "YRfRY50"
+  ], [
+    "12f42f1",
+    "fffR300",
+    "02fYRf1",
+    "fffRY00",
+    "5YfYRf1",
+    "YRfRY50"
+  ], [
+    "12f42f1",
+    "fffR300",
+    "02fYRf1",
+    "fffRY00",
+    "Y4fYRf1",
+    "YRfRY50"
+  ], [
+    "0005400",
+    "fff2fff",
+    "000Y0f0",
+    "fffR00f",
+    "415YRf6",
+    "fRYRY36"
+  ], [
+    "0005400",
+    "fff2fff",
+    "000Y0f0",
+    "fffR00f",
+    "415YRf6",
+    "YRfRY36"
+  ], [
+    "0044100",
+    "ff021ff",
+    "54f2600",
+    "510R3ff",
+    "50fY600",
+    "3RYRYff"
+  ], [
+    "5533020",
+    "44fff2f",
+    "5603ff0",
+    "440Rf2f",
+    "5YRY2f1",
+    "RRYRY2Y"
+  ], [
+    "5533020",
+    "44fff2f",
+    "5603ff0",
+    "440Rf2f",
+    "5YRY2f1",
+    "RRYRYYf"
+  ], [
+    "5533020",
+    "44fff2f",
+    "5603ff0",
+    "440Rf2f",
+    "5YRYYf1",
+    "RRYRY2f"
+  ], [
+    "5533020",
+    "44fff2f",
+    "560Yff0",
+    "440Rf2f",
+    "5YRY2f1",
+    "RRYRY2f"
+  ], [
+    "5533020",
+    "44fff2f",
+    "5603ff0",
+    "4Y0Rf2f",
+    "5YRY2f1",
+    "RRYRY2f"
+  ], [
+    "5533020",
+    "44fff2f",
+    "5603ff0",
+    "440Rf2f",
+    "YYRY2f1",
+    "RRYRY2f"
+  ], [
+    "00501f0",
+    "ff2f0ff",
+    "0f01ff0",
+    "ffYR30f",
+    "5YRYRf4",
+    "RRYRYfY"
+  ], [
+    "00501f0",
+    "ff2f0ff",
+    "0f01ff0",
+    "ffYR30f",
+    "5YRYRf4",
+    "RRYRYY3"
+  ], [
+    "00501f0",
+    "ff2f0ff",
+    "0f0Yff0",
+    "ffYR30f",
+    "5YRYRf4",
+    "RRYRYf3"
+  ], [
+    "00501f0",
+    "ff2f0ff",
+    "0f01ff0",
+    "ffYR30f",
+    "YYRYRf4",
+    "RRYRYf3"
+  ], [
+    "0f3200f",
+    "ffR2fff",
+    "0fY0f5f",
+    "ffYR40f",
+    "1YRYRff",
+    "RRYRY5Y"
+  ], [
+    "0f3200f",
+    "ffR2fff",
+    "0fY0f5f",
+    "ffYR40f",
+    "1YRYRff",
+    "RRYRYY3"
+  ], [
+    "0fY200f",
+    "ffR2fff",
+    "0fY0f5f",
+    "ffYR40f",
+    "1YRYRff",
+    "RRYRY53"
+  ], [
+    "0024f00",
+    "ffR0fff",
+    "0fYYff3",
+    "ffYR531",
+    "2YRYR63",
+    "RRYRY41"
+  ], [
+    "0534f40",
+    "f2R0f2f",
+    "0fYfff1",
+    "fYYR621",
+    "3YRYR71",
+    "RRYRY41"
+  ], [
+    "0534f40",
+    "f2R0f2f",
+    "0fYfff1",
+    "ffYR621",
+    "YYRYR71",
+    "RRYRY41"
+  ], [
+    "fffffff",
+    "ff2ffff",
+    "fR01fff",
+    "fYYRf00",
+    "fYRYR34",
+    "RRYRYfY"
+  ], [
+    "fffffff",
+    "ff2ffff",
+    "fR01fff",
+    "fYYRf00",
+    "fYRYR34",
+    "RRYRYY4"
+  ], [
+    "fffffff",
+    "ff2ffff",
+    "fR0Yfff",
+    "fYYRf00",
+    "fYRYR34",
+    "RRYRYf4"
+  ], [
+    "fffffff",
+    "fY2ffff",
+    "fR01fff",
+    "fYYRf00",
+    "fYRYR34",
+    "RRYRYf4"
+  ], [
+    "fffffff",
+    "ff2ffff",
+    "fR01fff",
+    "fYYRf00",
+    "YYRYR34",
+    "RRYRYf4"
+  ], [
+    "14f40f0",
+    "13f1fff",
+    "7RY1ff0",
+    "3YYR60f",
+    "4YRYRf2",
+    "RRYRY52"
+  ], [
+    "0034000",
+    "ff02fff",
+    "4ff4000",
+    "20fRfff",
+    "5RfY311",
+    "YR3RYfY"
+  ], [
+    "0034000",
+    "ff02fff",
+    "4ff4000",
+    "20fRfff",
+    "5RfYY11",
+    "YR3RYff"
+  ], [
+    "0034000",
+    "ff02fff",
+    "4ffY000",
+    "20fRfff",
+    "5RfY311",
+    "YR3RYff"
+  ], [
+    "0034000",
+    "ff02fff",
+    "4ff4000",
+    "20fRfff",
+    "5RfY311",
+    "YRYRYff"
+  ], [
+    "0034000",
+    "ff02fff",
+    "4ff4000",
+    "20fRfff",
+    "YRfY311",
+    "YR3RYff"
+  ], [
+    "433f200",
+    "43f01ff",
+    "43fR500",
+    "4Y0R2ff",
+    "4RfY511",
+    "YR5RYfY"
+  ], [
+    "433f200",
+    "43f01ff",
+    "43fR500",
+    "4Y0R2ff",
+    "4RfY511",
+    "YR5RYYf"
+  ], [
+    "433f200",
+    "43f01ff",
+    "43fR500",
+    "4Y0R2ff",
+    "4RfYY11",
+    "YR5RYff"
+  ], [
+    "433f200",
+    "43f01ff",
+    "43fR500",
+    "4Y0R2ff",
+    "4RfY511",
+    "YRYRYff"
+  ], [
+    "433f200",
+    "43f01ff",
+    "4YfR500",
+    "4Y0R2ff",
+    "4RfY511",
+    "YR5RYff"
+  ], [
+    "00f1300",
+    "fffY0ff",
+    "00fR300",
+    "fYfR24f",
+    "1RfY240",
+    "YR3RYff"
+  ], [
+    "00f1300",
+    "ffff0ff",
+    "00fR300",
+    "fYfR24f",
+    "YRfY240",
+    "YR3RYff"
+  ], [
+    "f0f015f",
+    "5f3ff3f",
+    "f0ff5ff",
+    "5630203",
+    "3634RR2",
+    "Y6YRYRY"
+  ], [
+    "f0f015f",
+    "5f3ff3f",
+    "f0ff5ff",
+    "5630Y03",
+    "3634RR2",
+    "Y6YRYR1"
+  ], [
+    "f0f015f",
+    "5f3ff3f",
+    "f0ff5ff",
+    "5630203",
+    "36Y4RR2",
+    "Y6YRYR1"
+  ], [
+    "f0f015f",
+    "5f3ff3f",
+    "f0ff5ff",
+    "5630203",
+    "Y634RR2",
+    "Y6YRYR1"
+  ], [
+    "f0f260f",
+    "0ff3fff",
+    "f01122f",
+    "2731fYf",
+    "f541RRf",
+    "Y7YRYR3"
+  ], [
+    "f0f260f",
+    "0ff3fff",
+    "f01122f",
+    "2731f0f",
+    "f54YRRf",
+    "Y7YRYR3"
+  ], [
+    "0001000",
+    "fff1fff",
+    "0f16300",
+    "f0011ff",
+    "2Rf6Y04",
+    "5RYRYf4"
+  ], [
+    "0041200",
+    "ff121ff",
+    "2f41200",
+    "30123ff",
+    "5RfY600",
+    "5RYRYff"
+  ], [
+    "0041200",
+    "ff121ff",
+    "2f41200",
+    "30123ff",
+    "5RYf600",
+    "5RYRYff"
+  ], [
+    "f000f0f",
+    "ffffff0",
+    "f20ff0f",
+    "fYf04f0",
+    "fR1Rf3f",
+    "fRYRY3Y"
+  ], [
+    "f000f0f",
+    "ffffff0",
+    "f20ff0f",
+    "fYf04f0",
+    "fR1RY3f",
+    "fRYRY32"
+  ], [
+    "f000f0f",
+    "ffffff0",
+    "fY0ff0f",
+    "fYf04f0",
+    "fR1Rf3f",
+    "fRYRY32"
+  ], [
+    "f000f0f",
+    "ffffff0",
+    "f20ff0f",
+    "fYf04f0",
+    "fR1Rf3f",
+    "YRYRY32"
+  ], [
+    "00f1032",
+    "fffff32",
+    "44fRf36",
+    "0YfYf32",
+    "4R7Rf66",
+    "0RYRY5Y"
+  ], [
+    "00f1032",
+    "fffff32",
+    "44fRf36",
+    "0YfYf32",
+    "4R7RY66",
+    "0RYRY55"
+  ], [
+    "00f1032",
+    "fffYf32",
+    "44fRf36",
+    "0YfYf32",
+    "4R7Rf66",
+    "0RYRY55"
+  ], [
+    "00f1032",
+    "fffff32",
+    "4YfRf36",
+    "0YfYf32",
+    "4R7Rf66",
+    "0RYRY55"
+  ], [
+    "00f1032",
+    "fffff32",
+    "44fRf36",
+    "0YfYf32",
+    "4R7Rf66",
+    "YRYRY55"
+  ], [
+    "0403ff0",
+    "f4fffff",
+    "040R2f0",
+    "fY0Y12f",
+    "5RYR213",
+    "fRYRY2f"
+  ], [
+    "0001002",
+    "fff0ff0",
+    "010f547",
+    "fYf0063",
+    "4RYRf67",
+    "fRYRY67"
+  ], [
+    "f665500",
+    "ff1fff4",
+    "ff0f001",
+    "f021ff4",
+    "fR21341",
+    "YRYRYff"
+  ], [
+    "2140201",
+    "3ffffff",
+    "5706201",
+    "5201fff",
+    "5YRf304",
+    "RRYRYfY"
+  ], [
+    "2140201",
+    "3ffffff",
+    "5706201",
+    "5201fff",
+    "YYRf304",
+    "RRYRYff"
+  ], [
+    "0053000",
+    "fff6fff",
+    "0734000",
+    "f1R0fff",
+    "5YRf642",
+    "RRYRYYY"
+  ], [
+    "0053000",
+    "fff6fff",
+    "0734000",
+    "f1R0fff",
+    "5YRf6Y2",
+    "RRYRYYf"
+  ], [
+    "0053000",
+    "fff6fff",
+    "0734000",
+    "f1R0fff",
+    "5YRfY42",
+    "RRYRYYf"
+  ], [
+    "0053000",
+    "fff6fff",
+    "07Y4000",
+    "f1R0fff",
+    "5YRf642",
+    "RRYRYYf"
+  ], [
+    "0053000",
+    "fff6fff",
+    "0734000",
+    "f1R0fff",
+    "YYRf642",
+    "RRYRYYf"
+  ], [
+    "1551000",
+    "f3f4fff",
+    "6102ff0",
+    "62R1f0f",
+    "6YRY7f0",
+    "RRYRYYf"
+  ], [
+    "1551000",
+    "f3f4fff",
+    "6102ff0",
+    "6YR1f0f",
+    "6YR27f0",
+    "RRYRYYf"
+  ], [
+    "030f200",
+    "fffffff",
+    "031ff00",
+    "f0R0fff",
+    "3YRfY21",
+    "RRYRYfY"
+  ], [
+    "030f200",
+    "fffffff",
+    "031ff00",
+    "f0R0Yff",
+    "3YRfY21",
+    "RRYRYff"
+  ], [
+    "030f200",
+    "fffffff",
+    "03Yff00",
+    "f0R0fff",
+    "3YRfY21",
+    "RRYRYff"
+  ], [
+    "030f200",
+    "fffffff",
+    "031ff00",
+    "f0R0fff",
+    "YYRfY21",
+    "RRYRYff"
+  ], [
+    "0032ff0",
+    "fff2fff",
+    "0102ff0",
+    "4fR1f0f",
+    "4YRYYf0",
+    "RRYRY3f"
+  ], [
+    "0032ff0",
+    "fff2fff",
+    "0102ff0",
+    "4YR1f0f",
+    "4YR2Yf0",
+    "RRYRY3f"
+  ], [
+    "034f000",
+    "f1fffff",
+    "00Rf000",
+    "ffY0fff",
+    "3YRfR2Y",
+    "RRYRY1Y"
+  ], [
+    "034f000",
+    "f1fffff",
+    "00Rf000",
+    "ffY0Yff",
+    "3YRfR22",
+    "RRYRY1Y"
+  ], [
+    "034f000",
+    "f1Yffff",
+    "00Rf000",
+    "ffY0fff",
+    "3YRfR22",
+    "RRYRY1Y"
+  ], [
+    "034f000",
+    "f1fffff",
+    "00Rf000",
+    "fYY0fff",
+    "3YRfR22",
+    "RRYRY1Y"
+  ], [
+    "034f000",
+    "f1fffff",
+    "00Rf000",
+    "ffY0fff",
+    "YYRfR22",
+    "RRYRY1Y"
+  ], [
+    "0002300",
+    "ffff0ff",
+    "0fR0ff0",
+    "f5Y0f1f",
+    "3YR0Rf4",
+    "RRYRYYY"
+  ], [
+    "0002300",
+    "ffff0ff",
+    "0fR0ff0",
+    "f5Y0f1f",
+    "3YRYRf4",
+    "RRYRYfY"
+  ], [
+    "0211f0f",
+    "ff1fff0",
+    "035ffff",
+    "f3Y0f40",
+    "2YR0Rf4",
+    "RRYRYY1"
+  ], [
+    "604f1f0",
+    "ff2f5ff",
+    "40211f2",
+    "ffY0Y12",
+    "4YRfR03",
+    "RRYRYf3"
+  ], [
+    "604f1f0",
+    "ff2f5ff",
+    "40211f2",
+    "ffY0512",
+    "YYRfR03",
+    "RRYRYf3"
+  ], [
+    "0104111",
+    "ffR1fff",
+    "01Yf2f2",
+    "ffY15f3",
+    "0YRfR61",
+    "RRYRY4Y"
+  ], [
+    "0104111",
+    "ffR1fff",
+    "01Yf2f2",
+    "ffY1Yf3",
+    "0YRfR61",
+    "RRYRY4f"
+  ], [
+    "004f0f0",
+    "ffRffff",
+    "40Yf0f2",
+    "1fYf122",
+    "4YRfR02",
+    "RRYRYY3"
+  ], [
+    "00Y5600",
+    "ffR02ff",
+    "00Yf113",
+    "ffY0452",
+    "6YRfR7Y",
+    "RRYRY7R"
+  ], [
+    "00Y5600",
+    "ffR02ff",
+    "00Yf113",
+    "ffY0452",
+    "6YRYR71",
+    "RRYRY7R"
+  ], [
+    "00Y5600",
+    "ffR02ff",
+    "00Yf113",
+    "ffY0452",
+    "YYRfR71",
+    "RRYRY7R"
+  ], [
+    "00Yf0f0",
+    "ffRffff",
+    "10Yf0f2",
+    "1fYf122",
+    "4YRfR03",
+    "RRYRYYR"
+  ], [
+    "00Yf0f0",
+    "ffRffff",
+    "10Yf0f2",
+    "1fYfY22",
+    "4YRfR03",
+    "RRYRYfR"
+  ], [
+    "03Y5001",
+    "f2R0fff",
+    "00Yf0f4",
+    "fYY16f4",
+    "3YRfR74",
+    "RRYRY5R"
+  ], [
+    "0225000",
+    "f1R0fff",
+    "0RY5000",
+    "fYY067f",
+    "4YRfR03",
+    "RRYRY7Y"
+  ], [
+    "0225000",
+    "f1R0fff",
+    "0RY5000",
+    "fYY067f",
+    "4YRfR03",
+    "RRYRYY4"
+  ], [
+    "0225000",
+    "f1R0fff",
+    "0RY5000",
+    "fYY067f",
+    "4YRYR03",
+    "RRYRY74"
+  ], [
+    "0225000",
+    "f1R0fff",
+    "0RY5000",
+    "fYY067f",
+    "YYRfR03",
+    "RRYRY74"
+  ], [
+    "153f311",
+    "f1R00ff",
+    "4RYf0f0",
+    "fYY1Yff",
+    "4YRfR45",
+    "RRYRYff"
+  ], [
+    "15Yf311",
+    "f1R00ff",
+    "4RYf0f0",
+    "fYY12ff",
+    "4YRfR45",
+    "RRYRYff"
+  ], [
+    "1R30200",
+    "fYRf2ff",
+    "3RYf242",
+    "1YYf005",
+    "6YRfR75",
+    "RRYRY4Y"
+  ], [
+    "1R30200",
+    "fYRf2ff",
+    "3RYf242",
+    "1YYf005",
+    "6YRYR75",
+    "RRYRY45"
+  ], [
+    "1RY0200",
+    "fYRf2ff",
+    "3RYf242",
+    "1YYf005",
+    "6YRfR75",
+    "RRYRY45"
+  ], [
+    "0R3f000",
+    "fYRffff",
+    "3RYf030",
+    "1YYf045",
+    "3YRfR42",
+    "RRYRYY5"
+  ], [
+    "0R3f000",
+    "fYRffff",
+    "3RYf030",
+    "1YYfY45",
+    "3YRfR42",
+    "RRYRY45"
+  ], [
+    "0R3f000",
+    "fYRffff",
+    "3RYf030",
+    "1YYf045",
+    "YYRfR42",
+    "RRYRY45"
+  ], [
+    "0443100",
+    "f3R0fff",
+    "00Yf0f2",
+    "ffY15f2",
+    "YYRfR6Y",
+    "RRYRY6R"
+  ], [
+    "0443100",
+    "f3R0fff",
+    "00Yf0f2",
+    "ffY1Yf2",
+    "YYRfR62",
+    "RRYRY6R"
+  ], [
+    "0443100",
+    "f3R0fff",
+    "00Yf0f2",
+    "fYY15f2",
+    "YYRfR62",
+    "RRYRY6R"
+  ], [
+    "0443100",
+    "f3R0fff",
+    "00Yf0f2",
+    "YfY15f2",
+    "YYRfR62",
+    "RRYRY6R"
+  ], [
+    "1144ff0",
+    "ffR2fff",
+    "1fYfff3",
+    "ffY0610",
+    "YYR0R73",
+    "RRYRYYR"
+  ], [
+    "1144ff0",
+    "ffR2fff",
+    "1fYfff3",
+    "ffY0610",
+    "YYRYR73",
+    "RRYRY5R"
+  ], [
+    "676f4f0",
+    "f22f4ff",
+    "6R111f3",
+    "fYY0413",
+    "6YRfR05",
+    "RRYRYfY"
+  ], [
+    "676f4f0",
+    "f22f4ff",
+    "6R111f3",
+    "fYY0Y13",
+    "6YRfR05",
+    "RRYRYf3"
+  ], [
+    "676f4f0",
+    "fY2f4ff",
+    "6R111f3",
+    "fYY0413",
+    "6YRfR05",
+    "RRYRYf3"
+  ], [
+    "676f4f0",
+    "f22f4ff",
+    "6R111f3",
+    "fYY0413",
+    "YYRfR05",
+    "RRYRYf3"
+  ], [
+    "355f322",
+    "f1100ff",
+    "3R5f0f0",
+    "fYY12ff",
+    "3YRfR44",
+    "RRYRYYf"
+  ], [
+    "f6450f2",
+    "ff43fff",
+    "fR136f0",
+    "2Y10fff",
+    "fYR0RfY",
+    "RRYRYfY"
+  ], [
+    "f6450f2",
+    "fY43fff",
+    "fR136f0",
+    "2Y10fff",
+    "fYR0Rf5",
+    "RRYRYfY"
+  ], [
+    "433f211",
+    "f0002ff",
+    "4R5f200",
+    "fY502ff",
+    "4YRfR16",
+    "RRYRYYY"
+  ], [
+    "433f211",
+    "f0002ff",
+    "4R5f200",
+    "fY50Yff",
+    "4YRfR16",
+    "RRYRYfY"
+  ], [
+    "433f211",
+    "f0002ff",
+    "4R5f200",
+    "fY502ff",
+    "YYRfR16",
+    "RRYRYfY"
+  ], [
+    "03f0ff0",
+    "f3fffff",
+    "4R04ff0",
+    "1Yf0f0f",
+    "4YRYRf5",
+    "RRYRY2Y"
+  ], [
+    "553f242",
+    "f1100ff",
+    "5R3f0f0",
+    "fY312ff",
+    "5YRfRY4",
+    "RRYRYYf"
+  ], [
+    "4400ff0",
+    "f4ff3ff",
+    "6R13ff3",
+    "fYf0Y23",
+    "6YR0Rf5",
+    "RRYRYY5"
+  ], [
+    "4400ff0",
+    "f4ff3ff",
+    "6R13ff3",
+    "fYf0f23",
+    "6YRYRf5",
+    "RRYRYY5"
+  ], [
+    "4400ff0",
+    "fYff3ff",
+    "6R13ff3",
+    "fYf0f23",
+    "6YR0Rf5",
+    "RRYRYY5"
+  ], [
+    "4400ff0",
+    "f4ff3ff",
+    "6R13ff3",
+    "fYf0f23",
+    "YYR0Rf5",
+    "RRYRYY5"
+  ], [
+    "0213ff0",
+    "fff3fff",
+    "0R03ff0",
+    "4YR3f0f",
+    "4YR3Yf2",
+    "RRYRY1Y"
+  ], [
+    "0213ff0",
+    "fff3fff",
+    "0R03ff0",
+    "4YR3f0f",
+    "4YR3Yf2",
+    "RRYRYYf"
+  ], [
+    "0213ff0",
+    "fYf3fff",
+    "0R03ff0",
+    "4YR3f0f",
+    "4YR3Yf2",
+    "RRYRY1f"
+  ], [
+    "0213ff0",
+    "fff3fff",
+    "0R03ff0",
+    "4YR3f0f",
+    "YYR3Yf2",
+    "RRYRY1f"
+  ], [
+    "0033000",
+    "ff00fff",
+    "0R5ff00",
+    "fYR0Yff",
+    "1YRfY60",
+    "RRYRY4f"
+  ], [
+    "1031000",
+    "4f30fff",
+    "5R6f1f0",
+    "5YR020f",
+    "5YRYY70",
+    "RRYRY4f"
+  ], [
+    "1031000",
+    "4f30fff",
+    "5RYf1f0",
+    "5YR020f",
+    "5YRfY70",
+    "RRYRY4f"
+  ], [
+    "0300ff0",
+    "f3ff1ff",
+    "0R01ff0",
+    "fYfRf0f",
+    "4YRY0f2",
+    "RRYRY1Y"
+  ], [
+    "0300ff0",
+    "fYff1ff",
+    "0R01ff0",
+    "fYfRf0f",
+    "4YRY0f2",
+    "RRYRY15"
+  ], [
+    "0300ff0",
+    "f3ff1ff",
+    "0R01ff0",
+    "fYfRf0f",
+    "YYRY0f2",
+    "RRYRY15"
+  ], [
+    "0565000",
+    "f323fff",
+    "0R61f60",
+    "fY0Rf0f",
+    "4YRY7f0",
+    "RRYRYYf"
+  ], [
+    "0565000",
+    "f323fff",
+    "0R61f60",
+    "fY0Rf0f",
+    "4YRYYf0",
+    "RRYRY6f"
+  ], [
+    "0565000",
+    "f323fff",
+    "0R6Yf60",
+    "fY0Rf0f",
+    "4YRY7f0",
+    "RRYRY6f"
+  ], [
+    "04410f0",
+    "fYf3fff",
+    "0R030f0",
+    "7YR1f0f",
+    "6YR32f5",
+    "RRYRY6Y"
+  ], [
+    "04410f0",
+    "fYf3fff",
+    "0R030f0",
+    "7YR1f0f",
+    "6YR32f5",
+    "RRYRYYf"
+  ], [
+    "04410f0",
+    "fYf3fff",
+    "0R030f0",
+    "7YR1f0f",
+    "6YRY2f5",
+    "RRYRY6f"
+  ], [
+    "0Y410f0",
+    "fYf3fff",
+    "0R030f0",
+    "7YR1f0f",
+    "6YR32f5",
+    "RRYRY6f"
+  ], [
+    "04410f0",
+    "fYf3fff",
+    "0R030f0",
+    "7YR1f0f",
+    "YYR32f5",
+    "RRYRY6f"
+  ], [
+    "0451000",
+    "fY32fff",
+    "0RYf110",
+    "fYR012f",
+    "4YRf065",
+    "RRYRY62"
+  ], [
+    "f4400f0",
+    "f2fffff",
+    "3R050f0",
+    "7YR1f0f",
+    "YYR53f3",
+    "RRYRY6Y"
+  ], [
+    "f4400f0",
+    "f2fffff",
+    "3R050f0",
+    "7YR1f0f",
+    "YYR53f3",
+    "RRYRYYf"
+  ], [
+    "f4400f0",
+    "f2fffff",
+    "3R050f0",
+    "7YR1f0f",
+    "YYRY3f3",
+    "RRYRY6f"
+  ], [
+    "4054000",
+    "ff30fff",
+    "4RYf110",
+    "fYR012f",
+    "YYRf065",
+    "RRYRY62"
+  ], [
+    "4054000",
+    "ff30fff",
+    "4R3f110",
+    "YYR012f",
+    "YYRf065",
+    "RRYRY62"
+  ], [
+    "3022500",
+    "fff21ff",
+    "3f42500",
+    "30011ff",
+    "3Rf6Y00",
+    "YR4RYff"
+  ], [
+    "3022500",
+    "fff21ff",
+    "3f42500",
+    "30011ff",
+    "3RfY500",
+    "YR4RYff"
+  ], [
+    "3022500",
+    "fff21ff",
+    "3f42500",
+    "30011ff",
+    "YRf6500",
+    "YR4RYff"
+  ], [
+    "0002000",
+    "fff0fff",
+    "020ff35",
+    "fYf0041",
+    "5R3Rf46",
+    "YR3RY4Y"
+  ], [
+    "0002000",
+    "fff0fff",
+    "020ff35",
+    "fYf0041",
+    "YR3Rf46",
+    "YR3RY45"
+  ], [
+    "00f0000",
+    "fffffff",
+    "04ff530",
+    "fYf123f",
+    "3R0Rf60",
+    "YR7RYYf"
+  ], [
+    "00f0000",
+    "fffffff",
+    "04ff530",
+    "fYf123f",
+    "3R0RY60",
+    "YR7RY4f"
+  ], [
+    "00f0000",
+    "fffffff",
+    "0Yff530",
+    "fYf123f",
+    "3R0Rf60",
+    "YR7RY4f"
+  ], [
+    "00f4f00",
+    "fff10ff",
+    "54f0300",
+    "fYfY0ff",
+    "RRfR322",
+    "YR3RYfY"
+  ], [
+    "00f4f00",
+    "fff10ff",
+    "54f0300",
+    "fYfY0ff",
+    "RRfR322",
+    "YR3RYYf"
+  ], [
+    "00f4f00",
+    "fff10ff",
+    "5Yf0300",
+    "fYfY0ff",
+    "RRfR322",
+    "YR3RYff"
+  ], [
+    "00f4f00",
+    "fff10ff",
+    "54f0300",
+    "YYfY0ff",
+    "RRfR322",
+    "YR3RYff"
+  ], [
+    "f0f0052",
+    "0ffff11",
+    "f0f3056",
+    "4YfYf11",
+    "RRfRY56",
+    "YR7RY52"
+  ], [
+    "f0ff020",
+    "0ffff0f",
+    "fRfY1f0",
+    "2YfY13f",
+    "RRfR400",
+    "YR5RYfY"
+  ], [
+    "f0ff020",
+    "0ffff0f",
+    "fRfY1f0",
+    "2YfY13f",
+    "RRfR400",
+    "YR5RYYf"
+  ], [
+    "f0ff020",
+    "0ffff0f",
+    "fRfY1f0",
+    "2YfY13f",
+    "RRfRY00",
+    "YR5RYff"
+  ], [
+    "f4fR101",
+    "0ffY2f2",
+    "fRfY505",
+    "4YfY1f3",
+    "RRfR100",
+    "YR6RYfY"
+  ], [
+    "f4fR101",
+    "0YfY2f2",
+    "fRfY505",
+    "4YfY1f3",
+    "RRfR100",
+    "YR6RYff"
+  ], [
+    "f4fR101",
+    "0ffY2f2",
+    "fRfY505",
+    "YYfY1f3",
+    "RRfR100",
+    "YR6RYff"
+  ], [
+    "f3fR024",
+    "0ffYf11",
+    "fRfY044",
+    "5YfYf11",
+    "RRfR344",
+    "YR6RYY0"
+  ], [
+    "f3fR024",
+    "0ffYf11",
+    "fRfY044",
+    "5YfYf11",
+    "RRfRY44",
+    "YR6RY20"
+  ], [
+    "f3ff023",
+    "0Yfff11",
+    "fRfY056",
+    "4YfYf11",
+    "RRfR256",
+    "YR7RY50"
+  ], [
+    "f3ff023",
+    "0ffff11",
+    "fRfY056",
+    "YYfYf11",
+    "RRfR256",
+    "YR7RY50"
+  ], [
+    "137f001",
+    "f330fff",
+    "0f0R200",
+    "f10R5ff",
+    "4f1Y566",
+    "Y73R2fY"
+  ], [
+    "137f001",
+    "f330fff",
+    "0f0R200",
+    "f10R5ff",
+    "4f1Y566",
+    "Y7YR2ff"
+  ], [
+    "137f001",
+    "f330fff",
+    "0f0R200",
+    "f10R5ff",
+    "Yf1Y566",
+    "Y73R2ff"
+  ], [
+    "000f100",
+    "fff0fff",
+    "000Rf31",
+    "fffR011",
+    "304Yf12",
+    "Yf5R4Y2"
+  ], [
+    "001ff10",
+    "ff2004f",
+    "006Rf40",
+    "ff2R257",
+    "406Y153",
+    "Yf2RY57"
+  ], [
+    "0f65f00",
+    "ff1Yfff",
+    "0f3Rf00",
+    "f03Rfff",
+    "5f0Y214",
+    "Y01RR0Y"
+  ], [
+    "0f65f00",
+    "ff1Yfff",
+    "0f3Rf00",
+    "f03Rfff",
+    "5f0Y214",
+    "Y01RRY4"
+  ], [
+    "0f65f00",
+    "ff1Yfff",
+    "0f3Rf00",
+    "f03Rfff",
+    "5f0YY14",
+    "Y01RR04"
+  ], [
+    "0f6Yf00",
+    "ff1Yfff",
+    "0f3Rf00",
+    "f03Rfff",
+    "5f0Y214",
+    "Y01RR04"
+  ], [
+    "0f65f00",
+    "ff1Yfff",
+    "0f3Rf00",
+    "f03Rfff",
+    "5f0Y214",
+    "YY1RR04"
+  ], [
+    "0f65f00",
+    "ff1Yfff",
+    "0f3Rf00",
+    "f03Rfff",
+    "Yf0Y214",
+    "Y01RR04"
+  ], [
+    "0002f00",
+    "fffYfff",
+    "000Rf00",
+    "fffR0ff",
+    "201Yf03",
+    "YfYRR30"
+  ], [
+    "112ff0f",
+    "ff010ff",
+    "10fRf00",
+    "ff6R57f",
+    "436Y274",
+    "YY6R20f"
+  ], [
+    "0f65f00",
+    "f010fff",
+    "0f3Rf00",
+    "f03Rfff",
+    "5f0Y216",
+    "YR1R2YY"
+  ], [
+    "0f65f00",
+    "f01Yfff",
+    "0f3Rf00",
+    "f03Rfff",
+    "5f0Y216",
+    "YR1R2Y4"
+  ], [
+    "0f65f00",
+    "f010fff",
+    "0f3Rf00",
+    "f03Rfff",
+    "Yf0Y216",
+    "YR1R2Y4"
+  ], [
+    "01fff00",
+    "ff000ff",
+    "04fRf00",
+    "f51R6ff",
+    "451Y2Y3",
+    "YRfR2Yf"
+  ], [
+    "01fff00",
+    "ff000ff",
+    "04fRf00",
+    "f51R6ff",
+    "451Y233",
+    "YRYR2Yf"
+  ], [
+    "00ff000",
+    "ff00fff",
+    "00fR400",
+    "ff3R1ff",
+    "631Y514",
+    "YR5RYY4"
+  ], [
+    "00ff000",
+    "ff00fff",
+    "00fR400",
+    "ff3R1ff",
+    "6Y1Y514",
+    "YR5R2Y4"
+  ], [
+    "fffffff",
+    "fff0fff",
+    "fff0fff",
     "fffRfff",
-    "222Y222",
-    "fffRf0f",
-    "22RYRY1",
-    "fRYRRYY"
+    "fffYfYf",
+    "fYfR1R0"
   ], [
-    "222Y222",
+    "fffffff",
+    "fff0fff",
+    "fffYfff",
     "fffRfff",
-    "222Y222",
+    "fffYfff",
+    "fYfR1R0"
+  ], [
+    "fffffff",
+    "fff0fff",
+    "fff0fff",
     "fffRfff",
-    "222Y222",
-    "ff0RRfY"
+    "fYfYfff",
+    "fYfR1R0"
   ], [
-    "2221f22",
-    "fffR2ff",
-    "225Yf14",
-    "ff3R204",
-    "Y25YfR4",
-    "Yf3RRY4"
+    "fffffff",
+    "fff0fff",
+    "fff0fff",
+    "fffRfff",
+    "fffYfff",
+    "YYfR1R0"
   ], [
-    "2221f22",
-    "fffR2ff",
-    "225Yf14",
-    "ff3R204",
-    "YR5YfR4",
-    "YY3RRY4"
+    "02f5f00",
+    "ff100ff",
+    "02f0f00",
+    "f73R6ff",
+    "15RY423",
+    "fRYR4YY"
   ], [
-    "2221f22",
-    "fffR2ff",
-    "2R3Yf14",
-    "fY3R204",
-    "YR5YfR4",
-    "YY3RRY4"
+    "02f5f00",
+    "ff100ff",
+    "02f0f00",
+    "f7YR6ff",
+    "15RY423",
+    "fRYR4Yf"
   ], [
-    "3141042",
-    "fYfR0f2",
-    "3R0Y142",
-    "fY0R002",
+    "0135100",
+    "ff010ff",
+    "05f0f00",
+    "f23R6ff",
+    "47RY6Y0",
+    "fRYR6Yf"
+  ], [
+    "0135100",
+    "ff010ff",
+    "05f0f00",
+    "f23R6ff",
+    "47RY640",
+    "YRYR6Yf"
+  ], [
+    "0140f00",
+    "ff0ffff",
+    "0221f10",
+    "f30Rf0f",
+    "02RY5f0",
+    "fRYRYYf"
+  ], [
+    "0140f00",
+    "ff0ffff",
+    "022Yf10",
+    "f30Rf0f",
+    "02RY5f0",
+    "fRYR5Yf"
+  ], [
+    "0140f00",
+    "ff0ffff",
+    "0221f10",
+    "f30Rf0f",
+    "0YRY5f0",
+    "fRYR5Yf"
+  ], [
+    "fffffff",
+    "fffRfff",
+    "fffYfff",
+    "fffRfff",
+    "fffYfff",
+    "Yf0RR1Y"
+  ], [
+    "fffffff",
+    "fffRfff",
+    "fffYfff",
+    "fffRfff",
+    "fffYYff",
+    "Yf0RR10"
+  ], [
+    "fffYfff",
+    "fffRfff",
+    "fffYfff",
+    "fffRfff",
+    "fffYfff",
+    "Yf0RR10"
+  ], [
+    "fffffff",
+    "fffRfff",
+    "fffYfff",
+    "fffRfff",
+    "fffYfff",
+    "YY0RR10"
+  ], [
+    "fffffff",
+    "fffRfff",
+    "fffYfff",
+    "fffRfff",
+    "YffYfff",
+    "Yf0RR10"
+  ], [
+    "0002f00",
+    "fffR0ff",
+    "004Yf23",
+    "ff1R001",
+    "405YfR6",
+    "Yf5RRYY"
+  ], [
+    "000Yf00",
+    "fffR0ff",
+    "004Yf23",
+    "ff1R001",
+    "405YfR6",
+    "Yf5RRY3"
+  ], [
+    "0002f00",
+    "fffR0ff",
+    "004Yf23",
+    "ff1R001",
+    "405YfR6",
+    "YfYRRY3"
+  ], [
+    "0002f00",
+    "fffR0ff",
+    "004Yf23",
+    "ff1R001",
+    "Y05YfR6",
+    "Yf5RRY3"
+  ], [
+    "0015f52",
+    "ff1R002",
+    "006YfR7",
+    "ff1R3Y2",
+    "306YfR2",
+    "Yf4RRYY"
+  ], [
+    "0015f52",
+    "ff1R002",
+    "006YfR7",
+    "ff1R3Y2",
+    "306YYR2",
+    "Yf4RRY2"
+  ], [
+    "001Yf52",
+    "ff1R002",
+    "006YfR7",
+    "ff1R3Y2",
+    "306YfR2",
+    "Yf4RRY2"
+  ], [
+    "0015f52",
+    "ff1R002",
+    "006YfR7",
+    "ff1R3Y2",
+    "306YfR2",
+    "YfYRRY2"
+  ], [
+    "0015f52",
+    "ff1R002",
+    "006YfR7",
+    "ff1R3Y2",
+    "Y06YfR2",
+    "Yf4RRY2"
+  ], [
+    "2031140",
+    "fffR1Yf",
+    "120YfR3",
+    "f20R5Y0",
+    "4fRY5R6",
+    "YRYRRYY"
+  ], [
+    "20311Y0",
+    "fffR1Yf",
+    "120YfR3",
+    "f20R5Y0",
+    "4fRY5R6",
+    "YRYRRY6"
+  ], [
+    "2031140",
+    "fffR1Yf",
+    "120YfR3",
+    "f20R5Y0",
+    "4fRYYR6",
+    "YRYRRY6"
+  ], [
+    "203Y140",
+    "fffR1Yf",
+    "120YfR3",
+    "f20R5Y0",
+    "4fRY5R6",
+    "YRYRRY6"
+  ], [
+    "2031140",
+    "fffR1Yf",
+    "120YfR3",
+    "f20R5Y0",
+    "4YRY5R6",
+    "YRYRRY6"
+  ], [
+    "2031140",
+    "fffR1Yf",
+    "120YfR3",
+    "f20R5Y0",
+    "YfRY5R6",
+    "YRYRRY6"
+  ], [
+    "2462341",
+    "f10R0Yf",
+    "617YfR2",
+    "05YR3Y0",
+    "6RRY3R5",
+    "YRYRRYY"
+  ], [
+    "2462341",
+    "f10R0Yf",
+    "617YfR2",
+    "0YYR3Y0",
+    "6RRY3R5",
+    "YRYRRY5"
+  ], [
+    "0000fYf",
+    "fffRfYf",
+    "001YfRf",
+    "ffYR4Y0",
+    "3RRY2Rf",
+    "YRYRRY1"
+  ], [
+    "0000f3f",
+    "fffRfYf",
+    "001YfRf",
+    "ffYR4Y0",
+    "3RRYYRf",
+    "YRYRRY1"
+  ], [
+    "0000f3f",
+    "fffRfYf",
+    "00YYfRf",
+    "ffYR4Y0",
+    "3RRY2Rf",
+    "YRYRRY1"
+  ], [
+    "0000f3f",
+    "fffRfYf",
+    "001YfRf",
+    "ffYR4Y0",
+    "YRRY2Rf",
+    "YRYRRY1"
+  ], [
+    "f34Yf4f",
+    "f12R0Yf",
+    "ff2YfRf",
+    "f0YR5Y0",
+    "1RRY5Rf",
+    "YRYRRY6"
+  ], [
+    "3505040",
+    "ff0Rf2f",
+    "200Y6R0",
+    "301R1Yf",
+    "3RfY6R4",
+    "YY6RRYY"
+  ], [
+    "3505040",
+    "ff0RfYf",
+    "200Y6R0",
+    "301R1Yf",
+    "3RfY6R4",
+    "YY6RRYf"
+  ], [
+    "3505040",
+    "ff0Rf2f",
+    "200Y6R0",
+    "301R1Yf",
+    "3RfYYR4",
+    "YY6RRYf"
+  ], [
+    "350Y040",
+    "ff0Rf2f",
+    "200Y6R0",
+    "301R1Yf",
+    "3RfY6R4",
+    "YY6RRYf"
+  ], [
+    "3505040",
+    "ff0Rf2f",
+    "200Y6R0",
+    "301R1Yf",
+    "3RfY6R4",
+    "YYYRRYf"
+  ], [
+    "3505040",
+    "ff0Rf2f",
+    "200Y6R0",
+    "301R1Yf",
+    "YRfY6R4",
+    "YY6RRYf"
+  ], [
+    "04f4250",
+    "ff0R00f",
+    "0RfY3R0",
+    "fY1R2Yf",
+    "5R1Y2R6",
+    "YY3RRYY"
+  ], [
+    "04f4250",
+    "ff0R00f",
+    "0RfY3R0",
+    "fY1R2Yf",
+    "5R1YYR6",
+    "YY3RRYf"
+  ], [
+    "04fY250",
+    "ff0R00f",
+    "0RfY3R0",
+    "fY1R2Yf",
+    "5R1Y2R6",
+    "YY3RRYf"
+  ], [
+    "04f4250",
+    "fY0R00f",
+    "0RfY3R0",
+    "fY1R2Yf",
+    "5R1Y2R6",
+    "YY3RRYf"
+  ], [
+    "04f4250",
+    "ff0R00f",
+    "0RfY3R0",
+    "fY1R2Yf",
+    "YR1Y2R6",
+    "YY3RRYf"
+  ], [
+    "55f3230",
+    "120R1Yf",
+    "7RfY6R0",
+    "1Y0R6Yf",
+    "7RfY6R4",
+    "YY4RRYf"
+  ], [
+    "55f3230",
+    "120R1ff",
+    "7RfY6R0",
+    "1Y0R6Yf",
+    "7RfY6R4",
+    "YYYRRYf"
+  ], [
+    "100203f",
+    "ff5Rf50",
+    "104Yf1f",
+    "5ffR751",
+    "440YYRf",
+    "Y0fRRY6"
+  ], [
+    "0004100",
+    "fffR0ff",
+    "001Yf23",
+    "ff1R003",
+    "2R5YfR3",
+    "YY5RRYY"
+  ], [
+    "000Y100",
+    "fffR0ff",
+    "001Yf23",
+    "ff1R003",
+    "2R5YfR3",
+    "YY5RRY3"
+  ], [
+    "0004100",
+    "fffR0ff",
+    "001Yf23",
+    "ff1R003",
+    "2R5YfR3",
+    "YYYRRY3"
+  ], [
+    "0004100",
+    "fffR0ff",
+    "001Yf23",
+    "ff1R003",
+    "YR5YfR3",
+    "YY5RRY3"
+  ], [
+    "15f3410",
+    "fffR0ff",
+    "02fY430",
+    "f2fR01f",
+    "5RfYYR6",
+    "YY6RRYf"
+  ], [
+    "1103042",
+    "fffR0ff",
+    "110Yf42",
+    "fY0R0R2",
+    "3R5YfR2",
+    "YY5RRYY"
+  ], [
+    "1103042",
+    "fffR0ff",
+    "110YfY2",
+    "fY0R0R2",
     "3R5YfR2",
     "YY5RRY2"
   ], [
-    "0051f03",
-    "ff2R0f2",
-    "1R5Y533",
-    "fY2R222",
-    "1R5YfR4",
-    "YYYRRY4"
+    "1103042",
+    "fffR0ff",
+    "110Yf42",
+    "fY0R0R2",
+    "3R5YYR2",
+    "YY5RRY2"
   ], [
-    "222Yf22",
-    "fffR2ff",
-    "2R3Yf14",
-    "fY3R204",
-    "1R5YfR4",
-    "YY3RRY4"
+    "1103042",
+    "fffR0ff",
+    "110Yf42",
+    "fY0R0R2",
+    "3R5YfR2",
+    "YYYRRY2"
   ], [
-    "2351400",
-    "201R3ff",
-    "5RfY400",
-    "2Y0R4ff",
-    "2RfYYR0",
-    "YY1RRYf"
+    "1103042",
+    "fffR0ff",
+    "110Yf42",
+    "fY0R0R2",
+    "YR5YfR2",
+    "YY5RRY2"
   ], [
-    "0122310",
-    "ff2R3ff",
-    "5R4Y315",
-    "1Y4R3f0",
-    "fR2Y3R5",
-    "YY4RRYY"
+    "401Y101",
+    "2f2R1ff",
+    "603Yf01",
+    "2Y5R1R3",
+    "6R7YfR3",
+    "YY5RRY1"
   ], [
-    "22f1222",
-    "ff2Rfff",
-    "41fY522",
-    "402R3ff",
-    "4RfY5R2",
-    "YYYRRYf"
+    "4010101",
+    "2f2R1ff",
+    "6Y3Yf01",
+    "2Y5R1R3",
+    "6R7YfR3",
+    "YY5RRY1"
   ], [
-    "222Yf22",
-    "fffR2ff",
-    "223Yf14",
-    "ff3R204",
-    "1R5YfR4",
-    "YY3RRY4"
-  ], [
-    "1423000",
-    "002Rfff",
-    "44fY000",
-    "102Rfff",
-    "5RfYYR0",
-    "YY2RRYf"
-  ], [
-    "2421000",
-    "20fRfff",
-    "242Y410",
-    "20fR0Yf",
-    "2R5YfR0",
-    "YY3RRYf"
-  ], [
-    "2221422",
+    "0f02000",
     "fffRfff",
-    "312Y4R2",
-    "30fR4Yf",
-    "YRfY5R2",
-    "YY5RRYf"
+    "0f1Y000",
+    "f00Rfff",
+    "4fRY301",
+    "Y2YRRfY"
   ], [
-    "22f1412",
-    "ff2R40f",
-    "2RfY4R2",
-    "fY5R4Yf",
-    "YR3Y4R2",
-    "YY5RRYf"
-  ], [
-    "0443510",
-    "fY0R00f",
-    "1RfYfR0",
-    "fY5R2Yf",
-    "1R2Y5R0",
-    "YY5RRYf"
-  ], [
-    "1251f34",
-    "ff0Rf04",
-    "1R5YfR3",
-    "fY0R5Y4",
-    "1R5YfR4",
-    "YYYRRY4"
-  ], [
-    "41fY522",
-    "402R3ff",
-    "4RfY5R2",
-    "4Y2R3Yf",
-    "4RfY3R2",
-    "YY1RRYf"
-  ], [
-    "0024410",
-    "fffR00f",
-    "1RfYfR0",
-    "fY4R3Yf",
-    "1R2YYR0",
-    "YY5RRYf"
-  ], [
-    "0043541",
-    "ff0R00f",
-    "1RfY5R1",
-    "fY5R2Yf",
-    "1R2Y5R1",
-    "YY5RRYY"
-  ], [
-    "22f1422",
-    "ff2Rfff",
-    "31fY4R2",
-    "302RfYf",
-    "3RfY5R2",
-    "YYYRRYf"
-  ], [
-    "22fY222",
-    "ff2Rfff",
-    "41fY5R2",
-    "402R3Yf",
-    "4RfY5R2",
-    "YY1RRYf"
-  ], [
-    "0023114",
-    "ff2Rf04",
-    "105YfR3",
-    "ff2R5Y4",
-    "1R2YYR4",
-    "YY2RRY4"
-  ], [
-    "2122013",
-    "fffRfYf",
-    "212Y5R3",
-    "40fR0Yf",
-    "4RfY5R3",
-    "YY5RRYf"
-  ], [
-    "00f3541",
-    "ff0R00f",
-    "10fYfR0",
-    "ff5R2Yf",
-    "1R2Y5R1",
-    "YY5RRYY"
-  ], [
-    "3022140",
+    "0f02000",
     "fffRfff",
-    "202Y241",
-    "fffR001",
-    "3R5YfR1",
-    "YY5RRYY"
+    "0f1Y000",
+    "f00Rfff",
+    "4fRYY01",
+    "Y2YRRff"
   ], [
-    "3021214",
-    "ff2Rfff",
-    "302Y514",
-    "ff2R004",
-    "305YfR4",
-    "YfYRRY4"
-  ], [
-    "222Yf22",
-    "fffR2ff",
-    "223Yf14",
-    "ff3R204",
-    "125YfR4",
-    "Yf3RRY4"
-  ], [
-    "2221222",
+    "0001000",
     "fffRfff",
-    "222Y542",
-    "fffRR4f",
-    "Y22YYRf",
-    "YffRRY1"
+    "021Yff0",
+    "f20R00f",
+    "45RYff0",
+    "Y5YRRYf"
   ], [
-    "1523420",
-    "fffR4ff",
-    "152Y422",
-    "f0fRR2f",
-    "10fYYR5",
-    "YY1RRYf"
-  ], [
-    "2221222",
+    "000Y000",
     "fffRfff",
-    "222Y142",
-    "fffRR0f",
-    "325YYR2",
-    "YfYRRYf"
+    "021Yff0",
+    "f20R00f",
+    "45RYff0",
+    "Y5YRR3f"
   ], [
-    "222Y42f",
-    "fffRff2",
-    "242Y24f",
-    "fffRR12",
-    "452YYR3",
-    "Y1fRRY3"
-  ], [
-    "2225222",
+    "0001000",
     "fffRfff",
-    "222YY52",
-    "fffRR0f",
-    "12fYYR2",
-    "Yf1RRYf"
+    "021Yff0",
+    "f20R00f",
+    "45RYff0",
+    "YYYRR3f"
   ], [
-    "2221ff2",
-    "fffR02f",
-    "222Y2f4",
-    "fffRRY4",
-    "122YYR4",
-    "Y3fRRY4"
-  ], [
-    "222322f",
-    "fffRff2",
-    "222Y22f",
-    "fffRR12",
-    "f22YYR5",
-    "Y1fRRYY"
-  ], [
-    "22f1412",
-    "ff2R40f",
-    "22fY4R2",
-    "ff5R4Yf",
-    "Y23Y4R2",
-    "Yf5RRYf"
-  ], [
-    "0023514",
-    "ff2R004",
-    "005YfR4",
-    "ff2R0Y4",
-    "105YfR4",
-    "YfYRRY4"
-  ], [
-    "22fY412",
-    "ff2R40f",
-    "22fY4R2",
-    "ff5R4Yf",
-    "123Y4R2",
-    "Yf5RRYf"
-  ], [
-    "4021310",
-    "fffR30f",
-    "005Y5R0",
-    "ff4R3Yf",
-    "402YYR0",
-    "Yf5RRYf"
-  ], [
-    "2222232",
-    "fffRfYf",
-    "222Y2R2",
-    "f1YR0Y4",
-    "2RRYYR4",
-    "YRYRRY4"
-  ], [
-    "2225242",
-    "fffRfYf",
-    "223Y2R2",
-    "ff0R1Yf",
-    "51RYYR2",
-    "YRYRRYf"
-  ], [
-    "2f24252",
-    "f2fRfYf",
-    "2f5Y2R2",
-    "f20RfYf",
-    "YfRY3R2",
-    "YRYRRYf"
-  ], [
-    "2252452",
-    "fffR4Yf",
-    "230Y2Rf",
-    "f3fR4Y0",
-    "1YRY4Rf",
-    "YRYRRY1"
-  ], [
-    "222224f",
-    "fffRfY2",
-    "221Y2Rf",
-    "ffYR5Y2",
-    "YRRY5Rf",
-    "YRYRRY1"
-  ], [
-    "222224f",
-    "fffRfY2",
-    "22YY2Rf",
-    "ffYR5Y2",
-    "3RRY1Rf",
-    "YRYRRY1"
-  ], [
-    "252Y212",
-    "f4fR4Yf",
-    "222Y2R2",
-    "f0YR4Yf",
-    "4RRY5R2",
-    "YRYRRY1"
-  ], [
-    "22224Yf",
-    "fffRfY2",
-    "225Y2Rf",
-    "ffYR4Y2",
-    "1RRY3Rf",
-    "YRYRRY1"
-  ], [
-    "222245f",
-    "fffR4Y2",
-    "225Y2Rf",
-    "ffYR4Y2",
-    "3RRY4Rf",
-    "YRYRRYY"
-  ], [
-    "2f2Y212",
-    "f2fRfYf",
-    "2f5Y2R2",
-    "f20RfYf",
-    "1fRY4R2",
-    "YRYRRYf"
-  ], [
-    "2f212Y2",
-    "f2fRfYf",
-    "2f1Y2R2",
-    "f20RfYf",
-    "4fRY5R2",
-    "YRYRRYf"
-  ], [
-    "0041532",
-    "ff4R032",
-    "004YfR5",
-    "ff4R0Y2",
-    "104YfR5",
-    "Yf4RRYY"
-  ], [
-    "2f23252",
-    "f2fRfYf",
-    "2f5Y2R2",
-    "f20RfYf",
-    "4fRY1R1",
-    "YRYRRYY"
-  ], [
-    "3022140",
+    "0001000",
     "fffRfff",
-    "202Y241",
-    "fffR001",
-    "305YfR1",
-    "Yf5RRYY"
+    "021Yff0",
+    "f20R00f",
+    "Y5RYff0",
+    "Y5YRR3f"
   ], [
-    "22f1222",
-    "ff2Rfff",
-    "41fY522",
-    "402R3ff",
-    "4RfY5R2",
-    "YY5R3Yf"
+    "21053f0",
+    "fffRfff",
+    "014Y2f1",
+    "ffYR010",
+    "5fRY0f2",
+    "YfYRR32"
   ], [
-    "0151204",
-    "fY2R0ff",
-    "0R5Yf34",
-    "fY2R002",
-    "0R5YfR4",
-    "fY5R2Y4"
+    "0013000",
+    "ff0Rfff",
+    "24fY100",
+    "200R1ff",
+    "2RfY503",
+    "2Y5R1fY"
   ], [
-    "2221f22",
-    "fffR2ff",
-    "2R3Yf14",
-    "fY3R204",
-    "2R5YfR4",
-    "fYYR5Y4"
+    "0013000",
+    "ff0Rfff",
+    "24fY100",
+    "200R1ff",
+    "2RfY503",
+    "2Y5RYff"
   ], [
-    "222Yf22",
-    "fffR2ff",
-    "2R5Yf14",
-    "fY3R204",
-    "2R5YfR4",
-    "fY3R1Y4"
+    "001Y000",
+    "ff0Rfff",
+    "24fY100",
+    "200R1ff",
+    "2RfY503",
+    "2Y5R1ff"
   ], [
-    "2221f22",
-    "fffR2ff",
-    "2R5Yf14",
-    "fY3R204",
-    "2R5YfR4",
-    "fY3RYY4"
+    "0013000",
+    "ff0Rfff",
+    "24fY100",
+    "200R1ff",
+    "2RfY503",
+    "2YYR1ff"
   ], [
-    "2221f22",
-    "fffR2ff",
-    "2R5Yf14",
-    "fY3R204",
-    "2R5YfR4",
-    "fY3R5YY"
+    "0013000",
+    "ff0Rfff",
+    "24fY100",
+    "200R1ff",
+    "2RfY503",
+    "YY5R1ff"
   ], [
-    "2221f22",
-    "fffR2ff",
-    "225Yf14",
-    "ff3R204",
-    "2R5YfR4",
-    "fYYR5Y4"
+    "0012000",
+    "fffRfff",
+    "361Y100",
+    "300R1ff",
+    "3RfY7R2",
+    "3Y5R4YY"
   ], [
-    "22fY222",
-    "ff2Rfff",
-    "41fY322",
-    "402R3ff",
-    "4RfY5R2",
-    "4Y1R3Yf"
+    "0012000",
+    "fffRfff",
+    "361Y100",
+    "300R1ff",
+    "3RfY7R2",
+    "3Y5RYYf"
   ], [
-    "00f1330",
-    "ff0R00f",
-    "1RfY3R0",
-    "fY2R4Yf",
-    "1R2Y5R0",
-    "YY5R4Yf"
+    "001Y000",
+    "fffRfff",
+    "361Y100",
+    "300R1ff",
+    "3RfY7R2",
+    "3Y5R4Yf"
   ], [
-    "0123310",
-    "fY0R20f",
-    "0RfY3R0",
-    "fY5R3Yf",
-    "0R2Y4R0",
-    "fY5R4Yf"
+    "3203021",
+    "fffR0ff",
+    "1R0Yf21",
+    "fY0R001",
+    "3R4YfR1",
+    "fY4R5YY"
   ], [
-    "2141f22",
-    "f04R2ff",
-    "2R4YfR2",
-    "fY4R5Yf",
-    "2R4Y3R2",
-    "fYYR5Yf"
+    "3203021",
+    "fffR0ff",
+    "1R0Yf21",
+    "fY0R001",
+    "3R4YfR1",
+    "fY4RYY1"
   ], [
-    "41fY522",
-    "402R3ff",
-    "4RfY5R2",
-    "4Y2R3Yf",
-    "4RfY3R2",
-    "4Y1R3Yf"
+    "320Y021",
+    "fffR0ff",
+    "1R0Yf21",
+    "fY0R001",
+    "3R4YfR1",
+    "fY4R5Y1"
   ], [
-    "2222222",
+    "3203021",
+    "fffR0ff",
+    "1R0Yf21",
+    "fY0R001",
+    "3R4YfR1",
+    "fYYR5Y1"
+  ], [
+    "3203021",
+    "fYfR0ff",
+    "1R0Yf21",
+    "fY0R001",
+    "3R4YfR1",
+    "fY4R5Y1"
+  ], [
+    "3203021",
+    "fffR0ff",
+    "1R0Yf21",
+    "fY0R001",
+    "3R4YfR1",
+    "YY4R5Y1"
+  ], [
+    "3124f45",
+    "ff0R000",
+    "2R6YfR5",
+    "fY2R1Y0",
+    "3R2YfR5",
+    "fY2R3YY"
+  ], [
+    "3124f45",
+    "ff0R000",
+    "2R6YfR5",
+    "fY2R1Y0",
+    "3R2YfR5",
+    "fY2RYY5"
+  ], [
+    "312Yf45",
+    "ff0R000",
+    "2R6YfR5",
+    "fY2R1Y0",
+    "3R2YfR5",
+    "fY2R3Y5"
+  ], [
+    "3124f45",
+    "fY0R000",
+    "2R6YfR5",
+    "fY2R1Y0",
+    "3R2YfR5",
+    "fY2R3Y5"
+  ], [
+    "43f3500",
+    "100R1ff",
+    "4RfY500",
+    "4Y0R1ff",
+    "4RfY502",
+    "4Y2R1fY"
+  ], [
+    "43f3500",
+    "100R1ff",
+    "4RfY500",
+    "4Y0R1ff",
+    "4RfY502",
+    "4Y2RYff"
+  ], [
+    "43f3500",
+    "100R1ff",
+    "4RfY500",
+    "4Y0R1ff",
+    "4RfY502",
+    "4YYR1ff"
+  ], [
+    "052Yf00",
+    "f00R0ff",
+    "0R3Yf00",
+    "fY2R1ff",
+    "5R2Y104",
+    "fY2R3ff"
+  ], [
+    "0524f00",
+    "f00R0ff",
+    "0R3Yf00",
+    "fY2R1ff",
+    "5R2Y104",
+    "YY2R3ff"
+  ], [
     "fffffff",
-    "222R222",
-    "fffRfff",
-    "Y22YfR5",
-    "YffR4Y0"
-  ], [
-    "2222222",
-    "fffffff",
-    "222R222",
-    "fffRfff",
-    "412YfR1",
-    "YYfR3Y0"
-  ], [
-    "2222222",
-    "fffffff",
-    "222R222",
-    "fffRfff",
-    "123YfR1",
-    "YfYR3Y0"
-  ], [
-    "2221222",
-    "fffYfff",
-    "222R222",
-    "fffRfff",
-    "122YfR5",
-    "YffR3Y0"
-  ], [
-    "2222222",
-    "fffffff",
-    "222R222",
-    "fffRfff",
-    "522YfR4",
-    "YffRYY4"
-  ], [
-    "2222222",
-    "fffffff",
-    "222R232",
-    "fffRfYf",
-    "122Y4R3",
-    "YffR1Y0"
-  ], [
-    "502Y400",
-    "fffRfff",
-    "51fR400",
-    "203R3ff",
-    "5RfY410",
-    "YY3R4Yf"
-  ], [
-    "222Y222",
-    "fffRfff",
-    "212R222",
     "fYfRfff",
-    "4RfY212",
-    "4Y5RfYf"
+    "fRfYfff",
+    "fYfRfff",
+    "fRfYfYf",
+    "fYfR0Rf"
   ], [
-    "222Y222",
+    "fffYfff",
+    "fYfRfff",
+    "fRfYfff",
+    "fYfRfff",
+    "fRfYfff",
+    "fYfR0Rf"
+  ], [
+    "04f14f0",
+    "fYfRfff",
+    "0RfY1f0",
+    "fYfR00f",
+    "2R2YRf3",
+    "fYfRYRY"
+  ], [
+    "04fY4f0",
+    "fYfRfff",
+    "0RfY1f0",
+    "fYfR00f",
+    "2R2YRf3",
+    "fYfRYR3"
+  ], [
+    "04f14f0",
+    "fYfRfff",
+    "0RfY1f0",
+    "fYfR00f",
+    "2R2YRf3",
+    "fYYRYR3"
+  ], [
+    "0Yf14f0",
+    "fYfRfff",
+    "0RfY1f0",
+    "fYfR00f",
+    "2R2YRf3",
+    "fYfRYR3"
+  ], [
+    "04f14f0",
+    "fYfRfff",
+    "0RfY1f0",
+    "fYfR00f",
+    "2R2YRf3",
+    "YYfRYR3"
+  ], [
+    "f3f0000",
+    "fYfRfff",
+    "fRfY200",
+    "0Y4Rfff",
+    "fR1YRY2",
+    "1Y4RYRf"
+  ], [
+    "f3f0000",
+    "fYfRfff",
+    "fRfY200",
+    "0Y4RYff",
+    "fR1YR22",
+    "1Y4RYRf"
+  ], [
+    "f320000",
+    "0Y1Rfff",
+    "fR4Y502",
+    "0Y4R6f1",
+    "fR4Y015",
+    "3YYR6R2"
+  ], [
+    "fY20000",
+    "0Y1Rfff",
+    "fR4Y502",
+    "0Y4R6f1",
+    "fR4Y015",
+    "3Y4R6R2"
+  ], [
+    "f320000",
+    "0Y1Rfff",
+    "fR4Y502",
+    "0Y4R6f1",
+    "fR4Y015",
+    "YY4R6R2"
+  ], [
+    "0f04000",
     "fffRfff",
-    "222R222",
+    "0f1Y000",
+    "f00Rfff",
+    "2fRY301",
+    "23YRffY"
+  ], [
+    "0003ff0",
+    "fffR00f",
+    "102Yff0",
+    "100R00f",
+    "14RYff0",
+    "14YR2Yf"
+  ], [
+    "0003ff0",
+    "fffR00f",
+    "102Yff0",
+    "100R00f",
+    "14RYff0",
+    "14YRY3f"
+  ], [
+    "000Yff0",
+    "fffR00f",
+    "102Yff0",
+    "100R00f",
+    "14RYff0",
+    "14YR23f"
+  ], [
+    "0003ff0",
+    "fffR00f",
+    "102Yff0",
+    "100R00f",
+    "14RYff0",
+    "1YYR23f"
+  ], [
+    "0003ff0",
+    "fffR00f",
+    "102Yff0",
+    "100R00f",
+    "14RYff0",
+    "Y4YR23f"
+  ], [
+    "0024f20",
+    "ffRR00f",
+    "00RYf61",
+    "ffYR001",
+    "3fRYfR5",
+    "YfYR3YY"
+  ], [
+    "0024f20",
+    "ffRR00f",
+    "00RYf61",
+    "ffYR001",
+    "3fRYfR5",
+    "YfYRYY1"
+  ], [
+    "002Yf20",
+    "ffRR00f",
+    "00RYf61",
+    "ffYR001",
+    "3fRYfR5",
+    "YfYR3Y1"
+  ], [
+    "00Y4f20",
+    "ffRR00f",
+    "00RYf61",
+    "ffYR001",
+    "3fRYfR5",
+    "YfYR3Y1"
+  ], [
+    "0024f20",
+    "ffRR00f",
+    "00RYf61",
+    "ffYR001",
+    "YfRYfR5",
+    "YfYR3Y1"
+  ], [
+    "001R10f",
+    "ffRR1ff",
+    "20RY30f",
+    "2fYR4Y0",
+    "5fRY4Rf",
+    "YfYR4YY"
+  ], [
+    "001R10f",
+    "ffRR1ff",
+    "20RY30f",
+    "2fYR4Y0",
+    "5fRY4Rf",
+    "YfYRYY3"
+  ], [
+    "00YR10f",
+    "ffRR1ff",
+    "20RY30f",
+    "2fYR4Y0",
+    "5fRY4Rf",
+    "YfYR4Y3"
+  ], [
+    "001Rf10",
+    "ffRRf0f",
+    "00RYfY0",
+    "ffYRfYf",
+    "2fRYfR0",
+    "YfYR2Yf"
+  ], [
+    "034R200",
+    "f1RR2ff",
+    "11RY52f",
+    "0fYR3Y0",
+    "6RRY5Rf",
+    "YYYR3YY"
+  ], [
+    "034R200",
+    "f1RR2ff",
+    "11RY52f",
+    "0fYR3Y0",
+    "6RRY5Rf",
+    "YYYRYY4"
+  ], [
+    "03YR200",
+    "f1RR2ff",
+    "11RY52f",
+    "0fYR3Y0",
+    "6RRY5Rf",
+    "YYYR3Y4"
+  ], [
+    "034R200",
+    "f1RR2ff",
+    "11RY52f",
+    "0YYR3Y0",
+    "6RRY5Rf",
+    "YYYR3Y4"
+  ], [
+    "034R200",
+    "f1RR2ff",
+    "11RY52f",
+    "0fYR3Y0",
+    "YRRY5Rf",
+    "YYYR3Y4"
+  ], [
+    "011Rff0",
+    "f0RR02f",
+    "30RYfY0",
+    "f1YR0Yf",
+    "3RRYfR2",
+    "YYYR2Yf"
+  ], [
+    "0f3R10f",
+    "ffRR1ff",
+    "1fRY10f",
+    "RfYR2Y0",
+    "YfRY2Rf",
+    "YfYR2YY"
+  ], [
+    "0f3R10f",
+    "ffRR1ff",
+    "1fRY10f",
+    "RfYR2Y0",
+    "YfRY2Rf",
+    "YfYRYY3"
+  ], [
+    "0fYR10f",
+    "ffRR1ff",
+    "1fRY10f",
+    "RfYR2Y0",
+    "YfRY2Rf",
+    "YfYR2Y3"
+  ], [
+    "0f3R10f",
+    "ffRR1ff",
+    "1fRY10f",
+    "RfYR2Y0",
+    "YfRY2Rf",
+    "YYYR2Y3"
+  ], [
+    "0f3R10f",
+    "ffRR1ff",
+    "YfRY10f",
+    "RfYR2Y0",
+    "YfRY2Rf",
+    "YfYR2Y3"
+  ], [
+    "0f2Rf00",
+    "ffRRf0f",
+    "1fRYfY0",
+    "RfYRfYf",
+    "YfRYfR1",
+    "YfYR2Yf"
+  ], [
+    "0443130",
+    "f0RR00f",
+    "50RYf71",
+    "51YR111",
+    "2RRYfR6",
+    "YYYR7YY"
+  ], [
+    "044Y130",
+    "f0RR00f",
+    "50RYf71",
+    "51YR111",
+    "2RRYfR6",
+    "YYYR7Y6"
+  ], [
+    "04Y3130",
+    "f0RR00f",
+    "50RYf71",
+    "51YR111",
+    "2RRYfR6",
+    "YYYR7Y6"
+  ], [
+    "0443130",
+    "f0RR00f",
+    "50RYf71",
+    "5YYR111",
+    "2RRYfR6",
+    "YYYR7Y6"
+  ], [
+    "0233f10",
+    "ffRR00f",
+    "50RYf71",
+    "55YR0Y4",
+    "2RRYfR6",
+    "YYYR2Y6"
+  ], [
+    "0233f10",
+    "ffRR00f",
+    "50RYf71",
+    "55YR004",
+    "2RRYfR6",
+    "YYYRYY6"
+  ], [
+    "0233f10",
+    "ffRR00f",
+    "50RYf71",
+    "55YR004",
+    "YRRYfR6",
+    "YYYR2Y6"
+  ], [
+    "0ff3310",
+    "f00RR1f",
+    "0ffYR40",
+    "f00RY45",
+    "0ffYR42",
+    "fY2RYY0"
+  ], [
+    "0ff3Y10",
+    "f00RR1f",
+    "0ffYR40",
+    "f00RY45",
+    "0ffYR42",
+    "fY2RY40"
+  ], [
+    "0ffY310",
+    "f00RR1f",
+    "0ffYR40",
+    "f00RY45",
+    "0ffYR42",
+    "fY2RY40"
+  ], [
+    "0335400",
+    "f10RRff",
+    "0ffYRf0",
+    "f23RYff",
+    "621YR44",
+    "6YYRY0f"
+  ], [
+    "0225300",
+    "f20RRff",
+    "16fYR00",
+    "1R1RYff",
+    "1Y7YR55",
+    "6Y4RYfY"
+  ], [
+    "0225300",
+    "f20RRff",
+    "16fYR00",
+    "1R1RYff",
+    "1Y7YR55",
+    "6YYRYff"
+  ], [
+    "0225300",
+    "f20RRff",
+    "16fYR00",
+    "1R1RYff",
+    "1Y7YR55",
+    "YY4RYff"
+  ], [
+    "02f4410",
+    "f00RR1f",
+    "06fYR50",
+    "fR0RY5f",
+    "0YfYR53",
+    "fY3RYY1"
+  ], [
+    "02f4Y10",
+    "f00RR1f",
+    "06fYR50",
+    "fR0RY5f",
+    "0YfYR53",
+    "fY3RY51"
+  ], [
+    "02fY410",
+    "f00RR1f",
+    "06fYR50",
+    "fR0RY5f",
+    "0YfYR53",
+    "fY3RY51"
+  ], [
+    "02f4410",
+    "f00RR1f",
+    "0YfYR50",
+    "fR0RY5f",
+    "0YfYR53",
+    "fY3RY51"
+  ], [
+    "0102132",
+    "f00RRff",
+    "0ffYR02",
+    "f00RYff",
+    "4R5YR22",
+    "YYYRYff"
+  ], [
+    "0ff5402",
+    "f00RR01",
+    "0ffYR62",
+    "f50RY13",
+    "4RfYR63",
+    "YY2RYY0"
+  ], [
+    "0ff5Y02",
+    "f00RR01",
+    "0ffYR62",
+    "f50RY13",
+    "4RfYR63",
+    "YY2RY60"
+  ], [
+    "0ffY402",
+    "f00RR01",
+    "0ffYR62",
+    "f50RY13",
+    "4RfYR63",
+    "YY2RY60"
+  ], [
+    "0ff5402",
+    "f00RR01",
+    "0ffYR62",
+    "fY0RY13",
+    "4RfYR63",
+    "YY2RY60"
+  ], [
+    "0ff5402",
+    "f00RR01",
+    "0ffYR62",
+    "f50RY13",
+    "YRfYR63",
+    "YY2RY60"
+  ], [
+    "02120f0",
     "fffRfff",
-    "5RfY232",
-    "0YYRfYf"
+    "0fRY0f0",
+    "ffYR01f",
+    "11RY0f3",
+    "ffYRYf3"
   ], [
-    "222Y222",
-    "fffRfff",
-    "222R222",
-    "fffRfff",
-    "4RfY112",
-    "3Y5RYYf"
-  ], [
-    "222Y222",
-    "fffRfff",
-    "222R222",
-    "fffRfff",
-    "4RfY2Y2",
-    "4Y5RfYf"
-  ], [
-    "222Y222",
-    "fffRfff",
-    "222R222",
-    "fffRfff",
-    "4RfY253",
-    "0Y5RfYY"
-  ], [
-    "2222222",
-    "fff0fff",
-    "242R222",
-    "f45Rfff",
-    "24RY223",
-    "Y4YRffY"
-  ], [
-    "0142202",
-    "ff00fff",
-    "105R212",
-    "ffYR2ff",
-    "20RYf13",
-    "YfYR4RY"
-  ], [
-    "5412132",
-    "ff10fff",
-    "005Rf02",
-    "ffYR00f",
-    "14RYf12",
-    "fYYR5RY"
-  ], [
-    "2252222",
-    "ffR0fff",
-    "22YR222",
-    "ffYRfff",
-    "12RYf21",
-    "YfYR4RY"
-  ], [
-    "2252222",
-    "ffRffff",
-    "22YR222",
-    "ffYRfff",
-    "21RYf24",
-    "fYYR1RY"
-  ], [
-    "22Y2222",
-    "ffRffff",
-    "22YR222",
-    "ffYRfff",
-    "22RYf23",
-    "ffYR3RY"
-  ], [
-    "2241222",
-    "ffRYfff",
-    "22YR222",
-    "ffYRfff",
-    "22RYf21",
-    "ffYR3RY"
-  ], [
-    "2212222",
-    "ffRffff",
-    "22YR222",
-    "ffYRfff",
-    "22RY521",
-    "ffYRYRY"
-  ], [
-    "2f12222",
-    "f2R0fff",
-    "2fYR222",
-    "42YRfff",
-    "4fRY5Y5",
-    "41YR3RY"
-  ], [
-    "2232222",
-    "ffRffff",
-    "22YR222",
-    "ffYRfff",
-    "22RYf2Y",
-    "ffYR3RY"
-  ], [
-    "22222f2",
-    "fff3f2f",
-    "225R2f2",
-    "ffYRf2f",
-    "22RY2f5",
-    "ffYRYRY"
-  ], [
-    "113Y200",
-    "f10R2ff",
-    "04fR200",
-    "51YR2ff",
-    "04RY2Y1",
-    "54YR0RY"
-  ], [
-    "2242222",
-    "ff4ffff",
-    "225R222",
+    "005Yff0",
+    "ff1Rf0f",
+    "00RYff0",
     "ffYRf3f",
-    "22RYf2Y",
-    "ffYR5RY"
-  ], [
-    "0011003",
-    "fff1fff",
-    "2Y14002",
-    "0R10fff",
-    "YR54103",
-    "YR5RYff"
-  ], [
-    "202f2f1",
-    "0ff1f2f",
-    "f0Y22f1",
-    "ffY0f21",
-    "22R0Rf4",
-    "fRYRY54"
-  ], [
-    "3225004",
-    "2f01ff1",
-    "2f25R04",
-    "3001Yf1",
-    "3fR5RY4",
-    "YYYRYRR"
-  ], [
-    "0322405",
-    "fff1ff1",
-    "03222R5",
-    "f311RY5",
-    "0YffRY5",
-    "fYYRYRR"
-  ], [
-    "3044401",
-    "3f22fff",
-    "30454Y1",
-    "ff021Rf",
-    "30Y5fR1",
-    "ffYR1RY"
-  ], [
-    "2145205",
-    "ff01fff",
-    "3f21225",
-    "30fRYff",
-    "3fRYRY5",
-    "3YYRYRR"
-  ], [
-    "2242250",
-    "ff1ff1f",
-    "2f220R1",
-    "f0fRfYf",
-    "3f0YRY5",
-    "3YYRYRR"
-  ], [
-    "3421100",
-    "300R1ff",
-    "3RfY500",
-    "3Y2R1ff",
-    "3R2Y500",
-    "YY2R5ff"
-  ], [
-    "0155540",
-    "f0ff1f4",
-    "2422212",
-    "5f30f05",
-    "2250R03",
-    "YYYRR12"
-  ], [
-    "2400224",
-    "f4f533f",
-    "3122022",
-    "f3f0f12",
-    "3530R14",
-    "f5YRYRY"
-  ], [
-    "2223545",
-    "f0f4144",
-    "000453f",
-    "ff203ff",
-    "2f10R52",
-    "fYYRYRf"
-  ], [
-    "2102122",
-    "ff0ffff",
-    "4202421",
-    "f1f0Rff",
-    "Yf21R32",
-    "Y4YRYRf"
-  ], [
-    "f221232",
-    "f2fffff",
-    "242f222",
-    "fff0f13",
-    "Y351R23",
-    "YfYRR05"
-  ], [
-    "03b1b8b",
-    "45dRRYe",
-    "c0dYRRa",
-    "3Y0RYY2",
-    "cYfRYRd",
-    "6Y8RYRa"
-  ], [
-    "2c05b5b",
-    "95d0dd9",
-    "94140a0",
-    "9cd4R2e",
-    "9dY6R35",
-    "YeYRYRf"
-  ], [
-    "752b869",
-    "d7a0333",
-    "8b1Rc46",
-    "25aR2fe",
-    "d7YY2eb",
-    "eYYR2R8"
-  ], [
-    "3374660",
-    "9c50168",
-    "eb1Rfd7",
-    "948R0fd",
-    "975Y3Ya",
-    "cYYR4R9"
-  ], [
-    "1973d9b",
-    "410R9Yc",
-    "a2eYeR8",
-    "4YYRfY0",
-    "dRRY6Rb",
-    "YRYRRYb"
-  ], [
-    "c04cc20",
-    "37011e8",
-    "b02Ref0",
-    "196R3fe",
-    "b45Y3bd",
-    "eYYRYRe"
-  ], [
-    "a22102b",
-    "8dfccf5",
-    "a3c84fe",
-    "9ec021c",
-    "93Yd2R7",
-    "YbYRYRR"
-  ], [
-    "1040157",
-    "c42R4Y7",
-    "15YYdR8",
-    "21RR8Y3",
-    "beRYfYR",
-    "c6YR9RY"
-  ], [
-    "e220071",
-    "4ffadda",
-    "e2bb1fc",
-    "7ac000e",
-    "c9b32RY",
-    "YbYRYRR"
-  ], [
-    "905570f",
-    "bdb4af9",
-    "324f590",
-    "deb101b",
-    "915dRY3",
-    "YceRRY3"
-  ], [
-    "142a8b4",
-    "3ce256c",
-    "10221Yd",
-    "5f2R1R5",
-    "a9fYYRe",
-    "cYcRYR4"
-  ], [
-    "2221212",
-    "fffffff",
-    "30222c2",
-    "34f000f",
-    "31142RY",
-    "5YYRRRY"
-  ], [
-    "0003215",
-    "fff03f2",
-    "020R213",
-    "fffR354",
-    "0Y0Y412",
-    "fYfR352"
-  ], [
-    "2421200",
-    "fff0fff",
-    "54f8012",
-    "2400fYf",
-    "54fR3RY",
-    "54YR3RY"
-  ], [
-    "4121203",
-    "fffR2ff",
-    "415Y203",
-    "400R2ff",
-    "4RfY503",
-    "4Y8R6fY"
-  ], [
-    "3421100",
-    "300R1ff",
-    "3RfY500",
-    "3Y2R1ff",
-    "3R2Y5R0",
-    "YY2R5Yf"
-  ], [
-    "a518416",
-    "e3d44bd",
-    "3804627",
-    "c13Rcec",
-    "afRY186",
-    "Y5YRfRY"
-  ], [
-    "8b10723",
-    "e1dfbfe",
-    "4f04b3a",
-    "d13Rccc",
-    "8cRYaYb",
-    "76YReRY"
-  ], [
-    "a211692",
-    "1552698",
-    "c74da2b",
-    "07d85Yd",
-    "cbcR0Rf",
-    "cYeRYRY"
-  ], [
-    "1204680",
-    "584569d",
-    "1ca0Y91",
-    "d20YR9b",
-    "8d5YRRb",
-    "Ya1RRY4"
-  ], [
-    "729b118",
-    "6f535fe",
-    "40755f4",
-    "cfa5f03",
-    "81YYfRd",
-    "aeYRYRR"
-  ], [
-    "7a9Y64b",
-    "199R8e8",
-    "cdRYf10",
-    "e0YR748",
-    "dYRY1fb",
-    "5RYRRYb"
-  ], [
-    "4031022",
-    "ff11fff",
-    "203f952",
-    "ff3100f",
-    "40YfR52",
-    "YfYRR1f"
-  ], [
-    "4c37a51",
-    "74b0f6e",
-    "38071c2",
-    "b14f0Yd",
-    "7d4YRRa",
-    "Y8YRYRR"
-  ], [
-    "a722635",
-    "e0cabce",
-    "5175386",
-    "9ef000e",
-    "98Ye2R5",
-    "dYYRRRY"
-  ], [
-    "673Y83c",
-    "541R001",
-    "96YYcRe",
-    "82RRfYa",
-    "9dRYfYR",
-    "bdYRaRY"
-  ], [
-    "14db700",
-    "fb012fe",
-    "0f0R237",
-    "e11R5ec",
-    "4e2Y6ab",
-    "Y9YR6ee"
-  ], [
-    "1d7b445",
-    "e24297d",
-    "cd5R035",
-    "f12Rbed",
-    "Yf5Y68a",
-    "Y85R1fe"
-  ], [
-    "4d6f831",
-    "e9402fe",
-    "0d4R648",
-    "d05R7ff",
-    "9e4Y7ac",
-    "Yb5R1dY"
-  ], [
-    "478a251",
-    "d663ffc",
-    "7754182",
-    "edd4b00",
-    "978YeRb",
-    "YfYRYRR"
-  ], [
-    "5eb0421",
-    "617f3ee",
-    "4e13212",
-    "722Refd",
-    "8dRYa9a",
-    "6YYRfRY"
-  ], [
-    "6757608",
-    "4e025ed",
-    "9514038",
-    "a1cR1fe",
-    "afRY0dd",
-    "abYRYRY"
-  ], [
-    "8515764",
-    "91e234b",
-    "a7eY3Rc",
-    "a00R0Y0",
-    "afeRYRc",
-    "bYYRYRd"
-  ], [
-    "2004400",
-    "2ff3fff",
-    "2021fa2",
-    "3ff3001",
-    "40Y5fRY",
-    "3fYRYRR"
-  ], [
-    "0004202",
-    "fff12ff",
-    "0004f65",
-    "fff1201",
-    "002YfR5",
-    "ffYR3RY"
-  ], [
-    "7506b31",
-    "6e338d8",
-    "04eeRdc",
-    "cda7Ydc",
-    "c3R2R3f",
-    "Y4YRYRY"
-  ], [
-    "60244da",
-    "2be9853",
-    "d5d8Rac",
-    "c2e9Y1c",
-    "9dR5R6a",
-    "cYYRYRY"
-  ], [
-    "f2733c2",
-    "e17dc5f",
-    "7eb6Rf1",
-    "6bYaYef",
-    "ecR1R26",
-    "43YRYRY"
-  ], [
-    "4e32a4f",
-    "ef0f723",
-    "7e60R23",
-    "2192Ye7",
-    "82RYRba",
-    "c8YRYRY"
-  ], [
-    "c965d50",
-    "1275Y3e",
-    "4684Rca",
-    "e3c8Y52",
-    "3fR3R67",
-    "f4YRYRY"
-  ], [
-    "3495a00",
-    "ee6fb1c",
-    "229dR39",
-    "bc44Ycf",
-    "31ReRYa",
-    "e1YRYRY"
-  ], [
-    "0c52043",
-    "358350f",
-    "3054Rf4",
-    "bfa8Y69",
-    "c1R4RcY",
-    "60YRYRY"
-  ], [
-    "5720815",
-    "eb64cf3",
-    "8043220",
-    "cfR3bdf",
-    "82YeR73",
-    "YbYRYRb"
-  ], [
-    "664a710",
-    "5a1388d",
-    "612a023",
-    "cdR15d5",
-    "26YfR40",
-    "eYYRYRd"
-  ], [
-    "5960645",
-    "e9f224f",
-    "39Yc640",
-    "d0R040d",
-    "39YeRb1",
-    "f9YRYRd"
-  ], [
-    "d763897",
-    "8e7104e",
-    "5045e43",
-    "ecR03b9",
-    "0eYYRf9",
-    "cbYRYR9"
-  ], [
-    "2222222",
-    "fffffff",
-    "2222122",
-    "ffRfYff",
-    "22Y4R12",
-    "ffYRYRf"
-  ], [
-    "2222222",
-    "fffffff",
-    "2222122",
-    "ffRfdff",
-    "22Y5RY2",
-    "ffYRYRf"
-  ], [
-    "2222222",
-    "fffffff",
-    "2222222",
-    "ffRffff",
-    "22Y4R11",
-    "ffYRYRY"
-  ], [
-    "a622422",
-    "af303ee",
-    "a04R305",
-    "947R3fe",
-    "8RfYb14",
-    "YYdRYee"
-  ], [
-    "418f327",
-    "8b7130c",
-    "a4cR607",
-    "bYeR6eb",
-    "9ReY807",
-    "2Y5RYdb"
-  ], [
-    "2222222",
-    "fff0fff",
-    "222R522",
-    "fffR5ff",
-    "4RfY522",
-    "4YYRYff"
-  ], [
-    "2221422",
-    "fffY4ff",
-    "222R422",
-    "fffR3ff",
-    "5RfY922",
-    "0Y1RYff"
-  ], [
-    "3522406",
-    "9f007d6",
-    "320R831",
-    "b95Rbbf",
-    "4RfYY01",
-    "3Y5RYed"
-  ], [
-    "222a222",
-    "fff9fff",
-    "222R222",
+    "44RYf32",
+    "ffYR602"
+  ], [
+    "0054ff0",
+    "ff1Rf0f",
+    "00RYff0",
+    "ffYRf3f",
+    "44RYf32",
+    "fYYR602"
+  ], [
+    "0054ff0",
+    "ff1Rf0f",
+    "00RYff0",
+    "ffYRf3f",
+    "44RYf32",
+    "YfYR602"
+  ], [
+    "0053f4f",
+    "ffYRf10",
+    "00RYf0f",
+    "ffYR020",
+    "44RYf0f",
+    "ffYR601"
+  ], [
+    "fffYfff",
     "fffRfff",
-    "4RfY112",
-    "3Y5RYYf"
-  ], [
-    "684e206",
-    "565R8ca",
-    "782Yb12",
-    "71aR5f8",
-    "3f2Y0c9",
-    "YeYR6R0"
-  ], [
-    "202aa07",
-    "ccd80c5",
-    "1204ab7",
-    "9e9R363",
-    "02YY90b",
-    "fcYRYRR"
-  ], [
-    "302Y214",
-    "ff2Rfff",
-    "302R514",
-    "ff2R004",
-    "305YfR4",
-    "Yf6R8YY"
-  ], [
-    "3077Y70",
-    "beR6R2e",
-    "40Y8Y60",
-    "cdR5YYe",
-    "10R8RY7",
-    "9aYRYRR"
-  ], [
-    "315Y853",
-    "4f4R12e",
-    "9dRY44a",
-    "60YRdY1",
-    "cdRYRYb",
-    "3RYRRY7"
-  ], [
-    "0303c05",
-    "f1a10ba",
-    "002YcY6",
-    "eY7R0R7",
-    "0R9YdR8",
-    "eY5RYR4"
-  ], [
-    "111Y213",
-    "df9R3c9",
-    "114Y370",
-    "eb2Ra15",
-    "64RY8a1",
-    "bRYRRYY"
-  ], [
-    "2406997",
-    "b8f3R5f",
-    "217aY71",
-    "bfcRYYd",
-    "20RYRYc",
-    "beYRYRR"
-  ], [
-    "003Y035",
-    "fccRcc8",
-    "11bY6a4",
-    "eaYR332",
-    "01RY0d7",
-    "ccYRR96"
-  ], [
-    "0005200",
-    "bf93Rce",
-    "401aY00",
-    "4c73Y9d",
-    "38RcRY2",
-    "Y6YRYRR"
-  ], [
-    "965Y574",
-    "21YR2ea",
-    "ccRY18a",
-    "03YR4ef",
-    "cdRY4b1",
-    "6RYRRYf"
-  ], [
-    "4b75623",
-    "412R1Yd",
-    "4RfYeRd",
-    "4Y2R3Yc",
-    "6R7Y3Rc",
-    "YY7RRYd"
-  ], [
-    "20b6897",
-    "ee4a4d7",
-    "0824dYb",
-    "fd4R3R4",
-    "0Y1YcR3",
-    "dYbRYR5"
-  ], [
-    "315725a",
-    "8ec9cc1",
-    "81883a9",
-    "8ec000a",
-    "b6Yc3R7",
-    "bYYRYRR"
-  ], [
-    "d667566",
-    "6cccccc",
-    "c06a956",
-    "6c73Ybc",
-    "c811R45",
-    "Y2aRRYb"
-  ], [
-    "163Y628",
-    "8b3Ra49",
-    "31RY137",
-    "10YR545",
-    "3YRYRY9",
-    "9RYRRY7"
-  ], [
-    "0024000",
-    "ccdRccc",
-    "1a3Y900",
-    "853R7cc",
-    "6YbYR94",
-    "aYYRYRR"
-  ], [
-    "2201262",
-    "fccRc8e",
-    "22bY473",
-    "ccYR375",
-    "12RY3d9",
-    "YcYRRa4"
-  ], [
-    "44b7521",
-    "fef8fff",
-    "3d0Y221",
-    "f30Rfff",
-    "cdRY71a",
-    "96YRdRY"
-  ], [
-    "a730756",
-    "2dc021d",
-    "894bYRc",
-    "8c0YRYY",
-    "8YRRRYR",
-    "6YYRYRR"
-  ], [
-    "82785bc",
-    "4f0Y35a",
-    "417R91a",
-    "9dYR713",
-    "2bRYe4c",
-    "d6YR7RY"
-  ], [
-    "7964b89",
-    "ff14263",
-    "28ad2Yc",
-    "fe01RR3",
-    "7Ye1YR5",
-    "fYYRRRY"
-  ], [
-    "805Y4bb",
-    "2c2R02f",
-    "703Y8ac",
-    "2f3R4Y1",
-    "6dRYRY9",
-    "7RYRRYe"
-  ], [
-    "74fa2ff",
-    "0bc586a",
-    "5a4ac30",
-    "c0426f5",
-    "5RR1798",
-    "fRYRYYY"
-  ], [
-    "2222222",
-    "fffffff",
-    "22f2222",
-    "40f3fff",
-    "4RR35Y2",
-    "5RYRYYf"
-  ], [
-    "894b159",
-    "2706a3b",
-    "d241168",
-    "40417d7",
-    "2RReY60",
-    "aRYRYYc"
-  ], [
-    "0874647",
-    "f5dbe04",
-    "5d851a9",
-    "f010R24",
-    "3dcYRRa",
-    "fYYRYRY"
-  ], [
-    "9595aaa",
-    "d7851bd",
-    "77304a6",
-    "bYR0438",
-    "9RRYcd2",
-    "eRYRYYd"
-  ], [
-    "1505840",
-    "eafe9df",
-    "37Y4840",
-    "e0R19cd",
-    "6RRYc26",
-    "bRYRYYb"
-  ], [
-    "0740230",
-    "fdffddf",
-    "0a21830",
-    "f5RYcef",
-    "6RRYb60",
-    "9RYRYYd"
-  ], [
-    "2244230",
-    "ccb4d9e",
-    "2614221",
-    "85R17ae",
-    "3RRYY70",
-    "6RYRYYf"
-  ], [
-    "2013420",
-    "fefdbcc",
-    "2753650",
-    "e0R3a8f",
-    "9RRYbY0",
-    "7RYRYYf"
-  ], [
-    "1355211",
-    "cac9ccc",
-    "1556111",
-    "b4R0bcd",
-    "5RRY850",
-    "7RYRYYY"
-  ], [
-    "4277527",
-    "5f32992",
-    "881a61a",
-    "42Y04e2",
-    "bRR1c8e",
-    "1RYRYYd"
-  ], [
-    "68bb756",
-    "ee209e0",
-    "4349b0d",
-    "6Y62a51",
-    "9RR0ccf",
-    "aRYRYYc"
-  ], [
-    "2310565",
-    "fbedacc",
-    "1024784",
-    "fea793b",
-    "6980RR8",
-    "dYYRYRY"
-  ], [
-    "6457454",
-    "bf20Rce",
-    "3919Y04",
-    "3102Ycd",
-    "Y8RaRYY",
-    "R9YRYRR"
-  ], [
-    "3374647",
-    "c5R9987",
-    "03Y7966",
-    "baY1520",
-    "YYR4R75",
-    "RRYRYYR"
-  ], [
-    "1141511",
-    "8888R88",
-    "1101Y21",
-    "88Y8Y78",
-    "30R6RYY",
-    "R7YRYRR"
-  ], [
-    "1a57644",
-    "9c10R9f",
-    "1649Y54",
-    "2b30Yde",
-    "18RYRYY",
-    "R7YRYRR"
-  ], [
-    "1034Y10",
-    "9fb4Rae",
-    "301bY02",
-    "6c74Ydc",
-    "48RaRYY",
-    "R5YRYRR"
-  ], [
-    "0016330",
-    "cfb4R2e",
-    "400aY00",
-    "5b81YYb",
-    "59RdRYY",
-    "R7YRYRR"
-  ], [
-    "8b58527",
-    "d112Ref",
-    "423aY07",
-    "4601YdY",
-    "49RcRYY",
-    "RbYRYRR"
-  ], [
-    "13c216c",
-    "9d5f379",
-    "eR45039",
-    "bYR4f5e",
-    "aYR5Ybc",
-    "RRYRYdY"
-  ], [
-    "2222222",
-    "fffffff",
-    "22223R2",
-    "ffYfRYf",
-    "22Y4RY3",
-    "ffYRYRR"
-  ], [
-    "0022402",
-    "fff2fff",
-    "04220R2",
-    "f0f2RYf",
-    "0fYYRY3",
-    "f9YRYRR"
-  ], [
-    "9118961",
-    "dcbb235",
-    "721dYRa",
-    "e410RY5",
-    "0cYcRY8",
-    "f4YRYRR"
-  ], [
-    "0212110",
-    "fbe6eYd",
-    "09220R4",
-    "f3a8RY5",
-    "07Y2RY4",
-    "acYRYRR"
-  ], [
-    "0322201",
-    "fbe8ffd",
-    "06230R5",
-    "f6a7RY9",
-    "06Y4RYY",
-    "fcYRYRR"
-  ], [
-    "2044202",
-    "ff01fff",
-    "5YfY002",
-    "1RfRfff",
-    "5RfY2R3",
-    "YRRRYYY"
-  ], [
-    "0303c05",
-    "f1a10ba",
-    "002YcY6",
-    "eY7R0R7",
-    "0R9YdR8",
-    "eYYRRRY"
-  ], [
-    "2435222",
-    "ff3ffff",
-    "223Y2Y2",
-    "ff3RfRf",
-    "2RYYfR5",
-    "fYYRRRY"
-  ], [
-    "439R592",
-    "ce1Ybe7",
-    "6YaY122",
-    "0RaR118",
-    "aRdYbR2",
-    "YRRRYYY"
-  ], [
-    "42bR825",
-    "090Y91a",
-    "828Y8Y3",
-    "cY6ReR1",
-    "1RbYfR7",
-    "dYYRRRY"
-  ], [
-    "205R000",
-    "ee7Y9ba",
-    "301Y0Y4",
-    "fd7R6R6",
-    "0RYYbR8",
-    "cYYRRRY"
-  ], [
-    "323R603",
-    "ffcYc7f",
-    "306Y5Y1",
-    "edaR9Rb",
-    "4R9YYR8",
-    "eYYRRRY"
-  ], [
-    "486R3a4",
-    "774Y2Yf",
-    "2a0YbY1",
-    "723RcR1",
-    "5RdYeRb",
-    "9YYRRRY"
-  ], [
-    "369R237",
-    "eebYaed",
-    "935Y1Y0",
-    "ed8RcR4",
-    "7R7YeRY",
-    "fYYRRRY"
-  ], [
-    "0023702",
-    "fff78af",
-    "006Y5Y1",
-    "efdR7Rc",
-    "4RbYYR9",
-    "eYYRRRY"
-  ], [
-    "3136762",
-    "ccb08Yc",
-    "003Y9Y7",
-    "dbaRaR4",
-    "0R5YaR8",
-    "bYYRRRY"
-  ], [
-    "2075103",
-    "ffa8dff",
-    "007Y2Y4",
-    "ffbRcR6",
-    "0R9YeRY",
-    "fYYRRRY"
-  ], [
-    "c7dba4a",
-    "ddcd7ba",
-    "3b9a2Y6",
-    "e4d0cRf",
-    "Y5564R9",
-    "Y6YRRRY"
-  ], [
-    "2442222",
-    "fffffff",
-    "2Y22222",
-    "3Rf1fff",
-    "3R12454",
-    "YRRRYYY"
-  ], [
-    "903555b",
-    "80f77f4",
-    "93076Yb",
-    "6ef21Rd",
-    "a0Yd0R4",
-    "YcYRRRY"
-  ], [
-    "0007301",
-    "ffe26db",
-    "00055Y1",
-    "fca0aR2",
-    "304Y9R8",
-    "Y9YRRRY"
-  ], [
-    "0235426",
-    "fce3bdd",
-    "0367RY4",
-    "Y913RR7",
-    "Y589YR6",
-    "YaYRRRY"
-  ], [
-    "7048510",
-    "fec4fcf",
-    "9YRb820",
-    "6RR36df",
-    "aRYea2Y",
-    "YRRRYYY"
-  ], [
-    "0259327",
-    "fdf4eff",
-    "14aaRY6",
-    "fb08RRc",
-    "Y6YeYR8",
-    "YcYRRRY"
-  ], [
-    "012a513",
-    "fff8eff",
-    "037bRY4",
-    "fd50RRd",
-    "Y6bYYR9",
-    "YcYRRRY"
-  ], [
-    "0239726",
-    "fce2Ydd",
-    "025aRY3",
-    "ea12RRb",
-    "Y46bYR5",
-    "Y8YRRRY"
-  ], [
-    "035b227",
-    "fff6fYf",
-    "158dRY8",
-    "fd06RR9",
-    "Y4aeYRa",
-    "YcYRRRY"
-  ], [
-    "0226234",
-    "edc5bbb",
-    "0256RY5",
-    "f915RR6",
-    "Y678YRY",
-    "YaYRRRY"
-  ], [
-    "0166207",
-    "fdf9eff",
-    "02857Y4",
-    "fd39RRc",
-    "42YbYRa",
-    "YbYRRRY"
-  ], [
-    "0000301",
-    "fce84de",
-    "00657Y0",
-    "fb20RRa",
-    "908YYR7",
-    "Y8YRRRY"
-  ], [
-    "0004300",
-    "ebd5add",
-    "0054YY2",
-    "fc14RR6",
-    "0179YR8",
-    "YaYRRRY"
-  ], [
-    "0243316",
-    "fde5cYe",
-    "02874Y4",
-    "fc04RR9",
-    "12abYR9",
-    "YaYRRRY"
-  ], [
-    "7b66eea",
-    "7f9728a",
-    "c3965Yd",
-    "4f00RR3",
-    "c16fYRY",
-    "YfYRRRY"
-  ], [
-    "346c537",
-    "fff9fYe",
-    "454c5Y5",
-    "fd711R2",
-    "80ab2R8",
-    "YeYRRRY"
-  ], [
-    "200b308",
-    "fff7fff",
-    "410c6Y6",
-    "fee3cR9",
-    "Y95aRRY",
-    "YdYRRRY"
-  ], [
-    "6307200",
-    "eeedeee",
-    "9Y69410",
-    "aRdbdee",
-    "YRRc588",
-    "YRRRYYY"
-  ], [
-    "5016102",
-    "dfdabff",
-    "301a4Y5",
-    "ffc08R7",
-    "92Y7RRY",
-    "YeYRRRY"
-  ], [
-    "5028605",
-    "ffe9cff",
-    "301baYa",
-    "ffe2dR0",
-    "748YRRY",
-    "YdYRRRY"
-  ], [
-    "9464538",
-    "24601a8",
-    "617dbYe",
-    "2492YR0",
-    "f7ceRRY",
-    "YeYRRRY"
-  ], [
-    "2009073",
-    "fffcfYf",
-    "100b3Y6",
-    "ffe5dRa",
-    "8946RRY",
-    "YcYRRRY"
-  ], [
-    "45e0c13",
-    "8b14d49",
-    "00c4232",
-    "80aRa97",
-    "6R9Y56Y",
-    "2RfRYeY"
-  ], [
-    "2222222",
-    "fffffff",
-    "2222222",
+    "fffYfff",
     "fffRfff",
-    "3R5Y113",
-    "0RbRYYY"
+    "fffYfff",
+    "f0RR1Yf"
   ], [
-    "9549954",
-    "b7024f6",
-    "2423614",
-    "b13Rfe8",
-    "aRcYY36",
-    "0R5RYfY"
+    "fffYfff",
+    "fffRfff",
+    "fffYfff",
+    "fffRfff",
+    "ffYYfff",
+    "f0RR10f"
   ], [
-    "8827529",
-    "c6224f3",
-    "1aeY209",
-    "10cR6eb",
-    "aReYd04",
-    "5R3RYeY"
+    "fffYfff",
+    "fffRfff",
+    "fffYfff",
+    "fffRfff",
+    "fffYfff",
+    "Y0RR10f"
   ], [
-    "cb0b9a9",
-    "fdd2872",
-    "34d200a",
-    "500Rdd6",
-    "cRdY418",
-    "3RYRYeY"
+    "0f0Y000",
+    "fffRfff",
+    "0f1Y000",
+    "f00Rfff",
+    "3fRY201",
+    "32YRRfY"
   ], [
-    "2654372",
-    "bde8cad",
-    "4911070",
-    "aY7R88e",
-    "9R8Y376",
-    "RRYRYaY"
+    "003Y000",
+    "ff3Rfff",
+    "020Y2f0",
+    "f20R21f",
+    "47RYff1",
+    "45YRRYf"
   ], [
-    "0026602",
-    "ffa12dc",
-    "20069Y3",
-    "eebRcR5",
-    "204YbR7",
-    "Y8YR4RY"
+    "003Y000",
+    "ff3Rfff",
+    "020Y2f0",
+    "f20R21f",
+    "47RYYf1",
+    "45YRR6f"
+  ], [
+    "003Y000",
+    "ff3Rfff",
+    "020Y2f0",
+    "f20R21f",
+    "47RYff1",
+    "4YYRR6f"
+  ], [
+    "000Y0f0",
+    "fffRfff",
+    "005Y3f1",
+    "ffYR121",
+    "00RY0f3",
+    "ffYRR43"
+  ], [
+    "000Yf00",
+    "fffRfff",
+    "003Yf42",
+    "ff1Rf02",
+    "34RY5f0",
+    "fRYRRYY"
+  ], [
+    "000Yf00",
+    "fffRfff",
+    "003Yf42",
+    "ff1Rf02",
+    "34RYYf0",
+    "fRYRRYf"
+  ], [
+    "000Yf00",
+    "fffRfff",
+    "003Yf42",
+    "ff1Rf02",
+    "3YRY5f0",
+    "fRYRRYf"
+  ], [
+    "000Yf00",
+    "fffRfff",
+    "003Yf42",
+    "ff1Rf02",
+    "34RY5f0",
+    "YRYRRYf"
+  ], [
+    "053Y520",
+    "f11R2ff",
+    "6ffY200",
+    "113R07f",
+    "6YRYRf4",
+    "6YRRYRY"
+  ], [
+    "053Y520",
+    "f11R2ff",
+    "6ffY200",
+    "113R07f",
+    "6YRYRY4",
+    "6YRRYR4"
+  ], [
+    "053Y520",
+    "f11R2ff",
+    "6ffY200",
+    "1Y3R07f",
+    "6YRYRf4",
+    "6YRRYR4"
+  ], [
+    "053Y520",
+    "f11R2ff",
+    "6ffY200",
+    "113R07f",
+    "6YRYRf4",
+    "YYRRYR4"
+  ], [
+    "052Y254",
+    "f31Rff4",
+    "63fYRf6",
+    "134RY01",
+    "7YRYRf6",
+    "7YRRYRY"
+  ], [
+    "052Y254",
+    "f31RYf4",
+    "63fYRf6",
+    "134RY01",
+    "7YRYRf6",
+    "7YRRYR4"
+  ], [
+    "054Y406",
+    "720Rff1",
+    "76fYRf6",
+    "024RY23",
+    "7YRYRY6",
+    "7YRRYR3"
+  ], [
+    "054Y406",
+    "720Rff1",
+    "76fYRf6",
+    "0Y4RY23",
+    "7YRYRf6",
+    "7YRRYR3"
+  ], [
+    "054Y406",
+    "720Rff1",
+    "76fYRf6",
+    "024RY23",
+    "7YRYRf6",
+    "YYRRYR3"
+  ], [
+    "6f4Y341",
+    "01fR02f",
+    "6fRYf65",
+    "01YR325",
+    "6fRY065",
+    "1RYRRYY"
+  ], [
+    "0f3Y100",
+    "ff3R0ff",
+    "0fRYf00",
+    "f0YR1ff",
+    "2fRYY40",
+    "0RYRRYf"
+  ], [
+    "441Y150",
+    "2fYR03f",
+    "7fRYf55",
+    "24YR036",
+    "7fRYR76",
+    "2RYRRYY"
+  ], [
+    "441Y150",
+    "2fYR03f",
+    "7fRYf55",
+    "24YR036",
+    "7fRYR76",
+    "YRYRRY6"
+  ], [
+    "50YY320",
+    "0fYR154",
+    "77RYff4",
+    "10YR124",
+    "70RYRf4",
+    "fRYRRY6"
+  ], [
+    "503Y320",
+    "0fYR154",
+    "77RYff4",
+    "10YR124",
+    "7YRYRf4",
+    "fRYRRY6"
+  ], [
+    "135Y300",
+    "405R0ff",
+    "ffRYf40",
+    "20YR32f",
+    "fYRY176",
+    "fRYRRY6"
+  ], [
+    "135Y300",
+    "405R0ff",
+    "ffRYf40",
+    "20YR32f",
+    "ffRY176",
+    "YRYRRY6"
   ]
 ]
